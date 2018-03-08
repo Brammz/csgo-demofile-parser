@@ -1,4 +1,4 @@
-# CSGO Demo Visualizer
+# CSGO Demo Parser
 
 This is a Node.js project used for parsing CSGO demo-files to json-files.
 
