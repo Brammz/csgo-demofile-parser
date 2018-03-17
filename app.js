@@ -606,16 +606,12 @@ function parseEconomy() {
  * @returns
  *	{
  *		time: {
- *			team: {
- *				infernos: [
- *					{
- *						type,
- *						x,
- *						y,
- *						z
- *					},
- *				],
- *			},
+ *			terroristKills,
+ *			terroristDeaths,
+ *			terroristGrenades,
+ *			ctKills,
+ *			ctDeaths,
+ *			ctGrenades
  *		},
  *	}
  */
@@ -625,6 +621,14 @@ function parseHeatMap() {
 		assert.ifError(err);
 
 		let demoFile = new demofile.DemoFile();
+
+		let terroristKills = [];
+		let terroristDeaths = [];
+		let terroristGrenades = [];
+		let ctKills = [];
+		let ctDeaths = [];
+		let ctGrenades = [];
+
 		let teamT;
 		let teamCT;
 
@@ -633,41 +637,13 @@ function parseHeatMap() {
 			teamCT = demoFile.teams[demofile.TEAM_CTS];
 		});
 
-		demoFile.gameEvents.on('inferno_startburn', e => {
-			let grenade = demoFile.entities.entities[e.entityid];
-			let type = grenade.classname;
-			let position = grenade.position;
-			let thrower = grenade.owner;
-
-			let time = Math.ceil(demoFile.currentTime);
-			json[time] = {};
-			json[time][teamT.clanName] = {};
-			json[time][teamT.clanName]['infernos'] = [];
-			json[time][teamT.clanName]['infernos'].push({
-				'type': type,
-				'x': position.x,
-				'y': position.y,
-				'z': position.z
-			});
-			json[time][teamCT.clanName] = {};
-			json[time][teamCT.clanName]['infernos'] = [];
-			json[time][teamCT.clanName]['infernos'].push({
-				'type': type,
-				'x': position.x,
-				'y': position.y,
-				'z': position.z
-			});
-			//console.log('inferno (%s) thrown by %s at %s', type, thrower.name, position);
-    });
-
-		/*
 		demoFile.gameEvents.on('player_death', e => {
 			let attacker = demoFile.entities.getByUserId(e.attacker);
 			let victim = demoFile.entities.getByUserId(e.userid);
 			if (victim && attacker) {
 				let killPosition = attacker.position;
 				let deathPostiion = victim.position;
-				console.log('%s killed %s at position [%s,%s,%s] ([%s,%s,%s])', attacker.name, victim.name, killPosition.x, killPosition.y, killPosition.z,  deathPostiion.x, deathPostiion.y, deathPostiion.z);
+				console.log('%s at (%s, %s, %s) killed %s at (%s, %s, %s)', attacker.name, victim.name, killPosition.x, killPosition.y, killPosition.z,  deathPostiion.x, deathPostiion.y, deathPostiion.z);
 			}
     });
 
@@ -676,22 +652,8 @@ function parseHeatMap() {
 			let grenade = demoFile.entities.entities[e.entityid];
 			if (thrower && grenade) {
 				let throwerPosition = thrower.position;
-				let grenadePostiion = grenade.position;
-				console.log('%s threw a grenade from position [%s,%s,%s] to position [%s,%s,%s])', thrower.name, throwerPosition.x, throwerPosition.y, throwerPosition.z,  grenadePostiion.x, grenadePostiion.y, grenadePostiion.z);
-			}
-    });
-
-		// TODO
-		demoFile.gameEvents.on('flashbang_detonate', e => {
-			let thrower = demoFile.entities.getByUserId(e.userid);
-			let grenade = demoFile.entities.entities[e.entityid];
-			let throwerPosition = thrower.position;
-			let grenadePostiion = grenade.position;
-			console.log('%s threw a flashbang from position [%s,%s,%s] to position [%s,%s,%s])', thrower.name, throwerPosition.x, throwerPosition.y, throwerPosition.z,  grenadePostiion.x, grenadePostiion.y, grenadePostiion.z);
-			if (thrower && grenade) {
-				let throwerPosition = thrower.position;
-				let grenadePostiion = grenade.position;
-
+				let grenadePosition = grenade.position;
+				console.log('%s threw a grenade at position (%s, %s, %s)', thrower.name,  grenadePosition.x.toFixed(2), grenadePosition.y.toFixed(2), grenadePosition.z.toFixed(2));
 			}
     });
 
@@ -700,22 +662,45 @@ function parseHeatMap() {
 			let grenade = demoFile.entities.entities[e.entityid];
 			if (thrower && grenade) {
 				let throwerPosition = thrower.position;
-				let grenadePostiion = grenade.position;
-				console.log('%s threw a smoke grenade from position [%s,%s,%s] to position [%s,%s,%s])', thrower.name, throwerPosition.x, throwerPosition.y, throwerPosition.z,  grenadePostiion.x, grenadePostiion.y, grenadePostiion.z);
+				let grenadePosition = grenade.position;
+				console.log('%s threw a smoke at position (%s, %s, %s)', thrower.name,  grenadePosition.x.toFixed(2), grenadePosition.y.toFixed(2), grenadePosition.z.toFixed(2));
 			}
     });
 
-		// TODO
+		demoFile.gameEvents.on('flashbang_detonate', e => {
+			let thrower = demoFile.entities.getByUserId(e.userid);
+			let grenade = demoFile.entities.entities[e.entityid];
+			if (thrower && grenade) {
+				let throwerPosition = thrower.position;
+				let grenadePosition = grenade.position;
+				console.log('%s threw a flashbang at position (%s, %s, %s)', thrower.name,  grenadePosition.x.toFixed(2), grenadePosition.y.toFixed(2), grenadePosition.z.toFixed(2));
+			}
+    });
+
 		demoFile.gameEvents.on('decoy_detonate', e => {
 			let thrower = demoFile.entities.getByUserId(e.userid);
 			let grenade = demoFile.entities.entities[e.entityid];
 			if (thrower && grenade) {
 				let throwerPosition = thrower.position;
-				let grenadePostiion = grenade.position;
-				console.log('%s threw a decoy grenade from position [%s,%s,%s] to position [%s,%s,%s])', thrower.name, throwerPosition.x, throwerPosition.y, throwerPosition.z,  grenadePostiion.x, grenadePostiion.y, grenadePostiion.z);
+				let grenadePosition = grenade.position;
+				console.log('%s threw a decoy at position (%s, %s, %s)', thrower.name,  grenadePosition.x.toFixed(2), grenadePosition.y.toFixed(2), grenadePosition.z.toFixed(2));
 			}
     });
-		*/
+
+		demoFile.gameEvents.on('inferno_startburn', e => {
+			let grenade = demoFile.entities.entities[e.entityid];
+			let grenadePosition = grenade.position;
+			let thrower = grenade.owner;
+			let team
+			if (teamT.members.indexOf(thrower) != -1) {
+				team = 'T';
+			} else {
+				team = 'CT';
+			}
+			if (grenade && thrower && grenade.serverClass.name === 'CInferno') {
+				console.log('%s threw a molotov at position (%s, %s, %s)', thrower.name,  grenadePosition.x.toFixed(2), grenadePosition.y.toFixed(2), grenadePosition.z.toFixed(2));
+			}
+    });
 
 		demoFile.on('end', () => {
 			let fileName = demoPath.substring(0, demoPath.length-4) + '-heatmap.json';
@@ -755,7 +740,37 @@ function parseHeatMap() {
  *	]
  */
 function parsePathingMap() {
+	fs.readFile(demoPath, function (err, buffer) {
+		assert.ifError(err);
 
+		let demoFile = new demofile.DemoFile();
+
+		demoFile.gameEvents.on('buymenu_close', e => {
+			console.log('buymenu_close');
+    });
+
+		demoFile.gameEvents.on('buytime_ended', e => {
+			console.log('buytime_ended');
+    });
+
+		demoFile.gameEvents.on('exit_buyzone', e => {
+			console.log('exit_buyzone');
+    });
+
+		demoFile.gameEvents.on('inspect_weapon', e => {
+			console.log('inspect_weapon');
+    });
+
+		demoFile.gameEvents.on('item_purchase', e => {
+			console.log('item_purchase');
+    });
+
+		demoFile.gameEvents.on('round_poststart', e => {
+			console.log('round_poststart');
+    });
+
+		demoFile.parse(buffer);
+	});
 }
 
 function parseAll() {
@@ -763,13 +778,13 @@ function parseAll() {
 		console.log('Please provide a path to your replay file.');
 	} else {
 		demoPath = process.argv[2];
-		parseRounds();
-		parseScoreboard();
-		parseMoney();
-		parseDamage();
-		parseEconomy();
-		//TODO parseHeatMap();
-		//TODO parsePathingMap();
+		//parseRounds();
+		//parseScoreboard();
+		//parseMoney();
+		//parseDamage();
+		//parseEconomy();
+		parseHeatMap();
+		//parsePathingMap();
 	}
 }
 
