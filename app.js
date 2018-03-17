@@ -826,11 +826,11 @@ function parseAll() {
 		console.log('Please provide a path to your replay file.');
 	} else {
 		demoPath = process.argv[2];
-		//parseRounds();
-		//parseScoreboard();
-		//parseMoney();
-		//parseDamage();
-		//parseEconomy();
+		parseRounds();
+		parseScoreboard();
+		parseMoney();
+		parseDamage();
+		parseEconomy();
 		parseHeatMap();
 		//parsePathingMap();
 	}
