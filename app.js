@@ -621,16 +621,42 @@ function parseHeatMap() {
 		assert.ifError(err);
 
 		let demoFile = new demofile.DemoFile();
+		let teamT;
+		let teamCT;
 
 		let terroristKills = [];
 		let terroristDeaths = [];
 		let terroristGrenades = [];
+		let terroristSmokes = [];
+		let terroristFlashbangs = [];
+		let terroristDecoys = [];
+		let terroristMolotovs = [];
 		let ctKills = [];
 		let ctDeaths = [];
 		let ctGrenades = [];
+		let ctSmokes = [];
+		let ctFlashbangs = [];
+		let ctDecoys = [];
+		let ctMolotovs = [];
 
-		let teamT;
-		let teamCT;
+		function logLocations() {
+			let time = Math.ceil(demoFile.currentTime);
+			json[time] =  {};
+			json[time]['terroristKills'] =  terroristKills.slice(0);
+			json[time]['terroristDeaths'] =  terroristDeaths.slice(0);
+			json[time]['terroristGrenades'] =  terroristGrenades.slice(0);
+			json[time]['terroristSmokes'] =  terroristSmokes.slice(0);
+			json[time]['terroristFlashbangs'] =  terroristFlashbangs.slice(0);
+			json[time]['terroristDecoys'] =  terroristDecoys.slice(0);
+			json[time]['terroristMolotovs'] =  terroristMolotovs.slice(0);
+			json[time]['ctKills'] =  ctKills.slice(0);
+			json[time]['ctDeaths'] =  ctDeaths.slice(0);
+			json[time]['ctGrenades'] =  ctGrenades.slice(0);
+			json[time]['ctSmokes'] =  ctSmokes.slice(0);
+			json[time]['ctFlashbangs'] =  ctFlashbangs.slice(0);
+			json[time]['ctDecoys'] =  ctDecoys.slice(0);
+			json[time]['ctMolotovs'] =  ctMolotovs.slice(0);
+		}
 
 		demoFile.gameEvents.on('round_announce_match_start', () => {
 			teamT = demoFile.teams[demofile.TEAM_TERRORISTS];
@@ -641,9 +667,15 @@ function parseHeatMap() {
 			let attacker = demoFile.entities.getByUserId(e.attacker);
 			let victim = demoFile.entities.getByUserId(e.userid);
 			if (victim && attacker) {
-				let killPosition = attacker.position;
-				let deathPostiion = victim.position;
-				console.log('%s at (%s, %s, %s) killed %s at (%s, %s, %s)', attacker.name, victim.name, killPosition.x, killPosition.y, killPosition.z,  deathPostiion.x, deathPostiion.y, deathPostiion.z);
+				if (teamT.members.indexOf(attacker) != -1) {
+					terroristKills.push(attacker.position);
+					ctDeaths.push(victim.position);
+				} else {
+					ctKills.push(attacker.position);
+					terroristDeaths.push(victim.position);
+				}
+				logLocations();
+				//console.log('%s at (%s, %s, %s) killed %s at (%s, %s, %s)', attacker.name, victim.name, victim.position.x, victim.position.y, victim.position.z);
 			}
     });
 
@@ -651,9 +683,13 @@ function parseHeatMap() {
 			let thrower = demoFile.entities.getByUserId(e.userid);
 			let grenade = demoFile.entities.entities[e.entityid];
 			if (thrower && grenade) {
-				let throwerPosition = thrower.position;
-				let grenadePosition = grenade.position;
-				console.log('%s threw a grenade at position (%s, %s, %s)', thrower.name,  grenadePosition.x.toFixed(2), grenadePosition.y.toFixed(2), grenadePosition.z.toFixed(2));
+				if (teamT.members.indexOf(thrower) != -1) {
+					terroristGrenades.push(grenade.position);
+				} else {
+					ctGrenades.push(grenade.position);
+				}
+				logLocations();
+				//console.log('%s threw a grenade at position (%s, %s, %s)', thrower.name,  grenade.position.x.toFixed(2), grenade.position.y.toFixed(2), grenade.position.z.toFixed(2));
 			}
     });
 
@@ -661,9 +697,13 @@ function parseHeatMap() {
 			let thrower = demoFile.entities.getByUserId(e.userid);
 			let grenade = demoFile.entities.entities[e.entityid];
 			if (thrower && grenade) {
-				let throwerPosition = thrower.position;
-				let grenadePosition = grenade.position;
-				console.log('%s threw a smoke at position (%s, %s, %s)', thrower.name,  grenadePosition.x.toFixed(2), grenadePosition.y.toFixed(2), grenadePosition.z.toFixed(2));
+				if (teamT.members.indexOf(thrower) != -1) {
+					terroristSmokes.push(grenade.position);
+				} else {
+					ctSmokes.push(grenade.position);
+				}
+				logLocations();
+				//console.log('%s threw a smoke at position (%s, %s, %s)', thrower.name,  grenade.position.x.toFixed(2), grenade.position.y.toFixed(2), grenade.position.z.toFixed(2));
 			}
     });
 
@@ -671,9 +711,13 @@ function parseHeatMap() {
 			let thrower = demoFile.entities.getByUserId(e.userid);
 			let grenade = demoFile.entities.entities[e.entityid];
 			if (thrower && grenade) {
-				let throwerPosition = thrower.position;
-				let grenadePosition = grenade.position;
-				console.log('%s threw a flashbang at position (%s, %s, %s)', thrower.name,  grenadePosition.x.toFixed(2), grenadePosition.y.toFixed(2), grenadePosition.z.toFixed(2));
+				if (teamT.members.indexOf(thrower) != -1) {
+					terroristFlashbangs.push(grenade.position);
+				} else {
+					ctFlashbangs.push(grenade.position);
+				}
+				logLocations();
+				//console.log('%s threw a flashbang at position (%s, %s, %s)', thrower.name,  grenade.position.x.toFixed(2), grenade.position.y.toFixed(2), grenade.position.z.toFixed(2));
 			}
     });
 
@@ -681,9 +725,13 @@ function parseHeatMap() {
 			let thrower = demoFile.entities.getByUserId(e.userid);
 			let grenade = demoFile.entities.entities[e.entityid];
 			if (thrower && grenade) {
-				let throwerPosition = thrower.position;
-				let grenadePosition = grenade.position;
-				console.log('%s threw a decoy at position (%s, %s, %s)', thrower.name,  grenadePosition.x.toFixed(2), grenadePosition.y.toFixed(2), grenadePosition.z.toFixed(2));
+				if (teamT.members.indexOf(thrower) != -1) {
+					terroristDecoys.push(grenade.position);
+				} else {
+					ctDecoys.push(grenade.position);
+				}
+				logLocations();
+				//console.log('%s threw a decoy at position (%s, %s, %s)', thrower.name,  grenade.position.x.toFixed(2), grenade.position.y.toFixed(2), grenade.position.z.toFixed(2));
 			}
     });
 
@@ -691,19 +739,19 @@ function parseHeatMap() {
 			let grenade = demoFile.entities.entities[e.entityid];
 			let grenadePosition = grenade.position;
 			let thrower = grenade.owner;
-			let team
-			if (teamT.members.indexOf(thrower) != -1) {
-				team = 'T';
-			} else {
-				team = 'CT';
-			}
 			if (grenade && thrower && grenade.serverClass.name === 'CInferno') {
-				console.log('%s threw a molotov at position (%s, %s, %s)', thrower.name,  grenadePosition.x.toFixed(2), grenadePosition.y.toFixed(2), grenadePosition.z.toFixed(2));
+				if (teamT.members.indexOf(thrower) != -1) {
+					terroristMolotovs.push(grenade.position);
+				} else {
+					ctMolotovs.push(grenade.position);
+				}
+				logLocations();
+				//console.log('%s threw a molotov at position (%s, %s, %s)', thrower.name,  grenade.position.x.toFixed(2), grenade.position.y.toFixed(2), grenade.position.z.toFixed(2));
 			}
     });
 
 		demoFile.on('end', () => {
-			let fileName = demoPath.substring(0, demoPath.length-4) + '-heatmap.json';
+			let fileName = demoPath.substring(0, demoPath.length-4) + '-map.json';
 			fs.writeFile('json/' + fileName, JSON.stringify(json, null, 2), (err) => {
 				if (err) throw err;
 				console.log(fileName + ' has been saved.');
