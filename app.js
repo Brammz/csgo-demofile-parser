@@ -615,7 +615,7 @@ function parseEconomy() {
  *		},
  *	}
  */
-function parseHeatMap() {
+function parseMap() {
 	let json = {};
 	fs.readFile(demoPath, function (err, buffer) {
 		assert.ifError(err);
@@ -658,9 +658,28 @@ function parseHeatMap() {
 			json[time]['ctMolotovs'] =  ctMolotovs.slice(0);
 		}
 
+		demoFile.on('start', () => {
+      json['map'] = demoFile.header.mapName;
+    });
+
 		demoFile.gameEvents.on('round_announce_match_start', () => {
 			teamT = demoFile.teams[demofile.TEAM_TERRORISTS];
 			teamCT = demoFile.teams[demofile.TEAM_CTS];
+			json['0'] = {};
+			json['0']['terroristKills'] = [];
+			json['0']['terroristDeaths'] = [];
+			json['0']['terroristGrenades'] = [];
+			json['0']['terroristSmokes'] = [];
+			json['0']['terroristFlashbangs'] = [];
+			json['0']['terroristDecoys'] = [];
+			json['0']['terroristMolotovs'] = [];
+			json['0']['ctKills'] = [];
+			json['0']['ctDeaths'] = [];
+			json['0']['ctGrenades'] = [];
+			json['0']['ctSmokes'] = [];
+			json['0']['ctFlashbangs'] = [];
+			json['0']['ctDecoys'] = [];
+			json['0']['ctMolotovs'] = [];
 		});
 
 		demoFile.gameEvents.on('player_death', e => {
@@ -751,6 +770,41 @@ function parseHeatMap() {
     });
 
 		demoFile.on('end', () => {
+			/*
+			let allPositions = terroristKills.concat(terroristDeaths, terroristGrenades, terroristSmokes, terroristFlashbangs, terroristDecoys, terroristMolotovs, ctKills, ctDeaths, ctGrenades, ctSmokes, ctFlashbangs, ctDecoys, ctMolotovs);
+			let minX = null;
+			let maxX = null;
+			let minY = null;
+			let maxY = null;
+			let minZ = null;
+			let maxZ = null;
+			for (let position of allPositions) {
+				if (minX == null || position.x < minX) {
+					minX = position.x;
+				}
+				if (maxX == null || position.x > maxX) {
+					maxX = position.x;
+				}
+				if (minY == null || position.y < minY) {
+					minY = position.y;
+				}
+				if (maxY == null || position.y > maxY) {
+					maxY = position.y;
+				}
+				if (minZ == null || position.z < minZ) {
+					minZ = position.z;
+				}
+				if (maxZ == null || position.z > maxZ) {
+					maxZ = position.z;
+				}
+			}
+			console.log('minX: %s', minX);
+			console.log('maxX: %s', maxX);
+			console.log('minY: %s', minY);
+			console.log('maxY: %s', maxY);
+			console.log('minZ: %s', minZ);
+			console.log('maxZ: %s', maxZ);
+			*/
 			let fileName = demoPath.substring(0, demoPath.length-4) + '-map.json';
 			fs.writeFile('json/' + fileName, JSON.stringify(json, null, 2), (err) => {
 				if (err) throw err;
@@ -826,12 +880,12 @@ function parseAll() {
 		console.log('Please provide a path to your replay file.');
 	} else {
 		demoPath = process.argv[2];
-		parseRounds();
-		parseScoreboard();
-		parseMoney();
-		parseDamage();
-		parseEconomy();
-		parseHeatMap();
+		//parseRounds();
+		//parseScoreboard();
+		//parseMoney();
+		//parseDamage();
+		//parseEconomy();
+		parseMap();
 		//parsePathingMap();
 	}
 }
