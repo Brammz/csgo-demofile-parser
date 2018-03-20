@@ -446,8 +446,10 @@ function parseDamage() {
 
 		demoFile.gameEvents.on('round_end', () => {
 			let roundNumber = demoFile.gameRules.roundsPlayed;
+			if (roundNumber > 30) return;
 			let time = Math.ceil(demoFile.currentTime);
 			let i = 0;
+			console.log(roundNumber);
 			json[time] = {};
 			json[time]['terrorists'] = {};
 			json[time]['terrorists']['teamName'] = teamT.clanName;
@@ -883,9 +885,9 @@ function parseAll() {
 		//parseRounds();
 		//parseScoreboard();
 		//parseMoney();
-		//parseDamage();
+		parseDamage();
 		//parseEconomy();
-		parseMap();
+		//parseMap();
 		//parsePathingMap();
 	}
 }
