@@ -111,7 +111,7 @@ function parseRounds() {
  *		bomb_planted
  *		bomb_defused
  *		round_officially_ended
- *		buy TODO
+ *		buy NOTE not possible
  * 3. player_death
  * 4. weapon_fire
  *
@@ -235,18 +235,6 @@ function parseScoreboard() {
 			logScoreboardInfo(demoFile);
 		});
 
-		/*
-		demoFile.gameEvents.on('buytime_ended', () => {
-			logScoreboardInfo(demoFile, teamT, teamCT);
-		});
-		*/
-
-		/*
-		demoFile.gameEvents.on('weapon_fire', () => {
-			logScoreboardInfo(demoFile, teamT, teamCT);
-		});
-		*/
-
 		demoFile.on('end', () => {
 			let fileName = demoPath.substring(0, demoPath.length-4) + '-scores.json';
 			fs.writeFile('json/' + fileName, JSON.stringify(json, null, 2), (err) => {
@@ -271,9 +259,9 @@ function parseScoreboard() {
  *		bomb_planted
  *		bomb_defused
  *		round_officially_ended
- *		buy TODO
+ *		buy NOTE not possible
  * 2.	player_death
- *		buy TODO
+ *		buy NOTE not possible
  *		inferno_startburn
  *		item_remove
  *		item_pickup
@@ -349,12 +337,6 @@ function parseMoney() {
 			getCurrentMoney(demoFile);
 		});
 
-		/*
-		demoFile.gameEvents.on('item_purchase', () => {
-			getCurrentMoney(demoFile);
-		});
-		*/
-
 		demoFile.gameEvents.on('inferno_startburn', () => {
 			getCurrentMoney(demoFile);
 		});
@@ -388,7 +370,7 @@ function parseMoney() {
  *
  * @update
  * 1+2.	player_death
- *			player_hurt || weapon_fire TODO
+ *			player_hurt || weapon_fire NOTE ok for now
  *			hegrenade_detonate
  *			molotov_detonate
  *
@@ -445,11 +427,11 @@ function parseDamage() {
 		});
 
 		demoFile.gameEvents.on('round_end', () => {
+			if (teamT == undefined || teamCT == undefined) return;
 			let roundNumber = demoFile.gameRules.roundsPlayed;
 			if (roundNumber > 30) return;
 			let time = Math.ceil(demoFile.currentTime);
 			let i = 0;
-			console.log(roundNumber);
 			json[time] = {};
 			json[time]['terrorists'] = {};
 			json[time]['terrorists']['teamName'] = teamT.clanName;
@@ -498,7 +480,7 @@ function parseDamage() {
  *
  * @update
  * 1.	round_end NOTE should probably only be updated once every round, at buytime_ended
- * 2. buytime_ended TODO
+ * 2. buytime_ended NOTE not possible
  *
  * @returns
  *	{
@@ -521,6 +503,7 @@ function parseEconomy() {
 	function getEconomy(demoFile) {
 		let teamT = demoFile.teams[demofile.TEAM_TERRORISTS];
 		let teamCT = demoFile.teams[demofile.TEAM_CTS];
+		if (teamT == undefined || teamCT == undefined) return;
 		let terroristsRoundStartAccount = 0;
 		let terroristsRoundSpendValue = 0;
 		let ctRoundStartAccount = 0;
@@ -568,16 +551,6 @@ function parseEconomy() {
 			getEconomy(demoFile);
 		});
 
-		/*
-		demoFile.gameEvents.on('buytime_ended', e => {
-			teamT = demoFile.teams[demofile.TEAM_TERRORISTS];
-			teamCT = demoFile.teams[demofile.TEAM_CTS];
-			console.log('\t%s: {', demoFile.gameRules.roundsPlayed+1);
-				getEconomy(teamT, teamCT);
-			console.log('\t},');
-		});
-		*/
-
 		demoFile.on('end', () => {
 			let fileName = demoPath.substring(0, demoPath.length-4) + '-economy.json';
 			fs.writeFile('json/' + fileName, JSON.stringify(json, null, 2), (err) => {
@@ -600,10 +573,9 @@ function parseEconomy() {
  * 1.	player_death
  *		hegrenade_detonate
  *		smokegrenade_detonate
- *		flashbang_detonate FIXME locations not working
+ *		flashbang_detonate
  *		molotov_detonate
  *		decoy_detonate
- * IDEA just on round_officially_ended?
  *
  * @returns
  *	{
@@ -685,6 +657,7 @@ function parseMap() {
 		});
 
 		demoFile.gameEvents.on('player_death', e => {
+			if (teamT == undefined || teamCT == undefined) return;
 			let attacker = demoFile.entities.getByUserId(e.attacker);
 			let victim = demoFile.entities.getByUserId(e.userid);
 			if (victim && attacker) {
@@ -701,6 +674,7 @@ function parseMap() {
     });
 
 		demoFile.gameEvents.on('hegrenade_detonate', e => {
+			if (teamT == undefined || teamCT == undefined) return;
 			let thrower = demoFile.entities.getByUserId(e.userid);
 			let grenade = demoFile.entities.entities[e.entityid];
 			if (thrower && grenade) {
@@ -715,6 +689,7 @@ function parseMap() {
     });
 
 		demoFile.gameEvents.on('smokegrenade_detonate', e => {
+			if (teamT == undefined || teamCT == undefined) return;
 			let thrower = demoFile.entities.getByUserId(e.userid);
 			let grenade = demoFile.entities.entities[e.entityid];
 			if (thrower && grenade) {
@@ -729,6 +704,7 @@ function parseMap() {
     });
 
 		demoFile.gameEvents.on('flashbang_detonate', e => {
+			if (teamT == undefined || teamCT == undefined) return;
 			let thrower = demoFile.entities.getByUserId(e.userid);
 			let grenade = demoFile.entities.entities[e.entityid];
 			if (thrower && grenade) {
@@ -743,6 +719,7 @@ function parseMap() {
     });
 
 		demoFile.gameEvents.on('decoy_detonate', e => {
+			if (teamT == undefined || teamCT == undefined) return;
 			let thrower = demoFile.entities.getByUserId(e.userid);
 			let grenade = demoFile.entities.entities[e.entityid];
 			if (thrower && grenade) {
@@ -757,6 +734,7 @@ function parseMap() {
     });
 
 		demoFile.gameEvents.on('inferno_startburn', e => {
+			if (teamT == undefined || teamCT == undefined) return;
 			let grenade = demoFile.entities.entities[e.entityid];
 			let grenadePosition = grenade.position;
 			let thrower = grenade.owner;
@@ -882,12 +860,12 @@ function parseAll() {
 		console.log('Please provide a path to your replay file.');
 	} else {
 		demoPath = process.argv[2];
-		//parseRounds();
-		//parseScoreboard();
-		//parseMoney();
+		parseRounds();
+		parseScoreboard();
+		parseMoney();
 		parseDamage();
-		//parseEconomy();
-		//parseMap();
+		parseEconomy();
+		parseMap();
 		//parsePathingMap();
 	}
 }

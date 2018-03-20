@@ -1,0 +1,1552 @@
+{
+  "0": {
+    "terrorists": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "RUSH",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "autimatic",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "tarik",
+          "damage": 0,
+          "adr": 0
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "GuardiaN",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "olofmeister",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "rain",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "NiKo",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "karrigan",
+          "damage": 0,
+          "adr": 0
+        }
+      ]
+    }
+  },
+  "143": {
+    "terrorists": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "RUSH",
+          "damage": 100,
+          "adr": 100
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 167,
+          "adr": 167
+        },
+        {
+          "name": "autimatic",
+          "damage": 133,
+          "adr": 133
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "tarik",
+          "damage": 0,
+          "adr": 0
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "GuardiaN",
+          "damage": 100,
+          "adr": 100
+        },
+        {
+          "name": "olofmeister",
+          "damage": 100,
+          "adr": 100
+        },
+        {
+          "name": "rain",
+          "damage": 98,
+          "adr": 98
+        },
+        {
+          "name": "NiKo",
+          "damage": 99,
+          "adr": 99
+        },
+        {
+          "name": "karrigan",
+          "damage": 100,
+          "adr": 100
+        }
+      ]
+    }
+  },
+  "267": {
+    "terrorists": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "RUSH",
+          "damage": 225,
+          "adr": 112.5
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 167,
+          "adr": 83.5
+        },
+        {
+          "name": "autimatic",
+          "damage": 133,
+          "adr": 66.5
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 146,
+          "adr": 73
+        },
+        {
+          "name": "tarik",
+          "damage": 229,
+          "adr": 114.5
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "GuardiaN",
+          "damage": 179,
+          "adr": 89.5
+        },
+        {
+          "name": "olofmeister",
+          "damage": 200,
+          "adr": 100
+        },
+        {
+          "name": "rain",
+          "damage": 142,
+          "adr": 71
+        },
+        {
+          "name": "NiKo",
+          "damage": 217,
+          "adr": 108.5
+        },
+        {
+          "name": "karrigan",
+          "damage": 196,
+          "adr": 98
+        }
+      ]
+    }
+  },
+  "404": {
+    "terrorists": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "RUSH",
+          "damage": 263,
+          "adr": 87.66666666666667
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 347,
+          "adr": 115.66666666666667
+        },
+        {
+          "name": "autimatic",
+          "damage": 300,
+          "adr": 100
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 264,
+          "adr": 88
+        },
+        {
+          "name": "tarik",
+          "damage": 229,
+          "adr": 76.33333333333333
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "GuardiaN",
+          "damage": 215,
+          "adr": 71.66666666666667
+        },
+        {
+          "name": "olofmeister",
+          "damage": 419,
+          "adr": 139.66666666666666
+        },
+        {
+          "name": "rain",
+          "damage": 142,
+          "adr": 47.333333333333336
+        },
+        {
+          "name": "NiKo",
+          "damage": 444,
+          "adr": 148
+        },
+        {
+          "name": "karrigan",
+          "damage": 196,
+          "adr": 65.33333333333333
+        }
+      ]
+    }
+  },
+  "460": {
+    "terrorists": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "RUSH",
+          "damage": 363,
+          "adr": 90.75
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 347,
+          "adr": 86.75
+        },
+        {
+          "name": "autimatic",
+          "damage": 435,
+          "adr": 108.75
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 457,
+          "adr": 114.25
+        },
+        {
+          "name": "tarik",
+          "damage": 299,
+          "adr": 74.75
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "GuardiaN",
+          "damage": 215,
+          "adr": 53.75
+        },
+        {
+          "name": "olofmeister",
+          "damage": 421,
+          "adr": 105.25
+        },
+        {
+          "name": "rain",
+          "damage": 142,
+          "adr": 35.5
+        },
+        {
+          "name": "NiKo",
+          "damage": 444,
+          "adr": 111
+        },
+        {
+          "name": "karrigan",
+          "damage": 205,
+          "adr": 51.25
+        }
+      ]
+    }
+  },
+  "563": {
+    "terrorists": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "RUSH",
+          "damage": 378,
+          "adr": 75.6
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 347,
+          "adr": 69.4
+        },
+        {
+          "name": "autimatic",
+          "damage": 635,
+          "adr": 127
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 457,
+          "adr": 91.4
+        },
+        {
+          "name": "tarik",
+          "damage": 399,
+          "adr": 79.8
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "GuardiaN",
+          "damage": 365,
+          "adr": 73
+        },
+        {
+          "name": "olofmeister",
+          "damage": 421,
+          "adr": 84.2
+        },
+        {
+          "name": "rain",
+          "damage": 192,
+          "adr": 38.4
+        },
+        {
+          "name": "NiKo",
+          "damage": 544,
+          "adr": 108.8
+        },
+        {
+          "name": "karrigan",
+          "damage": 205,
+          "adr": 41
+        }
+      ]
+    }
+  },
+  "695": {
+    "terrorists": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "RUSH",
+          "damage": 422,
+          "adr": 70.33333333333333
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 347,
+          "adr": 57.833333333333336
+        },
+        {
+          "name": "autimatic",
+          "damage": 665,
+          "adr": 110.83333333333333
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 499,
+          "adr": 83.16666666666667
+        },
+        {
+          "name": "tarik",
+          "damage": 499,
+          "adr": 83.16666666666667
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "GuardiaN",
+          "damage": 417,
+          "adr": 69.5
+        },
+        {
+          "name": "olofmeister",
+          "damage": 421,
+          "adr": 70.16666666666667
+        },
+        {
+          "name": "rain",
+          "damage": 192,
+          "adr": 32
+        },
+        {
+          "name": "NiKo",
+          "damage": 544,
+          "adr": 90.66666666666667
+        },
+        {
+          "name": "karrigan",
+          "damage": 234,
+          "adr": 39
+        }
+      ]
+    }
+  },
+  "972": {
+    "terrorists": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "RUSH",
+          "damage": 422,
+          "adr": 52.75
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 447,
+          "adr": 55.875
+        },
+        {
+          "name": "autimatic",
+          "damage": 761,
+          "adr": 95.125
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 505,
+          "adr": 63.125
+        },
+        {
+          "name": "tarik",
+          "damage": 499,
+          "adr": 62.375
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "GuardiaN",
+          "damage": 517,
+          "adr": 64.625
+        },
+        {
+          "name": "olofmeister",
+          "damage": 450,
+          "adr": 56.25
+        },
+        {
+          "name": "rain",
+          "damage": 339,
+          "adr": 42.375
+        },
+        {
+          "name": "NiKo",
+          "damage": 623,
+          "adr": 77.875
+        },
+        {
+          "name": "karrigan",
+          "damage": 379,
+          "adr": 47.375
+        }
+      ]
+    }
+  },
+  "1154": {
+    "terrorists": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "RUSH",
+          "damage": 422,
+          "adr": 46.888888888888886
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 538,
+          "adr": 59.77777777777778
+        },
+        {
+          "name": "autimatic",
+          "damage": 761,
+          "adr": 84.55555555555556
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 549,
+          "adr": 61
+        },
+        {
+          "name": "tarik",
+          "damage": 594,
+          "adr": 66
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "GuardiaN",
+          "damage": 617,
+          "adr": 68.55555555555556
+        },
+        {
+          "name": "olofmeister",
+          "damage": 450,
+          "adr": 50
+        },
+        {
+          "name": "rain",
+          "damage": 339,
+          "adr": 37.666666666666664
+        },
+        {
+          "name": "NiKo",
+          "damage": 907,
+          "adr": 100.77777777777777
+        },
+        {
+          "name": "karrigan",
+          "damage": 389,
+          "adr": 43.22222222222222
+        }
+      ]
+    }
+  },
+  "1400": {
+    "terrorists": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "RUSH",
+          "damage": 426,
+          "adr": 35.5
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 638,
+          "adr": 53.166666666666664
+        },
+        {
+          "name": "autimatic",
+          "damage": 857,
+          "adr": 71.41666666666667
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 549,
+          "adr": 45.75
+        },
+        {
+          "name": "tarik",
+          "damage": 594,
+          "adr": 49.5
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "GuardiaN",
+          "damage": 717,
+          "adr": 59.75
+        },
+        {
+          "name": "olofmeister",
+          "damage": 452,
+          "adr": 37.666666666666664
+        },
+        {
+          "name": "rain",
+          "damage": 339,
+          "adr": 28.25
+        },
+        {
+          "name": "NiKo",
+          "damage": 1207,
+          "adr": 100.58333333333333
+        },
+        {
+          "name": "karrigan",
+          "damage": 487,
+          "adr": 40.583333333333336
+        }
+      ]
+    }
+  },
+  "1519": {
+    "terrorists": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "RUSH",
+          "damage": 621,
+          "adr": 47.76923076923077
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 743,
+          "adr": 57.15384615384615
+        },
+        {
+          "name": "autimatic",
+          "damage": 857,
+          "adr": 65.92307692307692
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 549,
+          "adr": 42.23076923076923
+        },
+        {
+          "name": "tarik",
+          "damage": 596,
+          "adr": 45.84615384615385
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "GuardiaN",
+          "damage": 867,
+          "adr": 66.6923076923077
+        },
+        {
+          "name": "olofmeister",
+          "damage": 652,
+          "adr": 50.15384615384615
+        },
+        {
+          "name": "rain",
+          "damage": 439,
+          "adr": 33.76923076923077
+        },
+        {
+          "name": "NiKo",
+          "damage": 1228,
+          "adr": 94.46153846153847
+        },
+        {
+          "name": "karrigan",
+          "damage": 516,
+          "adr": 39.69230769230769
+        }
+      ]
+    }
+  },
+  "1718": {
+    "terrorists": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "RUSH",
+          "damage": 667,
+          "adr": 47.642857142857146
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 746,
+          "adr": 53.285714285714285
+        },
+        {
+          "name": "autimatic",
+          "damage": 911,
+          "adr": 65.07142857142857
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 699,
+          "adr": 49.92857142857143
+        },
+        {
+          "name": "tarik",
+          "damage": 843,
+          "adr": 60.214285714285715
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "GuardiaN",
+          "damage": 867,
+          "adr": 61.92857142857143
+        },
+        {
+          "name": "olofmeister",
+          "damage": 794,
+          "adr": 56.714285714285715
+        },
+        {
+          "name": "rain",
+          "damage": 539,
+          "adr": 38.5
+        },
+        {
+          "name": "NiKo",
+          "damage": 1283,
+          "adr": 91.64285714285714
+        },
+        {
+          "name": "karrigan",
+          "damage": 572,
+          "adr": 40.857142857142854
+        }
+      ]
+    }
+  },
+  "1858": {
+    "terrorists": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "RUSH",
+          "damage": 767,
+          "adr": 51.13333333333333
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 846,
+          "adr": 56.4
+        },
+        {
+          "name": "autimatic",
+          "damage": 911,
+          "adr": 60.733333333333334
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 999,
+          "adr": 66.6
+        },
+        {
+          "name": "tarik",
+          "damage": 843,
+          "adr": 56.2
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "GuardiaN",
+          "damage": 1009,
+          "adr": 67.26666666666667
+        },
+        {
+          "name": "olofmeister",
+          "damage": 996,
+          "adr": 66.4
+        },
+        {
+          "name": "rain",
+          "damage": 548,
+          "adr": 36.53333333333333
+        },
+        {
+          "name": "NiKo",
+          "damage": 1283,
+          "adr": 85.53333333333333
+        },
+        {
+          "name": "karrigan",
+          "damage": 611,
+          "adr": 40.733333333333334
+        }
+      ]
+    }
+  },
+  "2125": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 834,
+          "adr": 49.05882352941177
+        },
+        {
+          "name": "olofmeister",
+          "damage": 879,
+          "adr": 51.705882352941174
+        },
+        {
+          "name": "karrigan",
+          "damage": 949,
+          "adr": 55.8235294117647
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1099,
+          "adr": 64.6470588235294
+        },
+        {
+          "name": "rain",
+          "damage": 843,
+          "adr": 49.588235294117645
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "autimatic",
+          "damage": 1135,
+          "adr": 66.76470588235294
+        },
+        {
+          "name": "tarik",
+          "damage": 1068,
+          "adr": 62.8235294117647
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 548,
+          "adr": 32.23529411764706
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 1383,
+          "adr": 81.3529411764706
+        },
+        {
+          "name": "RUSH",
+          "damage": 611,
+          "adr": 35.94117647058823
+        }
+      ]
+    }
+  },
+  "2240": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 834,
+          "adr": 46.333333333333336
+        },
+        {
+          "name": "olofmeister",
+          "damage": 892,
+          "adr": 49.55555555555556
+        },
+        {
+          "name": "karrigan",
+          "damage": 1149,
+          "adr": 63.833333333333336
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1099,
+          "adr": 61.05555555555556
+        },
+        {
+          "name": "rain",
+          "damage": 1130,
+          "adr": 62.77777777777778
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "autimatic",
+          "damage": 1135,
+          "adr": 63.05555555555556
+        },
+        {
+          "name": "tarik",
+          "damage": 1068,
+          "adr": 59.333333333333336
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 548,
+          "adr": 30.444444444444443
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 1432,
+          "adr": 79.55555555555556
+        },
+        {
+          "name": "RUSH",
+          "damage": 676,
+          "adr": 37.55555555555556
+        }
+      ]
+    }
+  },
+  "2371": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 934,
+          "adr": 49.1578947368421
+        },
+        {
+          "name": "olofmeister",
+          "damage": 892,
+          "adr": 46.94736842105263
+        },
+        {
+          "name": "karrigan",
+          "damage": 1255,
+          "adr": 66.05263157894737
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1099,
+          "adr": 57.8421052631579
+        },
+        {
+          "name": "rain",
+          "damage": 1214,
+          "adr": 63.89473684210526
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "autimatic",
+          "damage": 1188,
+          "adr": 62.526315789473685
+        },
+        {
+          "name": "tarik",
+          "damage": 1162,
+          "adr": 61.1578947368421
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 788,
+          "adr": 41.473684210526315
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 1433,
+          "adr": 75.42105263157895
+        },
+        {
+          "name": "RUSH",
+          "damage": 776,
+          "adr": 40.8421052631579
+        }
+      ]
+    }
+  },
+  "2528": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 934,
+          "adr": 46.7
+        },
+        {
+          "name": "olofmeister",
+          "damage": 893,
+          "adr": 44.65
+        },
+        {
+          "name": "karrigan",
+          "damage": 1451,
+          "adr": 72.55
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1288,
+          "adr": 64.4
+        },
+        {
+          "name": "rain",
+          "damage": 1314,
+          "adr": 65.7
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "autimatic",
+          "damage": 1217,
+          "adr": 60.85
+        },
+        {
+          "name": "tarik",
+          "damage": 1340,
+          "adr": 67
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 820,
+          "adr": 41
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 1433,
+          "adr": 71.65
+        },
+        {
+          "name": "RUSH",
+          "damage": 974,
+          "adr": 48.7
+        }
+      ]
+    }
+  },
+  "2696": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1164,
+          "adr": 55.42857142857143
+        },
+        {
+          "name": "olofmeister",
+          "damage": 893,
+          "adr": 42.523809523809526
+        },
+        {
+          "name": "karrigan",
+          "damage": 1493,
+          "adr": 71.0952380952381
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1357,
+          "adr": 64.61904761904762
+        },
+        {
+          "name": "rain",
+          "damage": 1314,
+          "adr": 62.57142857142857
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "autimatic",
+          "damage": 1324,
+          "adr": 63.04761904761905
+        },
+        {
+          "name": "tarik",
+          "damage": 1340,
+          "adr": 63.80952380952381
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 820,
+          "adr": 39.04761904761905
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 1651,
+          "adr": 78.61904761904762
+        },
+        {
+          "name": "RUSH",
+          "damage": 974,
+          "adr": 46.38095238095238
+        }
+      ]
+    }
+  },
+  "2799": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1164,
+          "adr": 52.90909090909091
+        },
+        {
+          "name": "olofmeister",
+          "damage": 950,
+          "adr": 43.18181818181818
+        },
+        {
+          "name": "karrigan",
+          "damage": 1520,
+          "adr": 69.0909090909091
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1457,
+          "adr": 66.22727272727273
+        },
+        {
+          "name": "rain",
+          "damage": 1314,
+          "adr": 59.72727272727273
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "autimatic",
+          "damage": 1420,
+          "adr": 64.54545454545455
+        },
+        {
+          "name": "tarik",
+          "damage": 1500,
+          "adr": 68.18181818181819
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 952,
+          "adr": 43.27272727272727
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 1755,
+          "adr": 79.77272727272727
+        },
+        {
+          "name": "RUSH",
+          "damage": 1001,
+          "adr": 45.5
+        }
+      ]
+    }
+  },
+  "2852": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1164,
+          "adr": 52.90909090909091
+        },
+        {
+          "name": "olofmeister",
+          "damage": 1007,
+          "adr": 45.77272727272727
+        },
+        {
+          "name": "karrigan",
+          "damage": 1547,
+          "adr": 70.31818181818181
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1557,
+          "adr": 70.77272727272727
+        },
+        {
+          "name": "rain",
+          "damage": 1314,
+          "adr": 59.72727272727273
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "autimatic",
+          "damage": 1516,
+          "adr": 68.9090909090909
+        },
+        {
+          "name": "tarik",
+          "damage": 1660,
+          "adr": 75.45454545454545
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 1084,
+          "adr": 49.27272727272727
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 1859,
+          "adr": 84.5
+        },
+        {
+          "name": "RUSH",
+          "damage": 1028,
+          "adr": 46.72727272727273
+        }
+      ]
+    }
+  },
+  "2965": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1164,
+          "adr": 50.608695652173914
+        },
+        {
+          "name": "olofmeister",
+          "damage": 1107,
+          "adr": 48.130434782608695
+        },
+        {
+          "name": "karrigan",
+          "damage": 1547,
+          "adr": 67.26086956521739
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1557,
+          "adr": 67.69565217391305
+        },
+        {
+          "name": "rain",
+          "damage": 1514,
+          "adr": 65.82608695652173
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "autimatic",
+          "damage": 1616,
+          "adr": 70.26086956521739
+        },
+        {
+          "name": "tarik",
+          "damage": 1775,
+          "adr": 77.17391304347827
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 1084,
+          "adr": 47.130434782608695
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 1859,
+          "adr": 80.82608695652173
+        },
+        {
+          "name": "RUSH",
+          "damage": 1050,
+          "adr": 45.65217391304348
+        }
+      ]
+    }
+  },
+  "3163": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1164,
+          "adr": 46.56
+        },
+        {
+          "name": "olofmeister",
+          "damage": 1107,
+          "adr": 44.28
+        },
+        {
+          "name": "karrigan",
+          "damage": 1547,
+          "adr": 61.88
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1557,
+          "adr": 62.28
+        },
+        {
+          "name": "rain",
+          "damage": 1514,
+          "adr": 60.56
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "autimatic",
+          "damage": 1716,
+          "adr": 68.64
+        },
+        {
+          "name": "tarik",
+          "damage": 1775,
+          "adr": 71
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 1284,
+          "adr": 51.36
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 2052,
+          "adr": 82.08
+        },
+        {
+          "name": "RUSH",
+          "damage": 1057,
+          "adr": 42.28
+        }
+      ]
+    }
+  },
+  "3332": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1312,
+          "adr": 50.46153846153846
+        },
+        {
+          "name": "olofmeister",
+          "damage": 1250,
+          "adr": 48.07692307692308
+        },
+        {
+          "name": "karrigan",
+          "damage": 1547,
+          "adr": 59.5
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1611,
+          "adr": 61.96153846153846
+        },
+        {
+          "name": "rain",
+          "damage": 1514,
+          "adr": 58.23076923076923
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "autimatic",
+          "damage": 1872,
+          "adr": 72
+        },
+        {
+          "name": "tarik",
+          "damage": 1785,
+          "adr": 68.65384615384616
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 1450,
+          "adr": 55.76923076923077
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 2053,
+          "adr": 78.96153846153847
+        },
+        {
+          "name": "RUSH",
+          "damage": 1257,
+          "adr": 48.34615384615385
+        }
+      ]
+    }
+  },
+  "3615": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1312,
+          "adr": 46.857142857142854
+        },
+        {
+          "name": "olofmeister",
+          "damage": 1300,
+          "adr": 46.42857142857143
+        },
+        {
+          "name": "karrigan",
+          "damage": 1747,
+          "adr": 62.392857142857146
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1638,
+          "adr": 58.5
+        },
+        {
+          "name": "rain",
+          "damage": 1537,
+          "adr": 54.892857142857146
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "autimatic",
+          "damage": 2107,
+          "adr": 75.25
+        },
+        {
+          "name": "tarik",
+          "damage": 1785,
+          "adr": 63.75
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 1450,
+          "adr": 51.785714285714285
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 2153,
+          "adr": 76.89285714285714
+        },
+        {
+          "name": "RUSH",
+          "damage": 1422,
+          "adr": 50.785714285714285
+        }
+      ]
+    }
+  },
+  "3985": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1321,
+          "adr": 44.03333333333333
+        },
+        {
+          "name": "olofmeister",
+          "damage": 1300,
+          "adr": 43.333333333333336
+        },
+        {
+          "name": "karrigan",
+          "damage": 1853,
+          "adr": 61.766666666666666
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1638,
+          "adr": 54.6
+        },
+        {
+          "name": "rain",
+          "damage": 1537,
+          "adr": 51.233333333333334
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Cloud9",
+      "players": [
+        {
+          "name": "autimatic",
+          "damage": 2173,
+          "adr": 72.43333333333334
+        },
+        {
+          "name": "tarik",
+          "damage": 1785,
+          "adr": 59.5
+        },
+        {
+          "name": "Skadoodle",
+          "damage": 1468,
+          "adr": 48.93333333333333
+        },
+        {
+          "name": "Stewie2K",
+          "damage": 2525,
+          "adr": 84.16666666666667
+        },
+        {
+          "name": "RUSH",
+          "damage": 1423,
+          "adr": 47.43333333333333
+        }
+      ]
+    }
+  }
+}
