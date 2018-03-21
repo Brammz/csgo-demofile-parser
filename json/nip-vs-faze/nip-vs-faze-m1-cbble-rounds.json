@@ -1,0 +1,1810 @@
+{
+  "0": [],
+  "106": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    }
+  ],
+  "157": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    }
+  ],
+  "209": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    }
+  ],
+  "288": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    }
+  ],
+  "423": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    }
+  ],
+  "533": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    }
+  ],
+  "626": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    }
+  ],
+  "772": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    }
+  ],
+  "883": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    }
+  ],
+  "1018": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    }
+  ],
+  "1087": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    }
+  ],
+  "1254": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    }
+  ],
+  "1308": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    }
+  ],
+  "1421": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 14,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    }
+  ],
+  "1477": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 14,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 15,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    }
+  ],
+  "1700": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 14,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 15,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 16,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    }
+  ],
+  "1825": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 14,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 15,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 16,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 17,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    }
+  ],
+  "1965": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 14,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 15,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 16,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 17,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 18,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    }
+  ],
+  "2070": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 14,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 15,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 16,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 17,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 18,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 19,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    }
+  ],
+  "2201": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 14,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 15,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 16,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 17,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 18,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 19,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 20,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    }
+  ],
+  "2360": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 14,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 15,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 16,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 17,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 18,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 19,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 20,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 21,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    }
+  ],
+  "2488": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 14,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 15,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 16,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 17,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 18,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 19,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 20,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 21,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 22,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    }
+  ],
+  "2589": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 14,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 15,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 16,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 17,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 18,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 19,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 20,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 21,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 22,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 23,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    }
+  ],
+  "2745": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 14,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 15,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 16,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 17,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 18,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 19,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 20,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 21,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 22,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 23,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 24,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    }
+  ],
+  "2863": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 14,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 15,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 16,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 17,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 18,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 19,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 20,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 21,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 22,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 23,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 24,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 25,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    }
+  ],
+  "3019": [
+    {
+      "roundNumber": 1,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 2,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 3,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 4,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 5,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 6,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 7,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 8,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 9,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 10,
+      "winner": "cts",
+      "reason": "target_saved"
+    },
+    {
+      "roundNumber": 11,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 12,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 13,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 14,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 15,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 16,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 17,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 18,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 19,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 20,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 21,
+      "winner": "cts",
+      "reason": "bomb_defused"
+    },
+    {
+      "roundNumber": 22,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    },
+    {
+      "roundNumber": 23,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 24,
+      "winner": "terrorists",
+      "reason": "target_bombed"
+    },
+    {
+      "roundNumber": 25,
+      "winner": "cts",
+      "reason": "terrorists_killed"
+    },
+    {
+      "roundNumber": 26,
+      "winner": "terrorists",
+      "reason": "cts_killed"
+    }
+  ]
+}

@@ -86,7 +86,8 @@ function parseRounds() {
 
 		demoFile.on('end', () => {
 			let fileName = demoPath.substring(0, demoPath.length-4) + '-rounds.json';
-			fs.writeFile('json/' + fileName, JSON.stringify(json, null, 2), (err) => {
+			let dir = fileName.split('-', 3).join('-');
+			fs.writeFile('json/' + dir + '/' + fileName, JSON.stringify(json, null, 2), (err) => {
 				if (err) throw err;
 				console.log(fileName + ' has been saved.');
 			});
@@ -237,7 +238,8 @@ function parseScoreboard() {
 
 		demoFile.on('end', () => {
 			let fileName = demoPath.substring(0, demoPath.length-4) + '-scores.json';
-			fs.writeFile('json/' + fileName, JSON.stringify(json, null, 2), (err) => {
+			let dir = fileName.split('-', 3).join('-');
+			fs.writeFile('json/' + dir + '/' + fileName, JSON.stringify(json, null, 2), (err) => {
 				if (err) throw err;
 				console.log(fileName + ' has been saved.');
 			});
@@ -351,7 +353,8 @@ function parseMoney() {
 
 		demoFile.on('end', () => {
 			let fileName = demoPath.substring(0, demoPath.length-4) + '-money.json';
-			fs.writeFile('json/' + fileName, JSON.stringify(json, null, 2), (err) => {
+			let dir = fileName.split('-', 3).join('-');
+			fs.writeFile('json/' + dir + '/' + fileName, JSON.stringify(json, null, 2), (err) => {
 				if (err) throw err;
 				console.log(fileName + ' has been saved.');
 			});
@@ -461,7 +464,8 @@ function parseDamage() {
 
 		demoFile.on('end', () => {
 			let fileName = demoPath.substring(0, demoPath.length-4) + '-damage.json';
-			fs.writeFile('json/' + fileName, JSON.stringify(json, null, 2), (err) => {
+			let dir = fileName.split('-', 3).join('-');
+			fs.writeFile('json/' + dir + '/' + fileName, JSON.stringify(json, null, 2), (err) => {
 				if (err) throw err;
 				console.log(fileName + ' has been saved.');
 			});
@@ -553,7 +557,8 @@ function parseEconomy() {
 
 		demoFile.on('end', () => {
 			let fileName = demoPath.substring(0, demoPath.length-4) + '-economy.json';
-			fs.writeFile('json/' + fileName, JSON.stringify(json, null, 2), (err) => {
+			let dir = fileName.split('-', 3).join('-');
+			fs.writeFile('json/' + dir + '/' + fileName, JSON.stringify(json, null, 2), (err) => {
 				if (err) throw err;
 				console.log(fileName + ' has been saved.');
 			});
@@ -786,7 +791,8 @@ function parseMap() {
 			console.log('maxZ: %s', maxZ);
 			*/
 			let fileName = demoPath.substring(0, demoPath.length-4) + '-map.json';
-			fs.writeFile('json/' + fileName, JSON.stringify(json, null, 2), (err) => {
+			let dir = fileName.split('-', 3).join('-');
+			fs.writeFile('json/' + dir + '/' + fileName, JSON.stringify(json, null, 2), (err) => {
 				if (err) throw err;
 				console.log(fileName + ' has been saved.');
 			});

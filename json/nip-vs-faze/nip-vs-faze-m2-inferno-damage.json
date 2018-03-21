@@ -1,0 +1,1490 @@
+{
+  "0": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "olofmeister",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "karrigan",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "rain",
+          "damage": 0,
+          "adr": 0
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "draken",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "Xizt",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "f0rest",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 0,
+          "adr": 0
+        }
+      ]
+    }
+  },
+  "55": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 95,
+          "adr": 95
+        },
+        {
+          "name": "olofmeister",
+          "damage": 22,
+          "adr": 22
+        },
+        {
+          "name": "karrigan",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 78,
+          "adr": 78
+        },
+        {
+          "name": "rain",
+          "damage": 305,
+          "adr": 305
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 100,
+          "adr": 100
+        },
+        {
+          "name": "draken",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "Xizt",
+          "damage": 16,
+          "adr": 16
+        },
+        {
+          "name": "f0rest",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 100,
+          "adr": 100
+        }
+      ]
+    }
+  },
+  "176": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 310,
+          "adr": 155
+        },
+        {
+          "name": "olofmeister",
+          "damage": 130,
+          "adr": 65
+        },
+        {
+          "name": "karrigan",
+          "damage": 100,
+          "adr": 50
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 160,
+          "adr": 80
+        },
+        {
+          "name": "rain",
+          "damage": 305,
+          "adr": 152.5
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 144,
+          "adr": 72
+        },
+        {
+          "name": "draken",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "Xizt",
+          "damage": 37,
+          "adr": 18.5
+        },
+        {
+          "name": "f0rest",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 149,
+          "adr": 74.5
+        }
+      ]
+    }
+  },
+  "296": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 339,
+          "adr": 113
+        },
+        {
+          "name": "olofmeister",
+          "damage": 153,
+          "adr": 51
+        },
+        {
+          "name": "karrigan",
+          "damage": 100,
+          "adr": 33.333333333333336
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 160,
+          "adr": 53.333333333333336
+        },
+        {
+          "name": "rain",
+          "damage": 343,
+          "adr": 114.33333333333333
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 166,
+          "adr": 55.333333333333336
+        },
+        {
+          "name": "draken",
+          "damage": 0,
+          "adr": 0
+        },
+        {
+          "name": "Xizt",
+          "damage": 37,
+          "adr": 12.333333333333334
+        },
+        {
+          "name": "f0rest",
+          "damage": 45,
+          "adr": 15
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 149,
+          "adr": 49.666666666666664
+        }
+      ]
+    }
+  },
+  "458": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 466,
+          "adr": 116.5
+        },
+        {
+          "name": "olofmeister",
+          "damage": 187,
+          "adr": 46.75
+        },
+        {
+          "name": "karrigan",
+          "damage": 189,
+          "adr": 47.25
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 226,
+          "adr": 56.5
+        },
+        {
+          "name": "rain",
+          "damage": 579,
+          "adr": 144.75
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 343,
+          "adr": 85.75
+        },
+        {
+          "name": "draken",
+          "damage": 124,
+          "adr": 31
+        },
+        {
+          "name": "Xizt",
+          "damage": 37,
+          "adr": 9.25
+        },
+        {
+          "name": "f0rest",
+          "damage": 67,
+          "adr": 16.75
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 226,
+          "adr": 56.5
+        }
+      ]
+    }
+  },
+  "654": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 480,
+          "adr": 96
+        },
+        {
+          "name": "olofmeister",
+          "damage": 373,
+          "adr": 74.6
+        },
+        {
+          "name": "karrigan",
+          "damage": 398,
+          "adr": 79.6
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 226,
+          "adr": 45.2
+        },
+        {
+          "name": "rain",
+          "damage": 979,
+          "adr": 195.8
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 364,
+          "adr": 72.8
+        },
+        {
+          "name": "draken",
+          "damage": 263,
+          "adr": 52.6
+        },
+        {
+          "name": "Xizt",
+          "damage": 56,
+          "adr": 11.2
+        },
+        {
+          "name": "f0rest",
+          "damage": 86,
+          "adr": 17.2
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 359,
+          "adr": 71.8
+        }
+      ]
+    }
+  },
+  "714": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 508,
+          "adr": 84.66666666666667
+        },
+        {
+          "name": "olofmeister",
+          "damage": 441,
+          "adr": 73.5
+        },
+        {
+          "name": "karrigan",
+          "damage": 398,
+          "adr": 66.33333333333333
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 226,
+          "adr": 37.666666666666664
+        },
+        {
+          "name": "rain",
+          "damage": 1479,
+          "adr": 246.5
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 612,
+          "adr": 102
+        },
+        {
+          "name": "draken",
+          "damage": 263,
+          "adr": 43.833333333333336
+        },
+        {
+          "name": "Xizt",
+          "damage": 271,
+          "adr": 45.166666666666664
+        },
+        {
+          "name": "f0rest",
+          "damage": 244,
+          "adr": 40.666666666666664
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 411,
+          "adr": 68.5
+        }
+      ]
+    }
+  },
+  "849": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 560,
+          "adr": 80
+        },
+        {
+          "name": "olofmeister",
+          "damage": 517,
+          "adr": 73.85714285714286
+        },
+        {
+          "name": "karrigan",
+          "damage": 398,
+          "adr": 56.857142857142854
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 226,
+          "adr": 32.285714285714285
+        },
+        {
+          "name": "rain",
+          "damage": 1641,
+          "adr": 234.42857142857142
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 695,
+          "adr": 99.28571428571429
+        },
+        {
+          "name": "draken",
+          "damage": 285,
+          "adr": 40.714285714285715
+        },
+        {
+          "name": "Xizt",
+          "damage": 405,
+          "adr": 57.857142857142854
+        },
+        {
+          "name": "f0rest",
+          "damage": 514,
+          "adr": 73.42857142857143
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 712,
+          "adr": 101.71428571428571
+        }
+      ]
+    }
+  },
+  "1035": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 787,
+          "adr": 98.375
+        },
+        {
+          "name": "olofmeister",
+          "damage": 517,
+          "adr": 64.625
+        },
+        {
+          "name": "karrigan",
+          "damage": 398,
+          "adr": 49.75
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 293,
+          "adr": 36.625
+        },
+        {
+          "name": "rain",
+          "damage": 1867,
+          "adr": 233.375
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 1247,
+          "adr": 155.875
+        },
+        {
+          "name": "draken",
+          "damage": 385,
+          "adr": 48.125
+        },
+        {
+          "name": "Xizt",
+          "damage": 699,
+          "adr": 87.375
+        },
+        {
+          "name": "f0rest",
+          "damage": 514,
+          "adr": 64.25
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 792,
+          "adr": 99
+        }
+      ]
+    }
+  },
+  "1141": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1087,
+          "adr": 120.77777777777777
+        },
+        {
+          "name": "olofmeister",
+          "damage": 544,
+          "adr": 60.44444444444444
+        },
+        {
+          "name": "karrigan",
+          "damage": 398,
+          "adr": 44.22222222222222
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 359,
+          "adr": 39.888888888888886
+        },
+        {
+          "name": "rain",
+          "damage": 2474,
+          "adr": 274.8888888888889
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 1326,
+          "adr": 147.33333333333334
+        },
+        {
+          "name": "draken",
+          "damage": 412,
+          "adr": 45.77777777777778
+        },
+        {
+          "name": "Xizt",
+          "damage": 699,
+          "adr": 77.66666666666667
+        },
+        {
+          "name": "f0rest",
+          "damage": 648,
+          "adr": 72
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 1171,
+          "adr": 130.11111111111111
+        }
+      ]
+    }
+  },
+  "1309": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1401,
+          "adr": 140.1
+        },
+        {
+          "name": "olofmeister",
+          "damage": 713,
+          "adr": 71.3
+        },
+        {
+          "name": "karrigan",
+          "damage": 420,
+          "adr": 42
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 537,
+          "adr": 53.7
+        },
+        {
+          "name": "rain",
+          "damage": 2598,
+          "adr": 259.8
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 1357,
+          "adr": 135.7
+        },
+        {
+          "name": "draken",
+          "damage": 524,
+          "adr": 52.4
+        },
+        {
+          "name": "Xizt",
+          "damage": 899,
+          "adr": 89.9
+        },
+        {
+          "name": "f0rest",
+          "damage": 692,
+          "adr": 69.2
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 1384,
+          "adr": 138.4
+        }
+      ]
+    }
+  },
+  "1420": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1401,
+          "adr": 127.36363636363636
+        },
+        {
+          "name": "olofmeister",
+          "damage": 798,
+          "adr": 72.54545454545455
+        },
+        {
+          "name": "karrigan",
+          "damage": 517,
+          "adr": 47
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 714,
+          "adr": 64.9090909090909
+        },
+        {
+          "name": "rain",
+          "damage": 2637,
+          "adr": 239.72727272727272
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 1392,
+          "adr": 126.54545454545455
+        },
+        {
+          "name": "draken",
+          "damage": 524,
+          "adr": 47.63636363636363
+        },
+        {
+          "name": "Xizt",
+          "damage": 1064,
+          "adr": 96.72727272727273
+        },
+        {
+          "name": "f0rest",
+          "damage": 692,
+          "adr": 62.90909090909091
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 1384,
+          "adr": 125.81818181818181
+        }
+      ]
+    }
+  },
+  "1554": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1630,
+          "adr": 135.83333333333334
+        },
+        {
+          "name": "olofmeister",
+          "damage": 833,
+          "adr": 69.41666666666667
+        },
+        {
+          "name": "karrigan",
+          "damage": 517,
+          "adr": 43.083333333333336
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 850,
+          "adr": 70.83333333333333
+        },
+        {
+          "name": "rain",
+          "damage": 2737,
+          "adr": 228.08333333333334
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 1585,
+          "adr": 132.08333333333334
+        },
+        {
+          "name": "draken",
+          "damage": 524,
+          "adr": 43.666666666666664
+        },
+        {
+          "name": "Xizt",
+          "damage": 1089,
+          "adr": 90.75
+        },
+        {
+          "name": "f0rest",
+          "damage": 870,
+          "adr": 72.5
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 1484,
+          "adr": 123.66666666666667
+        }
+      ]
+    }
+  },
+  "1709": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1694,
+          "adr": 130.30769230769232
+        },
+        {
+          "name": "olofmeister",
+          "damage": 969,
+          "adr": 74.53846153846153
+        },
+        {
+          "name": "karrigan",
+          "damage": 570,
+          "adr": 43.84615384615385
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 850,
+          "adr": 65.38461538461539
+        },
+        {
+          "name": "rain",
+          "damage": 2837,
+          "adr": 218.23076923076923
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 1641,
+          "adr": 126.23076923076923
+        },
+        {
+          "name": "draken",
+          "damage": 564,
+          "adr": 43.38461538461539
+        },
+        {
+          "name": "Xizt",
+          "damage": 1130,
+          "adr": 86.92307692307692
+        },
+        {
+          "name": "f0rest",
+          "damage": 870,
+          "adr": 66.92307692307692
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 1485,
+          "adr": 114.23076923076923
+        }
+      ]
+    }
+  },
+  "1820": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1694,
+          "adr": 121
+        },
+        {
+          "name": "olofmeister",
+          "damage": 1005,
+          "adr": 71.78571428571429
+        },
+        {
+          "name": "karrigan",
+          "damage": 576,
+          "adr": 41.142857142857146
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1014,
+          "adr": 72.42857142857143
+        },
+        {
+          "name": "rain",
+          "damage": 2837,
+          "adr": 202.64285714285714
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 1718,
+          "adr": 122.71428571428571
+        },
+        {
+          "name": "draken",
+          "damage": 594,
+          "adr": 42.42857142857143
+        },
+        {
+          "name": "Xizt",
+          "damage": 1253,
+          "adr": 89.5
+        },
+        {
+          "name": "f0rest",
+          "damage": 940,
+          "adr": 67.14285714285714
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 1685,
+          "adr": 120.35714285714286
+        }
+      ]
+    }
+  },
+  "1942": {
+    "terrorists": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "NiKo",
+          "damage": 1694,
+          "adr": 112.93333333333334
+        },
+        {
+          "name": "olofmeister",
+          "damage": 1231,
+          "adr": 82.06666666666666
+        },
+        {
+          "name": "karrigan",
+          "damage": 576,
+          "adr": 38.4
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1114,
+          "adr": 74.26666666666667
+        },
+        {
+          "name": "rain",
+          "damage": 3011,
+          "adr": 200.73333333333332
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "REZ",
+          "damage": 1833,
+          "adr": 122.2
+        },
+        {
+          "name": "draken",
+          "damage": 594,
+          "adr": 39.6
+        },
+        {
+          "name": "Xizt",
+          "damage": 1407,
+          "adr": 93.8
+        },
+        {
+          "name": "f0rest",
+          "damage": 1040,
+          "adr": 69.33333333333333
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 1785,
+          "adr": 119
+        }
+      ]
+    }
+  },
+  "2208": {
+    "terrorists": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "Xizt",
+          "damage": 1804,
+          "adr": 112.75
+        },
+        {
+          "name": "draken",
+          "damage": 1231,
+          "adr": 76.9375
+        },
+        {
+          "name": "REZ",
+          "damage": 576,
+          "adr": 36
+        },
+        {
+          "name": "f0rest",
+          "damage": 1204,
+          "adr": 75.25
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 3155,
+          "adr": 197.1875
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "rain",
+          "damage": 1974,
+          "adr": 123.375
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 750,
+          "adr": 46.875
+        },
+        {
+          "name": "NiKo",
+          "damage": 1507,
+          "adr": 94.1875
+        },
+        {
+          "name": "karrigan",
+          "damage": 1040,
+          "adr": 65
+        },
+        {
+          "name": "olofmeister",
+          "damage": 1888,
+          "adr": 118
+        }
+      ]
+    }
+  },
+  "2301": {
+    "terrorists": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "Xizt",
+          "damage": 1804,
+          "adr": 106.11764705882354
+        },
+        {
+          "name": "draken",
+          "damage": 1231,
+          "adr": 72.41176470588235
+        },
+        {
+          "name": "REZ",
+          "damage": 673,
+          "adr": 39.588235294117645
+        },
+        {
+          "name": "f0rest",
+          "damage": 1204,
+          "adr": 70.82352941176471
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 3180,
+          "adr": 187.05882352941177
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "rain",
+          "damage": 2174,
+          "adr": 127.88235294117646
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 913,
+          "adr": 53.705882352941174
+        },
+        {
+          "name": "NiKo",
+          "damage": 1507,
+          "adr": 88.6470588235294
+        },
+        {
+          "name": "karrigan",
+          "damage": 1040,
+          "adr": 61.1764705882353
+        },
+        {
+          "name": "olofmeister",
+          "damage": 2025,
+          "adr": 119.11764705882354
+        }
+      ]
+    }
+  },
+  "2445": {
+    "terrorists": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "Xizt",
+          "damage": 1944,
+          "adr": 108
+        },
+        {
+          "name": "draken",
+          "damage": 1257,
+          "adr": 69.83333333333333
+        },
+        {
+          "name": "REZ",
+          "damage": 773,
+          "adr": 42.94444444444444
+        },
+        {
+          "name": "f0rest",
+          "damage": 1238,
+          "adr": 68.77777777777777
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 3332,
+          "adr": 185.11111111111111
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "rain",
+          "damage": 2259,
+          "adr": 125.5
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 928,
+          "adr": 51.55555555555556
+        },
+        {
+          "name": "NiKo",
+          "damage": 1517,
+          "adr": 84.27777777777777
+        },
+        {
+          "name": "karrigan",
+          "damage": 1130,
+          "adr": 62.77777777777778
+        },
+        {
+          "name": "olofmeister",
+          "damage": 2025,
+          "adr": 112.5
+        }
+      ]
+    }
+  },
+  "2576": {
+    "terrorists": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "Xizt",
+          "damage": 1971,
+          "adr": 103.73684210526316
+        },
+        {
+          "name": "draken",
+          "damage": 1265,
+          "adr": 66.57894736842105
+        },
+        {
+          "name": "REZ",
+          "damage": 919,
+          "adr": 48.36842105263158
+        },
+        {
+          "name": "f0rest",
+          "damage": 1557,
+          "adr": 81.94736842105263
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 3332,
+          "adr": 175.3684210526316
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "rain",
+          "damage": 2259,
+          "adr": 118.89473684210526
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1011,
+          "adr": 53.21052631578947
+        },
+        {
+          "name": "NiKo",
+          "damage": 1749,
+          "adr": 92.05263157894737
+        },
+        {
+          "name": "karrigan",
+          "damage": 1198,
+          "adr": 63.05263157894737
+        },
+        {
+          "name": "olofmeister",
+          "damage": 2025,
+          "adr": 106.57894736842105
+        }
+      ]
+    }
+  },
+  "2635": {
+    "terrorists": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "Xizt",
+          "damage": 2099,
+          "adr": 104.95
+        },
+        {
+          "name": "draken",
+          "damage": 1443,
+          "adr": 72.15
+        },
+        {
+          "name": "REZ",
+          "damage": 1015,
+          "adr": 50.75
+        },
+        {
+          "name": "f0rest",
+          "damage": 1678,
+          "adr": 83.9
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 3332,
+          "adr": 166.6
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "rain",
+          "damage": 2259,
+          "adr": 112.95
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1011,
+          "adr": 50.55
+        },
+        {
+          "name": "NiKo",
+          "damage": 1830,
+          "adr": 91.5
+        },
+        {
+          "name": "karrigan",
+          "damage": 1250,
+          "adr": 62.5
+        },
+        {
+          "name": "olofmeister",
+          "damage": 2129,
+          "adr": 106.45
+        }
+      ]
+    }
+  },
+  "2752": {
+    "terrorists": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "Xizt",
+          "damage": 2099,
+          "adr": 99.95238095238095
+        },
+        {
+          "name": "draken",
+          "damage": 1443,
+          "adr": 68.71428571428571
+        },
+        {
+          "name": "REZ",
+          "damage": 1015,
+          "adr": 48.333333333333336
+        },
+        {
+          "name": "f0rest",
+          "damage": 1681,
+          "adr": 80.04761904761905
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 3332,
+          "adr": 158.66666666666666
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "rain",
+          "damage": 2359,
+          "adr": 112.33333333333333
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1111,
+          "adr": 52.904761904761905
+        },
+        {
+          "name": "NiKo",
+          "damage": 2063,
+          "adr": 98.23809523809524
+        },
+        {
+          "name": "karrigan",
+          "damage": 1250,
+          "adr": 59.523809523809526
+        },
+        {
+          "name": "olofmeister",
+          "damage": 2196,
+          "adr": 104.57142857142857
+        }
+      ]
+    }
+  },
+  "2925": {
+    "terrorists": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "Xizt",
+          "damage": 2099,
+          "adr": 95.4090909090909
+        },
+        {
+          "name": "draken",
+          "damage": 1443,
+          "adr": 65.5909090909091
+        },
+        {
+          "name": "REZ",
+          "damage": 1060,
+          "adr": 48.18181818181818
+        },
+        {
+          "name": "f0rest",
+          "damage": 1681,
+          "adr": 76.4090909090909
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 3332,
+          "adr": 151.45454545454547
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "rain",
+          "damage": 2459,
+          "adr": 111.77272727272727
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1111,
+          "adr": 50.5
+        },
+        {
+          "name": "NiKo",
+          "damage": 2099,
+          "adr": 95.4090909090909
+        },
+        {
+          "name": "karrigan",
+          "damage": 1341,
+          "adr": 60.95454545454545
+        },
+        {
+          "name": "olofmeister",
+          "damage": 2196,
+          "adr": 99.81818181818181
+        }
+      ]
+    }
+  },
+  "2976": {
+    "terrorists": {
+      "teamName": "Ninjas in Pyjamas",
+      "players": [
+        {
+          "name": "Xizt",
+          "damage": 2099,
+          "adr": 91.26086956521739
+        },
+        {
+          "name": "draken",
+          "damage": 1479,
+          "adr": 64.30434782608695
+        },
+        {
+          "name": "REZ",
+          "damage": 1060,
+          "adr": 46.08695652173913
+        },
+        {
+          "name": "f0rest",
+          "damage": 1808,
+          "adr": 78.6086956521739
+        },
+        {
+          "name": "GeT_RiGhT",
+          "damage": 3362,
+          "adr": 146.17391304347825
+        }
+      ]
+    },
+    "cts": {
+      "teamName": "FaZe Clan",
+      "players": [
+        {
+          "name": "rain",
+          "damage": 2459,
+          "adr": 106.91304347826087
+        },
+        {
+          "name": "GuardiaN",
+          "damage": 1111,
+          "adr": 48.30434782608695
+        },
+        {
+          "name": "NiKo",
+          "damage": 2312,
+          "adr": 100.52173913043478
+        },
+        {
+          "name": "karrigan",
+          "damage": 1492,
+          "adr": 64.8695652173913
+        },
+        {
+          "name": "olofmeister",
+          "damage": 2314,
+          "adr": 100.6086956521739
+        }
+      ]
+    }
+  }
+}

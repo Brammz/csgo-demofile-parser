@@ -1,0 +1,6122 @@
+{
+  "0": {
+    "terroristsAccount": 4000,
+    "terroristsEquipment": 0,
+    "ctAccount": 4000,
+    "ctEquipment": 0
+  },
+  "1": {
+    "terroristsAccount": 1350,
+    "terroristsEquipment": 3650,
+    "ctAccount": 1250,
+    "ctEquipment": 3750
+  },
+  "3": {
+    "terroristsAccount": 1350,
+    "terroristsEquipment": 3650,
+    "ctAccount": 600,
+    "ctEquipment": 4400
+  },
+  "5": {
+    "terroristsAccount": 700,
+    "terroristsEquipment": 4300,
+    "ctAccount": 600,
+    "ctEquipment": 4400
+  },
+  "6": {
+    "terroristsAccount": 650,
+    "terroristsEquipment": 4350,
+    "ctAccount": 600,
+    "ctEquipment": 4400
+  },
+  "7": {
+    "terroristsAccount": 650,
+    "terroristsEquipment": 4350,
+    "ctAccount": 600,
+    "ctEquipment": 4400
+  },
+  "17": {
+    "terroristsAccount": 650,
+    "terroristsEquipment": 4350,
+    "ctAccount": 600,
+    "ctEquipment": 4400
+  },
+  "18": {
+    "terroristsAccount": 650,
+    "terroristsEquipment": 4350,
+    "ctAccount": 600,
+    "ctEquipment": 4400
+  },
+  "19": {
+    "terroristsAccount": 650,
+    "terroristsEquipment": 4350,
+    "ctAccount": 600,
+    "ctEquipment": 4400
+  },
+  "30": {
+    "terroristsAccount": 650,
+    "terroristsEquipment": 4350,
+    "ctAccount": 600,
+    "ctEquipment": 4400
+  },
+  "31": {
+    "terroristsAccount": 650,
+    "terroristsEquipment": 4350,
+    "ctAccount": 600,
+    "ctEquipment": 4400
+  },
+  "34": {
+    "terroristsAccount": 650,
+    "terroristsEquipment": 4350,
+    "ctAccount": 900,
+    "ctEquipment": 4400
+  },
+  "35": {
+    "terroristsAccount": 950,
+    "terroristsEquipment": 4350,
+    "ctAccount": 900,
+    "ctEquipment": 4400
+  },
+  "48": {
+    "terroristsAccount": 950,
+    "terroristsEquipment": 4350,
+    "ctAccount": 900,
+    "ctEquipment": 4400
+  },
+  "51": {
+    "terroristsAccount": 950,
+    "terroristsEquipment": 4350,
+    "ctAccount": 1200,
+    "ctEquipment": 4400
+  },
+  "58": {
+    "terroristsAccount": 1250,
+    "terroristsEquipment": 4350,
+    "ctAccount": 1200,
+    "ctEquipment": 4400
+  },
+  "70": {
+    "terroristsAccount": 1550,
+    "terroristsEquipment": 4350,
+    "ctAccount": 1200,
+    "ctEquipment": 4400
+  },
+  "73": {
+    "terroristsAccount": 1550,
+    "terroristsEquipment": 4350,
+    "ctAccount": 1200,
+    "ctEquipment": 4400
+  },
+  "83": {
+    "terroristsAccount": 1850,
+    "terroristsEquipment": 4350,
+    "ctAccount": 1200,
+    "ctEquipment": 4400
+  },
+  "86": {
+    "terroristsAccount": 1850,
+    "terroristsEquipment": 4350,
+    "ctAccount": 1500,
+    "ctEquipment": 4400
+  },
+  "93": {
+    "terroristsAccount": 1850,
+    "terroristsEquipment": 4350,
+    "ctAccount": 1800,
+    "ctEquipment": 4800
+  },
+  "96": {
+    "terroristsAccount": 1850,
+    "terroristsEquipment": 4350,
+    "ctAccount": 2100,
+    "ctEquipment": 4800
+  },
+  "101": {
+    "terroristsAccount": 1850,
+    "terroristsEquipment": 4350,
+    "ctAccount": 2100,
+    "ctEquipment": 4850
+  },
+  "106": {
+    "terroristsAccount": 12850,
+    "terroristsEquipment": 4350,
+    "ctAccount": 19900,
+    "ctEquipment": 4850
+  },
+  "108": {
+    "terroristsAccount": 12850,
+    "terroristsEquipment": 4350,
+    "ctAccount": 19900,
+    "ctEquipment": 4850
+  },
+  "111": {
+    "terroristsAccount": 12850,
+    "terroristsEquipment": 1000,
+    "ctAccount": 19900,
+    "ctEquipment": 2700
+  },
+  "114": {
+    "terroristsAccount": 12850,
+    "terroristsEquipment": 1000,
+    "ctAccount": 15800,
+    "ctEquipment": 6150
+  },
+  "117": {
+    "terroristsAccount": 12850,
+    "terroristsEquipment": 1000,
+    "ctAccount": 15800,
+    "ctEquipment": 6150
+  },
+  "118": {
+    "terroristsAccount": 10850,
+    "terroristsEquipment": 2600,
+    "ctAccount": 15800,
+    "ctEquipment": 6150
+  },
+  "119": {
+    "terroristsAccount": 8350,
+    "terroristsEquipment": 4900,
+    "ctAccount": 11500,
+    "ctEquipment": 10450
+  },
+  "120": {
+    "terroristsAccount": 6950,
+    "terroristsEquipment": 6300,
+    "ctAccount": 7700,
+    "ctEquipment": 13600
+  },
+  "121": {
+    "terroristsAccount": 2650,
+    "terroristsEquipment": 10400,
+    "ctAccount": 5600,
+    "ctEquipment": 15700
+  },
+  "122": {
+    "terroristsAccount": 1850,
+    "terroristsEquipment": 11200,
+    "ctAccount": 4400,
+    "ctEquipment": 16900
+  },
+  "123": {
+    "terroristsAccount": 1650,
+    "terroristsEquipment": 11400,
+    "ctAccount": 2750,
+    "ctEquipment": 18550
+  },
+  "124": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 11600,
+    "ctAccount": 1650,
+    "ctEquipment": 19650
+  },
+  "125": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 11600,
+    "ctAccount": 850,
+    "ctEquipment": 20450
+  },
+  "126": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 11600,
+    "ctAccount": 650,
+    "ctEquipment": 20650
+  },
+  "127": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 12500,
+    "ctAccount": 650,
+    "ctEquipment": 20650
+  },
+  "128": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 11600,
+    "ctAccount": 650,
+    "ctEquipment": 20650
+  },
+  "139": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 11600,
+    "ctAccount": 650,
+    "ctEquipment": 20650
+  },
+  "140": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 11600,
+    "ctAccount": 650,
+    "ctEquipment": 20650
+  },
+  "141": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 11600,
+    "ctAccount": 1250,
+    "ctEquipment": 20650
+  },
+  "142": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 11600,
+    "ctAccount": 1250,
+    "ctEquipment": 20650
+  },
+  "143": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 12800,
+    "ctAccount": 1250,
+    "ctEquipment": 20650
+  },
+  "144": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 12800,
+    "ctAccount": 1250,
+    "ctEquipment": 20650
+  },
+  "145": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 12800,
+    "ctAccount": 1250,
+    "ctEquipment": 20650
+  },
+  "146": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 12800,
+    "ctAccount": 1250,
+    "ctEquipment": 20650
+  },
+  "147": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 12800,
+    "ctAccount": 1250,
+    "ctEquipment": 20650
+  },
+  "148": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 12800,
+    "ctAccount": 1250,
+    "ctEquipment": 20650
+  },
+  "150": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 12800,
+    "ctAccount": 1250,
+    "ctEquipment": 20650
+  },
+  "151": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 12800,
+    "ctAccount": 1250,
+    "ctEquipment": 20650
+  },
+  "154": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 12800,
+    "ctAccount": 1850,
+    "ctEquipment": 20650
+  },
+  "155": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 12700,
+    "ctAccount": 2450,
+    "ctEquipment": 20650
+  },
+  "156": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 12200,
+    "ctAccount": 2450,
+    "ctEquipment": 20650
+  },
+  "157": {
+    "terroristsAccount": 10950,
+    "terroristsEquipment": 12200,
+    "ctAccount": 19600,
+    "ctEquipment": 20650
+  },
+  "159": {
+    "terroristsAccount": 10950,
+    "terroristsEquipment": 12200,
+    "ctAccount": 19600,
+    "ctEquipment": 21150
+  },
+  "160": {
+    "terroristsAccount": 10950,
+    "terroristsEquipment": 12200,
+    "ctAccount": 19600,
+    "ctEquipment": 20800
+  },
+  "161": {
+    "terroristsAccount": 10950,
+    "terroristsEquipment": 12200,
+    "ctAccount": 19600,
+    "ctEquipment": 20850
+  },
+  "162": {
+    "terroristsAccount": 10950,
+    "terroristsEquipment": 1000,
+    "ctAccount": 19600,
+    "ctEquipment": 20150
+  },
+  "165": {
+    "terroristsAccount": 10950,
+    "terroristsEquipment": 1000,
+    "ctAccount": 18700,
+    "ctEquipment": 21050
+  },
+  "166": {
+    "terroristsAccount": 10950,
+    "terroristsEquipment": 1000,
+    "ctAccount": 18000,
+    "ctEquipment": 21750
+  },
+  "167": {
+    "terroristsAccount": 10250,
+    "terroristsEquipment": 1500,
+    "ctAccount": 17400,
+    "ctEquipment": 22350
+  },
+  "172": {
+    "terroristsAccount": 10250,
+    "terroristsEquipment": 1500,
+    "ctAccount": 17100,
+    "ctEquipment": 22650
+  },
+  "174": {
+    "terroristsAccount": 9950,
+    "terroristsEquipment": 1600,
+    "ctAccount": 17100,
+    "ctEquipment": 22650
+  },
+  "178": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 17100,
+    "ctEquipment": 22650
+  },
+  "183": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 17100,
+    "ctEquipment": 22650
+  },
+  "185": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 17100,
+    "ctEquipment": 22650
+  },
+  "186": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 17100,
+    "ctEquipment": 22650
+  },
+  "189": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 17100,
+    "ctEquipment": 22650
+  },
+  "194": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 17100,
+    "ctEquipment": 22650
+  },
+  "195": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 17100,
+    "ctEquipment": 22650
+  },
+  "199": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 17100,
+    "ctEquipment": 22650
+  },
+  "201": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 17100,
+    "ctEquipment": 22650
+  },
+  "204": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 17100,
+    "ctEquipment": 22650
+  },
+  "206": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 17400,
+    "ctEquipment": 22650
+  },
+  "207": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 18000,
+    "ctEquipment": 22650
+  },
+  "208": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 18900,
+    "ctEquipment": 22650
+  },
+  "209": {
+    "terroristsAccount": 21650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 35750,
+    "ctEquipment": 22650
+  },
+  "213": {
+    "terroristsAccount": 21650,
+    "terroristsEquipment": 1700,
+    "ctAccount": 35750,
+    "ctEquipment": 23150
+  },
+  "214": {
+    "terroristsAccount": 17950,
+    "terroristsEquipment": 4700,
+    "ctAccount": 35750,
+    "ctEquipment": 20850
+  },
+  "215": {
+    "terroristsAccount": 17950,
+    "terroristsEquipment": 4700,
+    "ctAccount": 33750,
+    "ctEquipment": 22850
+  },
+  "216": {
+    "terroristsAccount": 17350,
+    "terroristsEquipment": 5300,
+    "ctAccount": 33350,
+    "ctEquipment": 23250
+  },
+  "217": {
+    "terroristsAccount": 14650,
+    "terroristsEquipment": 8000,
+    "ctAccount": 33350,
+    "ctEquipment": 23250
+  },
+  "219": {
+    "terroristsAccount": 14650,
+    "terroristsEquipment": 8000,
+    "ctAccount": 33050,
+    "ctEquipment": 23550
+  },
+  "220": {
+    "terroristsAccount": 14650,
+    "terroristsEquipment": 8000,
+    "ctAccount": 32850,
+    "ctEquipment": 23750
+  },
+  "221": {
+    "terroristsAccount": 9650,
+    "terroristsEquipment": 13000,
+    "ctAccount": 32250,
+    "ctEquipment": 24350
+  },
+  "222": {
+    "terroristsAccount": 6750,
+    "terroristsEquipment": 15900,
+    "ctAccount": 32250,
+    "ctEquipment": 24350
+  },
+  "223": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 16900,
+    "ctAccount": 31450,
+    "ctEquipment": 25150
+  },
+  "224": {
+    "terroristsAccount": 5450,
+    "terroristsEquipment": 17200,
+    "ctAccount": 31450,
+    "ctEquipment": 25150
+  },
+  "225": {
+    "terroristsAccount": 1350,
+    "terroristsEquipment": 21300,
+    "ctAccount": 31450,
+    "ctEquipment": 25150
+  },
+  "226": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 31450,
+    "ctEquipment": 25150
+  },
+  "227": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27550,
+    "ctEquipment": 27800
+  },
+  "234": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27550,
+    "ctEquipment": 27800
+  },
+  "238": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27550,
+    "ctEquipment": 27800
+  },
+  "239": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27550,
+    "ctEquipment": 27800
+  },
+  "240": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27550,
+    "ctEquipment": 27800
+  },
+  "241": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27550,
+    "ctEquipment": 27800
+  },
+  "242": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27550,
+    "ctEquipment": 27800
+  },
+  "243": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27550,
+    "ctEquipment": 27800
+  },
+  "245": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27550,
+    "ctEquipment": 27800
+  },
+  "248": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27550,
+    "ctEquipment": 27800
+  },
+  "249": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27550,
+    "ctEquipment": 27800
+  },
+  "250": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27550,
+    "ctEquipment": 27800
+  },
+  "251": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27550,
+    "ctEquipment": 27800
+  },
+  "252": {
+    "terroristsAccount": 250,
+    "terroristsEquipment": 22400,
+    "ctAccount": 27850,
+    "ctEquipment": 27800
+  },
+  "254": {
+    "terroristsAccount": 550,
+    "terroristsEquipment": 22100,
+    "ctAccount": 28150,
+    "ctEquipment": 27800
+  },
+  "255": {
+    "terroristsAccount": 550,
+    "terroristsEquipment": 22100,
+    "ctAccount": 28150,
+    "ctEquipment": 27800
+  },
+  "257": {
+    "terroristsAccount": 850,
+    "terroristsEquipment": 22100,
+    "ctAccount": 28150,
+    "ctEquipment": 27800
+  },
+  "260": {
+    "terroristsAccount": 850,
+    "terroristsEquipment": 22100,
+    "ctAccount": 28150,
+    "ctEquipment": 27800
+  },
+  "262": {
+    "terroristsAccount": 850,
+    "terroristsEquipment": 22100,
+    "ctAccount": 28150,
+    "ctEquipment": 27800
+  },
+  "263": {
+    "terroristsAccount": 850,
+    "terroristsEquipment": 22100,
+    "ctAccount": 29050,
+    "ctEquipment": 27800
+  },
+  "264": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 22100,
+    "ctAccount": 29050,
+    "ctEquipment": 27800
+  },
+  "266": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 22100,
+    "ctAccount": 29350,
+    "ctEquipment": 27800
+  },
+  "269": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 22100,
+    "ctAccount": 29350,
+    "ctEquipment": 27800
+  },
+  "271": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 22100,
+    "ctAccount": 29350,
+    "ctEquipment": 27800
+  },
+  "277": {
+    "terroristsAccount": 1450,
+    "terroristsEquipment": 22700,
+    "ctAccount": 29350,
+    "ctEquipment": 27800
+  },
+  "288": {
+    "terroristsAccount": 18000,
+    "terroristsEquipment": 22700,
+    "ctAccount": 36350,
+    "ctEquipment": 27800
+  },
+  "293": {
+    "terroristsAccount": 18000,
+    "terroristsEquipment": 5500,
+    "ctAccount": 36350,
+    "ctEquipment": 1000
+  },
+  "295": {
+    "terroristsAccount": 14300,
+    "terroristsEquipment": 9200,
+    "ctAccount": 27500,
+    "ctEquipment": 9850
+  },
+  "296": {
+    "terroristsAccount": 14300,
+    "terroristsEquipment": 9200,
+    "ctAccount": 18600,
+    "ctEquipment": 18750
+  },
+  "297": {
+    "terroristsAccount": 14300,
+    "terroristsEquipment": 9200,
+    "ctAccount": 14000,
+    "ctEquipment": 23350
+  },
+  "298": {
+    "terroristsAccount": 14300,
+    "terroristsEquipment": 11900,
+    "ctAccount": 9500,
+    "ctEquipment": 27850
+  },
+  "299": {
+    "terroristsAccount": 11600,
+    "terroristsEquipment": 11900,
+    "ctAccount": 7400,
+    "ctEquipment": 29950
+  },
+  "300": {
+    "terroristsAccount": 10300,
+    "terroristsEquipment": 13200,
+    "ctAccount": 6200,
+    "ctEquipment": 31150
+  },
+  "301": {
+    "terroristsAccount": 8800,
+    "terroristsEquipment": 14700,
+    "ctAccount": 6200,
+    "ctEquipment": 31150
+  },
+  "305": {
+    "terroristsAccount": 7600,
+    "terroristsEquipment": 15900,
+    "ctAccount": 6200,
+    "ctEquipment": 31150
+  },
+  "306": {
+    "terroristsAccount": 6600,
+    "terroristsEquipment": 16900,
+    "ctAccount": 6200,
+    "ctEquipment": 31150
+  },
+  "307": {
+    "terroristsAccount": 5900,
+    "terroristsEquipment": 17600,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "308": {
+    "terroristsAccount": 4000,
+    "terroristsEquipment": 19300,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "309": {
+    "terroristsAccount": 3100,
+    "terroristsEquipment": 20200,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "310": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20600,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "313": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20600,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "317": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20600,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "318": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20600,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "321": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20600,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "322": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20600,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "327": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20600,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "329": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20300,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "331": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20300,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "332": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20300,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "341": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20300,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "343": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20100,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "348": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20100,
+    "ctAccount": 5800,
+    "ctEquipment": 31550
+  },
+  "349": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6100,
+    "ctEquipment": 31550
+  },
+  "352": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6100,
+    "ctEquipment": 31550
+  },
+  "360": {
+    "terroristsAccount": 3000,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6100,
+    "ctEquipment": 31550
+  },
+  "363": {
+    "terroristsAccount": 3000,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6100,
+    "ctEquipment": 31550
+  },
+  "364": {
+    "terroristsAccount": 3000,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6100,
+    "ctEquipment": 31550
+  },
+  "365": {
+    "terroristsAccount": 3000,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6100,
+    "ctEquipment": 31550
+  },
+  "366": {
+    "terroristsAccount": 3000,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6100,
+    "ctEquipment": 31550
+  },
+  "367": {
+    "terroristsAccount": 3000,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6200,
+    "ctEquipment": 31550
+  },
+  "369": {
+    "terroristsAccount": 3000,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6200,
+    "ctEquipment": 31550
+  },
+  "371": {
+    "terroristsAccount": 3000,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6500,
+    "ctEquipment": 31550
+  },
+  "372": {
+    "terroristsAccount": 3600,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6500,
+    "ctEquipment": 31550
+  },
+  "378": {
+    "terroristsAccount": 3900,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6500,
+    "ctEquipment": 31550
+  },
+  "381": {
+    "terroristsAccount": 4500,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6500,
+    "ctEquipment": 31550
+  },
+  "385": {
+    "terroristsAccount": 4500,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6600,
+    "ctEquipment": 31550
+  },
+  "386": {
+    "terroristsAccount": 4500,
+    "terroristsEquipment": 20100,
+    "ctAccount": 6600,
+    "ctEquipment": 31550
+  },
+  "387": {
+    "terroristsAccount": 4500,
+    "terroristsEquipment": 21300,
+    "ctAccount": 6600,
+    "ctEquipment": 31550
+  },
+  "394": {
+    "terroristsAccount": 4800,
+    "terroristsEquipment": 21300,
+    "ctAccount": 6600,
+    "ctEquipment": 31550
+  },
+  "395": {
+    "terroristsAccount": 4800,
+    "terroristsEquipment": 21300,
+    "ctAccount": 6600,
+    "ctEquipment": 31750
+  },
+  "409": {
+    "terroristsAccount": 4800,
+    "terroristsEquipment": 21300,
+    "ctAccount": 6600,
+    "ctEquipment": 31750
+  },
+  "411": {
+    "terroristsAccount": 4800,
+    "terroristsEquipment": 21300,
+    "ctAccount": 6600,
+    "ctEquipment": 31750
+  },
+  "418": {
+    "terroristsAccount": 4800,
+    "terroristsEquipment": 21300,
+    "ctAccount": 6600,
+    "ctEquipment": 31750
+  },
+  "422": {
+    "terroristsAccount": 4800,
+    "terroristsEquipment": 21300,
+    "ctAccount": 6600,
+    "ctEquipment": 31550
+  },
+  "423": {
+    "terroristsAccount": 21350,
+    "terroristsEquipment": 21300,
+    "ctAccount": 16100,
+    "ctEquipment": 31550
+  },
+  "424": {
+    "terroristsAccount": 21350,
+    "terroristsEquipment": 23050,
+    "ctAccount": 16100,
+    "ctEquipment": 31550
+  },
+  "428": {
+    "terroristsAccount": 21350,
+    "terroristsEquipment": 7050,
+    "ctAccount": 16100,
+    "ctEquipment": 1000
+  },
+  "429": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 8050,
+    "ctAccount": 16100,
+    "ctEquipment": 1000
+  },
+  "435": {
+    "terroristsAccount": 17650,
+    "terroristsEquipment": 10750,
+    "ctAccount": 16100,
+    "ctEquipment": 1000
+  },
+  "436": {
+    "terroristsAccount": 14950,
+    "terroristsEquipment": 13450,
+    "ctAccount": 12350,
+    "ctEquipment": 4750
+  },
+  "437": {
+    "terroristsAccount": 14950,
+    "terroristsEquipment": 13450,
+    "ctAccount": 11350,
+    "ctEquipment": 5750
+  },
+  "438": {
+    "terroristsAccount": 14550,
+    "terroristsEquipment": 13850,
+    "ctAccount": 10850,
+    "ctEquipment": 6250
+  },
+  "439": {
+    "terroristsAccount": 14050,
+    "terroristsEquipment": 14350,
+    "ctAccount": 5550,
+    "ctEquipment": 11550
+  },
+  "440": {
+    "terroristsAccount": 8950,
+    "terroristsEquipment": 19450,
+    "ctAccount": 1350,
+    "ctEquipment": 15550
+  },
+  "441": {
+    "terroristsAccount": 8450,
+    "terroristsEquipment": 19950,
+    "ctAccount": 1350,
+    "ctEquipment": 15550
+  },
+  "442": {
+    "terroristsAccount": 8450,
+    "terroristsEquipment": 19950,
+    "ctAccount": 650,
+    "ctEquipment": 16250
+  },
+  "443": {
+    "terroristsAccount": 8450,
+    "terroristsEquipment": 19950,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "446": {
+    "terroristsAccount": 4750,
+    "terroristsEquipment": 23650,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "447": {
+    "terroristsAccount": 4050,
+    "terroristsEquipment": 24350,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "448": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "452": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "454": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "456": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "465": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "466": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "481": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "483": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "484": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "486": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "487": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "490": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "493": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "494": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "495": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "496": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "497": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "503": {
+    "terroristsAccount": 4150,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "505": {
+    "terroristsAccount": 4450,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "506": {
+    "terroristsAccount": 4450,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "512": {
+    "terroristsAccount": 5050,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "514": {
+    "terroristsAccount": 5350,
+    "terroristsEquipment": 24550,
+    "ctAccount": 250,
+    "ctEquipment": 16650
+  },
+  "516": {
+    "terroristsAccount": 5350,
+    "terroristsEquipment": 25250,
+    "ctAccount": 550,
+    "ctEquipment": 16650
+  },
+  "521": {
+    "terroristsAccount": 5650,
+    "terroristsEquipment": 25250,
+    "ctAccount": 550,
+    "ctEquipment": 16650
+  },
+  "533": {
+    "terroristsAccount": 22200,
+    "terroristsEquipment": 25250,
+    "ctAccount": 12550,
+    "ctEquipment": 16650
+  },
+  "534": {
+    "terroristsAccount": 22200,
+    "terroristsEquipment": 25150,
+    "ctAccount": 12550,
+    "ctEquipment": 16650
+  },
+  "535": {
+    "terroristsAccount": 22200,
+    "terroristsEquipment": 25150,
+    "ctAccount": 12550,
+    "ctEquipment": 16650
+  },
+  "538": {
+    "terroristsAccount": 22200,
+    "terroristsEquipment": 19050,
+    "ctAccount": 12550,
+    "ctEquipment": 1000
+  },
+  "540": {
+    "terroristsAccount": 19450,
+    "terroristsEquipment": 21800,
+    "ctAccount": 12550,
+    "ctEquipment": 1000
+  },
+  "543": {
+    "terroristsAccount": 19150,
+    "terroristsEquipment": 22100,
+    "ctAccount": 12550,
+    "ctEquipment": 1000
+  },
+  "544": {
+    "terroristsAccount": 18750,
+    "terroristsEquipment": 22500,
+    "ctAccount": 12550,
+    "ctEquipment": 1000
+  },
+  "545": {
+    "terroristsAccount": 17150,
+    "terroristsEquipment": 24100,
+    "ctAccount": 12550,
+    "ctEquipment": 1000
+  },
+  "546": {
+    "terroristsAccount": 16750,
+    "terroristsEquipment": 24500,
+    "ctAccount": 12550,
+    "ctEquipment": 1000
+  },
+  "547": {
+    "terroristsAccount": 15850,
+    "terroristsEquipment": 25400,
+    "ctAccount": 12550,
+    "ctEquipment": 1000
+  },
+  "578": {
+    "terroristsAccount": 14950,
+    "terroristsEquipment": 26300,
+    "ctAccount": 12550,
+    "ctEquipment": 1000
+  },
+  "588": {
+    "terroristsAccount": 14950,
+    "terroristsEquipment": 26300,
+    "ctAccount": 12350,
+    "ctEquipment": 1200
+  },
+  "589": {
+    "terroristsAccount": 14950,
+    "terroristsEquipment": 26300,
+    "ctAccount": 12350,
+    "ctEquipment": 1200
+  },
+  "590": {
+    "terroristsAccount": 14950,
+    "terroristsEquipment": 26300,
+    "ctAccount": 12350,
+    "ctEquipment": 1200
+  },
+  "603": {
+    "terroristsAccount": 14950,
+    "terroristsEquipment": 26300,
+    "ctAccount": 12350,
+    "ctEquipment": 1200
+  },
+  "604": {
+    "terroristsAccount": 14950,
+    "terroristsEquipment": 26300,
+    "ctAccount": 12350,
+    "ctEquipment": 1200
+  },
+  "606": {
+    "terroristsAccount": 15250,
+    "terroristsEquipment": 26300,
+    "ctAccount": 12350,
+    "ctEquipment": 1200
+  },
+  "607": {
+    "terroristsAccount": 15650,
+    "terroristsEquipment": 26300,
+    "ctAccount": 12350,
+    "ctEquipment": 1200
+  },
+  "608": {
+    "terroristsAccount": 15950,
+    "terroristsEquipment": 26300,
+    "ctAccount": 12350,
+    "ctEquipment": 1200
+  },
+  "609": {
+    "terroristsAccount": 15950,
+    "terroristsEquipment": 26300,
+    "ctAccount": 12350,
+    "ctEquipment": 1200
+  },
+  "610": {
+    "terroristsAccount": 15950,
+    "terroristsEquipment": 26300,
+    "ctAccount": 12650,
+    "ctEquipment": 1200
+  },
+  "626": {
+    "terroristsAccount": 32800,
+    "terroristsEquipment": 26300,
+    "ctAccount": 27150,
+    "ctEquipment": 1200
+  },
+  "629": {
+    "terroristsAccount": 32800,
+    "terroristsEquipment": 26300,
+    "ctAccount": 27150,
+    "ctEquipment": 1200
+  },
+  "630": {
+    "terroristsAccount": 32800,
+    "terroristsEquipment": 26300,
+    "ctAccount": 27150,
+    "ctEquipment": 1200
+  },
+  "631": {
+    "terroristsAccount": 32800,
+    "terroristsEquipment": 20300,
+    "ctAccount": 24050,
+    "ctEquipment": 4100
+  },
+  "632": {
+    "terroristsAccount": 32800,
+    "terroristsEquipment": 20300,
+    "ctAccount": 23400,
+    "ctEquipment": 4750
+  },
+  "635": {
+    "terroristsAccount": 32800,
+    "terroristsEquipment": 20300,
+    "ctAccount": 15550,
+    "ctEquipment": 12600
+  },
+  "636": {
+    "terroristsAccount": 32600,
+    "terroristsEquipment": 20500,
+    "ctAccount": 8550,
+    "ctEquipment": 19600
+  },
+  "637": {
+    "terroristsAccount": 32600,
+    "terroristsEquipment": 20500,
+    "ctAccount": 7550,
+    "ctEquipment": 20600
+  },
+  "638": {
+    "terroristsAccount": 31950,
+    "terroristsEquipment": 23600,
+    "ctAccount": 5750,
+    "ctEquipment": 22400
+  },
+  "639": {
+    "terroristsAccount": 27050,
+    "terroristsEquipment": 25400,
+    "ctAccount": 1650,
+    "ctEquipment": 26500
+  },
+  "640": {
+    "terroristsAccount": 26050,
+    "terroristsEquipment": 26200,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "641": {
+    "terroristsAccount": 25450,
+    "terroristsEquipment": 26800,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "645": {
+    "terroristsAccount": 25450,
+    "terroristsEquipment": 26800,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "646": {
+    "terroristsAccount": 25450,
+    "terroristsEquipment": 26800,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "651": {
+    "terroristsAccount": 25450,
+    "terroristsEquipment": 26800,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "656": {
+    "terroristsAccount": 25450,
+    "terroristsEquipment": 26800,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "658": {
+    "terroristsAccount": 25450,
+    "terroristsEquipment": 26800,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "659": {
+    "terroristsAccount": 25450,
+    "terroristsEquipment": 26800,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "663": {
+    "terroristsAccount": 25450,
+    "terroristsEquipment": 26800,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "664": {
+    "terroristsAccount": 25450,
+    "terroristsEquipment": 26800,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "666": {
+    "terroristsAccount": 25450,
+    "terroristsEquipment": 26800,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "668": {
+    "terroristsAccount": 25450,
+    "terroristsEquipment": 26800,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "669": {
+    "terroristsAccount": 26050,
+    "terroristsEquipment": 26800,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "670": {
+    "terroristsAccount": 26050,
+    "terroristsEquipment": 26800,
+    "ctAccount": 350,
+    "ctEquipment": 27800
+  },
+  "671": {
+    "terroristsAccount": 26050,
+    "terroristsEquipment": 26800,
+    "ctAccount": 650,
+    "ctEquipment": 27800
+  },
+  "672": {
+    "terroristsAccount": 26050,
+    "terroristsEquipment": 26800,
+    "ctAccount": 950,
+    "ctEquipment": 27800
+  },
+  "673": {
+    "terroristsAccount": 26050,
+    "terroristsEquipment": 26800,
+    "ctAccount": 950,
+    "ctEquipment": 27800
+  },
+  "675": {
+    "terroristsAccount": 26050,
+    "terroristsEquipment": 26800,
+    "ctAccount": 950,
+    "ctEquipment": 27800
+  },
+  "676": {
+    "terroristsAccount": 26050,
+    "terroristsEquipment": 26800,
+    "ctAccount": 950,
+    "ctEquipment": 27800
+  },
+  "677": {
+    "terroristsAccount": 26050,
+    "terroristsEquipment": 26800,
+    "ctAccount": 950,
+    "ctEquipment": 27800
+  },
+  "680": {
+    "terroristsAccount": 26050,
+    "terroristsEquipment": 26800,
+    "ctAccount": 1050,
+    "ctEquipment": 27800
+  },
+  "681": {
+    "terroristsAccount": 26050,
+    "terroristsEquipment": 26800,
+    "ctAccount": 1050,
+    "ctEquipment": 27800
+  },
+  "683": {
+    "terroristsAccount": 26350,
+    "terroristsEquipment": 26800,
+    "ctAccount": 1050,
+    "ctEquipment": 27800
+  },
+  "686": {
+    "terroristsAccount": 26650,
+    "terroristsEquipment": 26800,
+    "ctAccount": 1050,
+    "ctEquipment": 27800
+  },
+  "689": {
+    "terroristsAccount": 26750,
+    "terroristsEquipment": 26800,
+    "ctAccount": 1050,
+    "ctEquipment": 27800
+  },
+  "696": {
+    "terroristsAccount": 26750,
+    "terroristsEquipment": 26200,
+    "ctAccount": 1050,
+    "ctEquipment": 27800
+  },
+  "702": {
+    "terroristsAccount": 26750,
+    "terroristsEquipment": 26200,
+    "ctAccount": 1150,
+    "ctEquipment": 27800
+  },
+  "719": {
+    "terroristsAccount": 26750,
+    "terroristsEquipment": 26200,
+    "ctAccount": 1150,
+    "ctEquipment": 27800
+  },
+  "729": {
+    "terroristsAccount": 26750,
+    "terroristsEquipment": 26500,
+    "ctAccount": 1150,
+    "ctEquipment": 27800
+  },
+  "733": {
+    "terroristsAccount": 27050,
+    "terroristsEquipment": 26500,
+    "ctAccount": 1150,
+    "ctEquipment": 27800
+  },
+  "737": {
+    "terroristsAccount": 27050,
+    "terroristsEquipment": 26700,
+    "ctAccount": 1150,
+    "ctEquipment": 27800
+  },
+  "741": {
+    "terroristsAccount": 27050,
+    "terroristsEquipment": 26700,
+    "ctAccount": 1150,
+    "ctEquipment": 27800
+  },
+  "757": {
+    "terroristsAccount": 27050,
+    "terroristsEquipment": 26700,
+    "ctAccount": 1150,
+    "ctEquipment": 27800
+  },
+  "764": {
+    "terroristsAccount": 27050,
+    "terroristsEquipment": 26700,
+    "ctAccount": 1150,
+    "ctEquipment": 27800
+  },
+  "772": {
+    "terroristsAccount": 43600,
+    "terroristsEquipment": 26700,
+    "ctAccount": 18150,
+    "ctEquipment": 27800
+  },
+  "774": {
+    "terroristsAccount": 43600,
+    "terroristsEquipment": 28450,
+    "ctAccount": 18150,
+    "ctEquipment": 27800
+  },
+  "777": {
+    "terroristsAccount": 43600,
+    "terroristsEquipment": 1000,
+    "ctAccount": 18150,
+    "ctEquipment": 1000
+  },
+  "779": {
+    "terroristsAccount": 42600,
+    "terroristsEquipment": 2000,
+    "ctAccount": 18150,
+    "ctEquipment": 1000
+  },
+  "780": {
+    "terroristsAccount": 33300,
+    "terroristsEquipment": 11300,
+    "ctAccount": 18150,
+    "ctEquipment": 1000
+  },
+  "781": {
+    "terroristsAccount": 27450,
+    "terroristsEquipment": 17150,
+    "ctAccount": 18150,
+    "ctEquipment": 1000
+  },
+  "782": {
+    "terroristsAccount": 27050,
+    "terroristsEquipment": 17550,
+    "ctAccount": 18150,
+    "ctEquipment": 1000
+  },
+  "783": {
+    "terroristsAccount": 26000,
+    "terroristsEquipment": 18600,
+    "ctAccount": 18150,
+    "ctEquipment": 1000
+  },
+  "784": {
+    "terroristsAccount": 23300,
+    "terroristsEquipment": 21300,
+    "ctAccount": 18150,
+    "ctEquipment": 1000
+  },
+  "785": {
+    "terroristsAccount": 20100,
+    "terroristsEquipment": 24500,
+    "ctAccount": 18150,
+    "ctEquipment": 1000
+  },
+  "786": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 17450,
+    "ctEquipment": 1500
+  },
+  "787": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 16750,
+    "ctEquipment": 2000
+  },
+  "790": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 15350,
+    "ctEquipment": 3000
+  },
+  "792": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 15350,
+    "ctEquipment": 3000
+  },
+  "793": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 14650,
+    "ctEquipment": 3500
+  },
+  "794": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 14650,
+    "ctEquipment": 3500
+  },
+  "802": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 14650,
+    "ctEquipment": 3500
+  },
+  "816": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 14650,
+    "ctEquipment": 3500
+  },
+  "817": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 14650,
+    "ctEquipment": 3500
+  },
+  "818": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 14650,
+    "ctEquipment": 3500
+  },
+  "823": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 14650,
+    "ctEquipment": 3500
+  },
+  "824": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 14650,
+    "ctEquipment": 3500
+  },
+  "825": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 14950,
+    "ctEquipment": 3500
+  },
+  "826": {
+    "terroristsAccount": 19100,
+    "terroristsEquipment": 25500,
+    "ctAccount": 14950,
+    "ctEquipment": 3500
+  },
+  "829": {
+    "terroristsAccount": 19200,
+    "terroristsEquipment": 25500,
+    "ctAccount": 14950,
+    "ctEquipment": 3500
+  },
+  "831": {
+    "terroristsAccount": 19200,
+    "terroristsEquipment": 25500,
+    "ctAccount": 15050,
+    "ctEquipment": 3500
+  },
+  "832": {
+    "terroristsAccount": 19500,
+    "terroristsEquipment": 25500,
+    "ctAccount": 15050,
+    "ctEquipment": 3500
+  },
+  "836": {
+    "terroristsAccount": 19500,
+    "terroristsEquipment": 25500,
+    "ctAccount": 15050,
+    "ctEquipment": 3500
+  },
+  "837": {
+    "terroristsAccount": 19500,
+    "terroristsEquipment": 25500,
+    "ctAccount": 15050,
+    "ctEquipment": 3500
+  },
+  "842": {
+    "terroristsAccount": 19500,
+    "terroristsEquipment": 25500,
+    "ctAccount": 15050,
+    "ctEquipment": 3500
+  },
+  "843": {
+    "terroristsAccount": 19800,
+    "terroristsEquipment": 25500,
+    "ctAccount": 15050,
+    "ctEquipment": 3500
+  },
+  "864": {
+    "terroristsAccount": 19800,
+    "terroristsEquipment": 25500,
+    "ctAccount": 15050,
+    "ctEquipment": 3500
+  },
+  "869": {
+    "terroristsAccount": 19800,
+    "terroristsEquipment": 24900,
+    "ctAccount": 15050,
+    "ctEquipment": 3500
+  },
+  "877": {
+    "terroristsAccount": 19800,
+    "terroristsEquipment": 24100,
+    "ctAccount": 15050,
+    "ctEquipment": 3500
+  },
+  "879": {
+    "terroristsAccount": 19800,
+    "terroristsEquipment": 24100,
+    "ctAccount": 15050,
+    "ctEquipment": 3500
+  },
+  "880": {
+    "terroristsAccount": 19800,
+    "terroristsEquipment": 24100,
+    "ctAccount": 15050,
+    "ctEquipment": 3500
+  },
+  "883": {
+    "terroristsAccount": 36650,
+    "terroristsEquipment": 24100,
+    "ctAccount": 32050,
+    "ctEquipment": 3500
+  },
+  "885": {
+    "terroristsAccount": 36650,
+    "terroristsEquipment": 24300,
+    "ctAccount": 32050,
+    "ctEquipment": 3500
+  },
+  "888": {
+    "terroristsAccount": 36650,
+    "terroristsEquipment": 16050,
+    "ctAccount": 28950,
+    "ctEquipment": 4100
+  },
+  "889": {
+    "terroristsAccount": 36250,
+    "terroristsEquipment": 16450,
+    "ctAccount": 23950,
+    "ctEquipment": 9100
+  },
+  "890": {
+    "terroristsAccount": 34250,
+    "terroristsEquipment": 18450,
+    "ctAccount": 23450,
+    "ctEquipment": 9600
+  },
+  "891": {
+    "terroristsAccount": 30550,
+    "terroristsEquipment": 22150,
+    "ctAccount": 21450,
+    "ctEquipment": 11600
+  },
+  "892": {
+    "terroristsAccount": 30050,
+    "terroristsEquipment": 22650,
+    "ctAccount": 15350,
+    "ctEquipment": 17700
+  },
+  "893": {
+    "terroristsAccount": 29450,
+    "terroristsEquipment": 23250,
+    "ctAccount": 8950,
+    "ctEquipment": 24100
+  },
+  "894": {
+    "terroristsAccount": 25750,
+    "terroristsEquipment": 26950,
+    "ctAccount": 5050,
+    "ctEquipment": 28000
+  },
+  "895": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 4750,
+    "ctEquipment": 28300
+  },
+  "896": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 4150,
+    "ctEquipment": 28900
+  },
+  "897": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3950,
+    "ctEquipment": 29100
+  },
+  "898": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3450,
+    "ctEquipment": 29600
+  },
+  "899": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "903": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "904": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "909": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "912": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "914": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "915": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "918": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "920": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "921": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "929": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "931": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "940": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "944": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "946": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "948": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "949": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "950": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "953": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "954": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "956": {
+    "terroristsAccount": 24550,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "961": {
+    "terroristsAccount": 24850,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "963": {
+    "terroristsAccount": 24850,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "964": {
+    "terroristsAccount": 24850,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3150,
+    "ctEquipment": 29900
+  },
+  "965": {
+    "terroristsAccount": 24850,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3250,
+    "ctEquipment": 29900
+  },
+  "966": {
+    "terroristsAccount": 24850,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3250,
+    "ctEquipment": 29900
+  },
+  "968": {
+    "terroristsAccount": 24850,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3250,
+    "ctEquipment": 29900
+  },
+  "969": {
+    "terroristsAccount": 24850,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3250,
+    "ctEquipment": 29900
+  },
+  "970": {
+    "terroristsAccount": 24850,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3250,
+    "ctEquipment": 29900
+  },
+  "971": {
+    "terroristsAccount": 24850,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3250,
+    "ctEquipment": 29900
+  },
+  "972": {
+    "terroristsAccount": 24850,
+    "terroristsEquipment": 28150,
+    "ctAccount": 3250,
+    "ctEquipment": 29900
+  },
+  "974": {
+    "terroristsAccount": 24850,
+    "terroristsEquipment": 27550,
+    "ctAccount": 3250,
+    "ctEquipment": 29900
+  },
+  "979": {
+    "terroristsAccount": 25150,
+    "terroristsEquipment": 27550,
+    "ctAccount": 3250,
+    "ctEquipment": 29900
+  },
+  "982": {
+    "terroristsAccount": 25150,
+    "terroristsEquipment": 27550,
+    "ctAccount": 3250,
+    "ctEquipment": 29900
+  },
+  "985": {
+    "terroristsAccount": 25150,
+    "terroristsEquipment": 27550,
+    "ctAccount": 3550,
+    "ctEquipment": 29900
+  },
+  "986": {
+    "terroristsAccount": 25150,
+    "terroristsEquipment": 27550,
+    "ctAccount": 3850,
+    "ctEquipment": 29900
+  },
+  "992": {
+    "terroristsAccount": 25150,
+    "terroristsEquipment": 26850,
+    "ctAccount": 3850,
+    "ctEquipment": 29900
+  },
+  "997": {
+    "terroristsAccount": 25150,
+    "terroristsEquipment": 26850,
+    "ctAccount": 3850,
+    "ctEquipment": 29900
+  },
+  "1001": {
+    "terroristsAccount": 25150,
+    "terroristsEquipment": 26850,
+    "ctAccount": 3950,
+    "ctEquipment": 29900
+  },
+  "1012": {
+    "terroristsAccount": 25150,
+    "terroristsEquipment": 26850,
+    "ctAccount": 3950,
+    "ctEquipment": 28100
+  },
+  "1017": {
+    "terroristsAccount": 25150,
+    "terroristsEquipment": 26850,
+    "ctAccount": 3950,
+    "ctEquipment": 27000
+  },
+  "1021": {
+    "terroristsAccount": 30750,
+    "terroristsEquipment": 26850,
+    "ctAccount": 20200,
+    "ctEquipment": 27200
+  },
+  "1022": {
+    "terroristsAccount": 30750,
+    "terroristsEquipment": 26850,
+    "ctAccount": 20200,
+    "ctEquipment": 29250
+  },
+  "1023": {
+    "terroristsAccount": 30750,
+    "terroristsEquipment": 7250,
+    "ctAccount": 20200,
+    "ctEquipment": 17950
+  },
+  "1024": {
+    "terroristsAccount": 30050,
+    "terroristsEquipment": 7950,
+    "ctAccount": 20200,
+    "ctEquipment": 17950
+  },
+  "1025": {
+    "terroristsAccount": 26350,
+    "terroristsEquipment": 11650,
+    "ctAccount": 20200,
+    "ctEquipment": 17950
+  },
+  "1026": {
+    "terroristsAccount": 26350,
+    "terroristsEquipment": 11650,
+    "ctAccount": 17100,
+    "ctEquipment": 21050
+  },
+  "1027": {
+    "terroristsAccount": 26350,
+    "terroristsEquipment": 11650,
+    "ctAccount": 15900,
+    "ctEquipment": 22250
+  },
+  "1028": {
+    "terroristsAccount": 20950,
+    "terroristsEquipment": 17050,
+    "ctAccount": 15300,
+    "ctEquipment": 22850
+  },
+  "1029": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 17650,
+    "ctAccount": 15300,
+    "ctEquipment": 22850
+  },
+  "1030": {
+    "terroristsAccount": 17250,
+    "terroristsEquipment": 20750,
+    "ctAccount": 15100,
+    "ctEquipment": 23050
+  },
+  "1031": {
+    "terroristsAccount": 17250,
+    "terroristsEquipment": 20750,
+    "ctAccount": 14500,
+    "ctEquipment": 23650
+  },
+  "1032": {
+    "terroristsAccount": 17250,
+    "terroristsEquipment": 20750,
+    "ctAccount": 14500,
+    "ctEquipment": 23650
+  },
+  "1033": {
+    "terroristsAccount": 13550,
+    "terroristsEquipment": 24450,
+    "ctAccount": 10400,
+    "ctEquipment": 27750
+  },
+  "1034": {
+    "terroristsAccount": 12050,
+    "terroristsEquipment": 25950,
+    "ctAccount": 7500,
+    "ctEquipment": 30650
+  },
+  "1035": {
+    "terroristsAccount": 10550,
+    "terroristsEquipment": 27450,
+    "ctAccount": 5900,
+    "ctEquipment": 32250
+  },
+  "1036": {
+    "terroristsAccount": 10350,
+    "terroristsEquipment": 27650,
+    "ctAccount": 5900,
+    "ctEquipment": 32250
+  },
+  "1037": {
+    "terroristsAccount": 10350,
+    "terroristsEquipment": 27650,
+    "ctAccount": 5900,
+    "ctEquipment": 32250
+  },
+  "1038": {
+    "terroristsAccount": 10350,
+    "terroristsEquipment": 27650,
+    "ctAccount": 5900,
+    "ctEquipment": 32250
+  },
+  "1044": {
+    "terroristsAccount": 10350,
+    "terroristsEquipment": 27650,
+    "ctAccount": 5900,
+    "ctEquipment": 32250
+  },
+  "1045": {
+    "terroristsAccount": 10350,
+    "terroristsEquipment": 27650,
+    "ctAccount": 5900,
+    "ctEquipment": 32250
+  },
+  "1046": {
+    "terroristsAccount": 10350,
+    "terroristsEquipment": 27650,
+    "ctAccount": 5900,
+    "ctEquipment": 32250
+  },
+  "1047": {
+    "terroristsAccount": 10350,
+    "terroristsEquipment": 27650,
+    "ctAccount": 5900,
+    "ctEquipment": 32250
+  },
+  "1051": {
+    "terroristsAccount": 10350,
+    "terroristsEquipment": 27650,
+    "ctAccount": 5900,
+    "ctEquipment": 32250
+  },
+  "1053": {
+    "terroristsAccount": 10450,
+    "terroristsEquipment": 27650,
+    "ctAccount": 5900,
+    "ctEquipment": 32250
+  },
+  "1055": {
+    "terroristsAccount": 10450,
+    "terroristsEquipment": 27650,
+    "ctAccount": 5900,
+    "ctEquipment": 32250
+  },
+  "1056": {
+    "terroristsAccount": 10450,
+    "terroristsEquipment": 27650,
+    "ctAccount": 5900,
+    "ctEquipment": 32250
+  },
+  "1059": {
+    "terroristsAccount": 10450,
+    "terroristsEquipment": 26950,
+    "ctAccount": 5900,
+    "ctEquipment": 32250
+  },
+  "1061": {
+    "terroristsAccount": 10450,
+    "terroristsEquipment": 26950,
+    "ctAccount": 6000,
+    "ctEquipment": 32250
+  },
+  "1062": {
+    "terroristsAccount": 10450,
+    "terroristsEquipment": 26950,
+    "ctAccount": 6000,
+    "ctEquipment": 32250
+  },
+  "1063": {
+    "terroristsAccount": 10450,
+    "terroristsEquipment": 26950,
+    "ctAccount": 6100,
+    "ctEquipment": 32250
+  },
+  "1064": {
+    "terroristsAccount": 10450,
+    "terroristsEquipment": 26550,
+    "ctAccount": 6100,
+    "ctEquipment": 32250
+  },
+  "1065": {
+    "terroristsAccount": 10450,
+    "terroristsEquipment": 26550,
+    "ctAccount": 6100,
+    "ctEquipment": 32250
+  },
+  "1067": {
+    "terroristsAccount": 10450,
+    "terroristsEquipment": 26550,
+    "ctAccount": 6100,
+    "ctEquipment": 32250
+  },
+  "1068": {
+    "terroristsAccount": 10750,
+    "terroristsEquipment": 26550,
+    "ctAccount": 6100,
+    "ctEquipment": 32250
+  },
+  "1070": {
+    "terroristsAccount": 10750,
+    "terroristsEquipment": 26550,
+    "ctAccount": 6200,
+    "ctEquipment": 32250
+  },
+  "1072": {
+    "terroristsAccount": 11050,
+    "terroristsEquipment": 26550,
+    "ctAccount": 6200,
+    "ctEquipment": 32250
+  },
+  "1074": {
+    "terroristsAccount": 11050,
+    "terroristsEquipment": 26550,
+    "ctAccount": 6300,
+    "ctEquipment": 32250
+  },
+  "1075": {
+    "terroristsAccount": 11050,
+    "terroristsEquipment": 25850,
+    "ctAccount": 6300,
+    "ctEquipment": 32250
+  },
+  "1076": {
+    "terroristsAccount": 11050,
+    "terroristsEquipment": 25850,
+    "ctAccount": 6300,
+    "ctEquipment": 32250
+  },
+  "1087": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 25850,
+    "ctAccount": 22650,
+    "ctEquipment": 32250
+  },
+  "1091": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 25850,
+    "ctAccount": 22650,
+    "ctEquipment": 31650
+  },
+  "1092": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 22650,
+    "ctEquipment": 13250
+  },
+  "1094": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 22050,
+    "ctEquipment": 13850
+  },
+  "1104": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 22050,
+    "ctEquipment": 16950
+  },
+  "1108": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 21200,
+    "ctEquipment": 17800
+  },
+  "1109": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 21200,
+    "ctEquipment": 22550
+  },
+  "1110": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 20200,
+    "ctEquipment": 23550
+  },
+  "1111": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 19800,
+    "ctEquipment": 23950
+  },
+  "1112": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 19800,
+    "ctEquipment": 23950
+  },
+  "1113": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 17300,
+    "ctEquipment": 31200
+  },
+  "1114": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 10900,
+    "ctEquipment": 28100
+  },
+  "1115": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 10900,
+    "ctEquipment": 28100
+  },
+  "1117": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 9900,
+    "ctEquipment": 29100
+  },
+  "1118": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 9100,
+    "ctEquipment": 29900
+  },
+  "1119": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 1000,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1128": {
+    "terroristsAccount": 16150,
+    "terroristsEquipment": 5400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1129": {
+    "terroristsAccount": 13950,
+    "terroristsEquipment": 7600,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1130": {
+    "terroristsAccount": 13650,
+    "terroristsEquipment": 7900,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1131": {
+    "terroristsAccount": 9550,
+    "terroristsEquipment": 12000,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1132": {
+    "terroristsAccount": 6050,
+    "terroristsEquipment": 15500,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1133": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 15800,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1134": {
+    "terroristsAccount": 5350,
+    "terroristsEquipment": 16200,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1137": {
+    "terroristsAccount": 4350,
+    "terroristsEquipment": 17200,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1138": {
+    "terroristsAccount": 4350,
+    "terroristsEquipment": 17200,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1139": {
+    "terroristsAccount": 4050,
+    "terroristsEquipment": 17500,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1140": {
+    "terroristsAccount": 1650,
+    "terroristsEquipment": 19900,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1141": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1148": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1155": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1156": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1157": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1158": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1159": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1160": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1162": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1164": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1167": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1172": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1174": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1175": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8600,
+    "ctEquipment": 30400
+  },
+  "1177": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 8900,
+    "ctEquipment": 30400
+  },
+  "1180": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 9200,
+    "ctEquipment": 30400
+  },
+  "1181": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20400,
+    "ctAccount": 9200,
+    "ctEquipment": 30400
+  },
+  "1182": {
+    "terroristsAccount": 1150,
+    "terroristsEquipment": 20000,
+    "ctAccount": 9500,
+    "ctEquipment": 30400
+  },
+  "1183": {
+    "terroristsAccount": 2050,
+    "terroristsEquipment": 20000,
+    "ctAccount": 9500,
+    "ctEquipment": 30400
+  },
+  "1186": {
+    "terroristsAccount": 2050,
+    "terroristsEquipment": 21400,
+    "ctAccount": 9500,
+    "ctEquipment": 29950
+  },
+  "1188": {
+    "terroristsAccount": 2350,
+    "terroristsEquipment": 21400,
+    "ctAccount": 9500,
+    "ctEquipment": 29950
+  },
+  "1193": {
+    "terroristsAccount": 2350,
+    "terroristsEquipment": 21400,
+    "ctAccount": 9500,
+    "ctEquipment": 29950
+  },
+  "1195": {
+    "terroristsAccount": 2350,
+    "terroristsEquipment": 21400,
+    "ctAccount": 9500,
+    "ctEquipment": 29950
+  },
+  "1200": {
+    "terroristsAccount": 2350,
+    "terroristsEquipment": 21400,
+    "ctAccount": 9800,
+    "ctEquipment": 29950
+  },
+  "1201": {
+    "terroristsAccount": 2350,
+    "terroristsEquipment": 21400,
+    "ctAccount": 9800,
+    "ctEquipment": 29450
+  },
+  "1204": {
+    "terroristsAccount": 2650,
+    "terroristsEquipment": 21400,
+    "ctAccount": 9800,
+    "ctEquipment": 29450
+  },
+  "1207": {
+    "terroristsAccount": 2650,
+    "terroristsEquipment": 21100,
+    "ctAccount": 9800,
+    "ctEquipment": 29450
+  },
+  "1215": {
+    "terroristsAccount": 2650,
+    "terroristsEquipment": 21100,
+    "ctAccount": 9800,
+    "ctEquipment": 29450
+  },
+  "1219": {
+    "terroristsAccount": 2650,
+    "terroristsEquipment": 21100,
+    "ctAccount": 9800,
+    "ctEquipment": 27400
+  },
+  "1225": {
+    "terroristsAccount": 2950,
+    "terroristsEquipment": 21100,
+    "ctAccount": 9800,
+    "ctEquipment": 27400
+  },
+  "1239": {
+    "terroristsAccount": 2950,
+    "terroristsEquipment": 21100,
+    "ctAccount": 10100,
+    "ctEquipment": 27400
+  },
+  "1254": {
+    "terroristsAccount": 18950,
+    "terroristsEquipment": 21100,
+    "ctAccount": 27900,
+    "ctEquipment": 27400
+  },
+  "1259": {
+    "terroristsAccount": 18950,
+    "terroristsEquipment": 1000,
+    "ctAccount": 23800,
+    "ctEquipment": 9500
+  },
+  "1260": {
+    "terroristsAccount": 18950,
+    "terroristsEquipment": 1000,
+    "ctAccount": 23400,
+    "ctEquipment": 9900
+  },
+  "1261": {
+    "terroristsAccount": 18950,
+    "terroristsEquipment": 1000,
+    "ctAccount": 22700,
+    "ctEquipment": 10600
+  },
+  "1262": {
+    "terroristsAccount": 18450,
+    "terroristsEquipment": 1300,
+    "ctAccount": 22700,
+    "ctEquipment": 10600
+  },
+  "1263": {
+    "terroristsAccount": 17450,
+    "terroristsEquipment": 2300,
+    "ctAccount": 22700,
+    "ctEquipment": 10600
+  },
+  "1264": {
+    "terroristsAccount": 16650,
+    "terroristsEquipment": 2900,
+    "ctAccount": 22700,
+    "ctEquipment": 10600
+  },
+  "1266": {
+    "terroristsAccount": 14450,
+    "terroristsEquipment": 4700,
+    "ctAccount": 22700,
+    "ctEquipment": 13300
+  },
+  "1267": {
+    "terroristsAccount": 13500,
+    "terroristsEquipment": 5650,
+    "ctAccount": 19600,
+    "ctEquipment": 16400
+  },
+  "1268": {
+    "terroristsAccount": 13300,
+    "terroristsEquipment": 5850,
+    "ctAccount": 13850,
+    "ctEquipment": 19450
+  },
+  "1269": {
+    "terroristsAccount": 11800,
+    "terroristsEquipment": 7150,
+    "ctAccount": 11550,
+    "ctEquipment": 21750
+  },
+  "1270": {
+    "terroristsAccount": 10800,
+    "terroristsEquipment": 8150,
+    "ctAccount": 11050,
+    "ctEquipment": 22250
+  },
+  "1271": {
+    "terroristsAccount": 10500,
+    "terroristsEquipment": 8450,
+    "ctAccount": 5650,
+    "ctEquipment": 27650
+  },
+  "1272": {
+    "terroristsAccount": 10200,
+    "terroristsEquipment": 8750,
+    "ctAccount": 4950,
+    "ctEquipment": 28350
+  },
+  "1273": {
+    "terroristsAccount": 10000,
+    "terroristsEquipment": 8950,
+    "ctAccount": 4150,
+    "ctEquipment": 29150
+  },
+  "1280": {
+    "terroristsAccount": 10000,
+    "terroristsEquipment": 8950,
+    "ctAccount": 4150,
+    "ctEquipment": 29150
+  },
+  "1282": {
+    "terroristsAccount": 10000,
+    "terroristsEquipment": 8950,
+    "ctAccount": 4150,
+    "ctEquipment": 29150
+  },
+  "1283": {
+    "terroristsAccount": 10000,
+    "terroristsEquipment": 8950,
+    "ctAccount": 4150,
+    "ctEquipment": 29150
+  },
+  "1286": {
+    "terroristsAccount": 10000,
+    "terroristsEquipment": 8950,
+    "ctAccount": 4150,
+    "ctEquipment": 29150
+  },
+  "1288": {
+    "terroristsAccount": 10000,
+    "terroristsEquipment": 8950,
+    "ctAccount": 4150,
+    "ctEquipment": 29150
+  },
+  "1289": {
+    "terroristsAccount": 10000,
+    "terroristsEquipment": 8950,
+    "ctAccount": 4150,
+    "ctEquipment": 29150
+  },
+  "1290": {
+    "terroristsAccount": 10100,
+    "terroristsEquipment": 8950,
+    "ctAccount": 4150,
+    "ctEquipment": 29150
+  },
+  "1291": {
+    "terroristsAccount": 10100,
+    "terroristsEquipment": 8950,
+    "ctAccount": 4150,
+    "ctEquipment": 29150
+  },
+  "1292": {
+    "terroristsAccount": 10100,
+    "terroristsEquipment": 8950,
+    "ctAccount": 4450,
+    "ctEquipment": 29150
+  },
+  "1294": {
+    "terroristsAccount": 10100,
+    "terroristsEquipment": 12050,
+    "ctAccount": 4450,
+    "ctEquipment": 29150
+  },
+  "1295": {
+    "terroristsAccount": 10100,
+    "terroristsEquipment": 12050,
+    "ctAccount": 4450,
+    "ctEquipment": 29150
+  },
+  "1297": {
+    "terroristsAccount": 10100,
+    "terroristsEquipment": 12050,
+    "ctAccount": 4450,
+    "ctEquipment": 29150
+  },
+  "1298": {
+    "terroristsAccount": 10100,
+    "terroristsEquipment": 12050,
+    "ctAccount": 5050,
+    "ctEquipment": 29150
+  },
+  "1301": {
+    "terroristsAccount": 10100,
+    "terroristsEquipment": 11950,
+    "ctAccount": 5050,
+    "ctEquipment": 29150
+  },
+  "1304": {
+    "terroristsAccount": 10100,
+    "terroristsEquipment": 11950,
+    "ctAccount": 5350,
+    "ctEquipment": 29150
+  },
+  "1305": {
+    "terroristsAccount": 10100,
+    "terroristsEquipment": 15050,
+    "ctAccount": 5350,
+    "ctEquipment": 29150
+  },
+  "1306": {
+    "terroristsAccount": 10100,
+    "terroristsEquipment": 15050,
+    "ctAccount": 5350,
+    "ctEquipment": 29150
+  },
+  "1308": {
+    "terroristsAccount": 24600,
+    "terroristsEquipment": 15050,
+    "ctAccount": 21900,
+    "ctEquipment": 29150
+  },
+  "1313": {
+    "terroristsAccount": 24600,
+    "terroristsEquipment": 1000,
+    "ctAccount": 21900,
+    "ctEquipment": 21750
+  },
+  "1314": {
+    "terroristsAccount": 7450,
+    "terroristsEquipment": 18150,
+    "ctAccount": 21600,
+    "ctEquipment": 22050
+  },
+  "1315": {
+    "terroristsAccount": 5050,
+    "terroristsEquipment": 20550,
+    "ctAccount": 19500,
+    "ctEquipment": 24150
+  },
+  "1316": {
+    "terroristsAccount": 5050,
+    "terroristsEquipment": 20550,
+    "ctAccount": 18900,
+    "ctEquipment": 24750
+  },
+  "1317": {
+    "terroristsAccount": 2300,
+    "terroristsEquipment": 23300,
+    "ctAccount": 18900,
+    "ctEquipment": 24750
+  },
+  "1318": {
+    "terroristsAccount": 1300,
+    "terroristsEquipment": 24300,
+    "ctAccount": 18300,
+    "ctEquipment": 25350
+  },
+  "1319": {
+    "terroristsAccount": 1000,
+    "terroristsEquipment": 24600,
+    "ctAccount": 18300,
+    "ctEquipment": 25350
+  },
+  "1320": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 18000,
+    "ctEquipment": 25450
+  },
+  "1322": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 13900,
+    "ctEquipment": 29550
+  },
+  "1323": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1330": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1338": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1339": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1342": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1351": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1357": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1361": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1362": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1363": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1364": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1369": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1370": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1373": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 12800,
+    "ctEquipment": 30650
+  },
+  "1378": {
+    "terroristsAccount": 400,
+    "terroristsEquipment": 25200,
+    "ctAccount": 13100,
+    "ctEquipment": 30650
+  },
+  "1379": {
+    "terroristsAccount": 500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 13100,
+    "ctEquipment": 30650
+  },
+  "1380": {
+    "terroristsAccount": 500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 13100,
+    "ctEquipment": 30650
+  },
+  "1384": {
+    "terroristsAccount": 500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 13100,
+    "ctEquipment": 30650
+  },
+  "1385": {
+    "terroristsAccount": 500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 13100,
+    "ctEquipment": 30650
+  },
+  "1402": {
+    "terroristsAccount": 500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 13100,
+    "ctEquipment": 30650
+  },
+  "1404": {
+    "terroristsAccount": 500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 13100,
+    "ctEquipment": 30650
+  },
+  "1405": {
+    "terroristsAccount": 500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 13100,
+    "ctEquipment": 30650
+  },
+  "1406": {
+    "terroristsAccount": 500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 13100,
+    "ctEquipment": 30650
+  },
+  "1411": {
+    "terroristsAccount": 500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 13700,
+    "ctEquipment": 30650
+  },
+  "1413": {
+    "terroristsAccount": 500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 14000,
+    "ctEquipment": 30650
+  },
+  "1416": {
+    "terroristsAccount": 500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 14000,
+    "ctEquipment": 28850
+  },
+  "1421": {
+    "terroristsAccount": 17500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 30350,
+    "ctEquipment": 28850
+  },
+  "1422": {
+    "terroristsAccount": 17500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 30350,
+    "ctEquipment": 29150
+  },
+  "1423": {
+    "terroristsAccount": 17500,
+    "terroristsEquipment": 25200,
+    "ctAccount": 30350,
+    "ctEquipment": 29150
+  },
+  "1426": {
+    "terroristsAccount": 17500,
+    "terroristsEquipment": 1000,
+    "ctAccount": 30350,
+    "ctEquipment": 21450
+  },
+  "1428": {
+    "terroristsAccount": 17500,
+    "terroristsEquipment": 1000,
+    "ctAccount": 29250,
+    "ctEquipment": 22550
+  },
+  "1429": {
+    "terroristsAccount": 13000,
+    "terroristsEquipment": 5300,
+    "ctAccount": 27350,
+    "ctEquipment": 24450
+  },
+  "1430": {
+    "terroristsAccount": 11400,
+    "terroristsEquipment": 6900,
+    "ctAccount": 23650,
+    "ctEquipment": 25450
+  },
+  "1431": {
+    "terroristsAccount": 11400,
+    "terroristsEquipment": 6900,
+    "ctAccount": 23250,
+    "ctEquipment": 25850
+  },
+  "1432": {
+    "terroristsAccount": 10900,
+    "terroristsEquipment": 7200,
+    "ctAccount": 23250,
+    "ctEquipment": 28550
+  },
+  "1433": {
+    "terroristsAccount": 10900,
+    "terroristsEquipment": 7200,
+    "ctAccount": 20650,
+    "ctEquipment": 30950
+  },
+  "1434": {
+    "terroristsAccount": 9200,
+    "terroristsEquipment": 8900,
+    "ctAccount": 19750,
+    "ctEquipment": 31650
+  },
+  "1435": {
+    "terroristsAccount": 7500,
+    "terroristsEquipment": 10600,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1436": {
+    "terroristsAccount": 5300,
+    "terroristsEquipment": 12800,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1437": {
+    "terroristsAccount": 2600,
+    "terroristsEquipment": 15500,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1438": {
+    "terroristsAccount": 2400,
+    "terroristsEquipment": 15700,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1439": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1446": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1447": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1449": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1453": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1454": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1456": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1459": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1460": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1461": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1462": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1463": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1464": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1465": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1466": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1467": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1468": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19100,
+    "ctEquipment": 31650
+  },
+  "1469": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19200,
+    "ctEquipment": 31650
+  },
+  "1470": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19500,
+    "ctEquipment": 31650
+  },
+  "1471": {
+    "terroristsAccount": 2000,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19800,
+    "ctEquipment": 30550
+  },
+  "1474": {
+    "terroristsAccount": 2300,
+    "terroristsEquipment": 16100,
+    "ctAccount": 19800,
+    "ctEquipment": 30550
+  },
+  "1476": {
+    "terroristsAccount": 2300,
+    "terroristsEquipment": 15900,
+    "ctAccount": 20100,
+    "ctEquipment": 30550
+  },
+  "1477": {
+    "terroristsAccount": 19300,
+    "terroristsEquipment": 15900,
+    "ctAccount": 36650,
+    "ctEquipment": 30550
+  },
+  "1503": {
+    "terroristsAccount": 19300,
+    "terroristsEquipment": 15900,
+    "ctAccount": 36650,
+    "ctEquipment": 30550
+  },
+  "1504": {
+    "terroristsAccount": 19300,
+    "terroristsEquipment": 15900,
+    "ctAccount": 36650,
+    "ctEquipment": 29650
+  },
+  "1505": {
+    "terroristsAccount": 4000,
+    "terroristsEquipment": 1000,
+    "ctAccount": 4000,
+    "ctEquipment": 1000
+  },
+  "1506": {
+    "terroristsAccount": 4000,
+    "terroristsEquipment": 1000,
+    "ctAccount": 3350,
+    "ctEquipment": 1650
+  },
+  "1508": {
+    "terroristsAccount": 4000,
+    "terroristsEquipment": 1000,
+    "ctAccount": 2700,
+    "ctEquipment": 2300
+  },
+  "1519": {
+    "terroristsAccount": 3350,
+    "terroristsEquipment": 1650,
+    "ctAccount": 2700,
+    "ctEquipment": 2300
+  },
+  "1531": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 2300,
+    "ctAccount": 2700,
+    "ctEquipment": 2300
+  },
+  "1532": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 2300,
+    "ctAccount": 2700,
+    "ctEquipment": 2300
+  },
+  "1534": {
+    "terroristsAccount": 2700,
+    "terroristsEquipment": 2300,
+    "ctAccount": 2700,
+    "ctEquipment": 2300
+  },
+  "1550": {
+    "terroristsAccount": 2050,
+    "terroristsEquipment": 2950,
+    "ctAccount": 2400,
+    "ctEquipment": 2600
+  },
+  "1551": {
+    "terroristsAccount": 2050,
+    "terroristsEquipment": 2950,
+    "ctAccount": 2000,
+    "ctEquipment": 3000
+  },
+  "1555": {
+    "terroristsAccount": 2050,
+    "terroristsEquipment": 2950,
+    "ctAccount": 1350,
+    "ctEquipment": 3650
+  },
+  "1557": {
+    "terroristsAccount": 2050,
+    "terroristsEquipment": 2950,
+    "ctAccount": 700,
+    "ctEquipment": 4300
+  },
+  "1569": {
+    "terroristsAccount": 1750,
+    "terroristsEquipment": 3250,
+    "ctAccount": 700,
+    "ctEquipment": 4300
+  },
+  "1570": {
+    "terroristsAccount": 1250,
+    "terroristsEquipment": 3750,
+    "ctAccount": 700,
+    "ctEquipment": 4300
+  },
+  "1572": {
+    "terroristsAccount": 450,
+    "terroristsEquipment": 4550,
+    "ctAccount": 700,
+    "ctEquipment": 4300
+  },
+  "1648": {
+    "terroristsAccount": 450,
+    "terroristsEquipment": 4550,
+    "ctAccount": 700,
+    "ctEquipment": 4300
+  },
+  "1649": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 4550,
+    "ctAccount": 700,
+    "ctEquipment": 4300
+  },
+  "1653": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 4250,
+    "ctAccount": 700,
+    "ctEquipment": 4300
+  },
+  "1656": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 4250,
+    "ctAccount": 1000,
+    "ctEquipment": 4300
+  },
+  "1664": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 4250,
+    "ctAccount": 1000,
+    "ctEquipment": 4300
+  },
+  "1665": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 4250,
+    "ctAccount": 1000,
+    "ctEquipment": 4300
+  },
+  "1666": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 4250,
+    "ctAccount": 1000,
+    "ctEquipment": 4300
+  },
+  "1667": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 4250,
+    "ctAccount": 1000,
+    "ctEquipment": 4300
+  },
+  "1680": {
+    "terroristsAccount": 1050,
+    "terroristsEquipment": 4250,
+    "ctAccount": 1000,
+    "ctEquipment": 4300
+  },
+  "1682": {
+    "terroristsAccount": 1350,
+    "terroristsEquipment": 4250,
+    "ctAccount": 1000,
+    "ctEquipment": 4300
+  },
+  "1683": {
+    "terroristsAccount": 1650,
+    "terroristsEquipment": 4250,
+    "ctAccount": 1000,
+    "ctEquipment": 4300
+  },
+  "1684": {
+    "terroristsAccount": 1650,
+    "terroristsEquipment": 3450,
+    "ctAccount": 1000,
+    "ctEquipment": 4300
+  },
+  "1686": {
+    "terroristsAccount": 1650,
+    "terroristsEquipment": 3450,
+    "ctAccount": 1000,
+    "ctEquipment": 4300
+  },
+  "1688": {
+    "terroristsAccount": 1650,
+    "terroristsEquipment": 3750,
+    "ctAccount": 1000,
+    "ctEquipment": 4300
+  },
+  "1689": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 3750,
+    "ctAccount": 1000,
+    "ctEquipment": 4300
+  },
+  "1691": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 3750,
+    "ctAccount": 1300,
+    "ctEquipment": 4300
+  },
+  "1693": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 3750,
+    "ctAccount": 1600,
+    "ctEquipment": 4300
+  },
+  "1700": {
+    "terroristsAccount": 18500,
+    "terroristsEquipment": 3750,
+    "ctAccount": 8600,
+    "ctEquipment": 4300
+  },
+  "1702": {
+    "terroristsAccount": 18500,
+    "terroristsEquipment": 3250,
+    "ctAccount": 8600,
+    "ctEquipment": 4300
+  },
+  "1705": {
+    "terroristsAccount": 18500,
+    "terroristsEquipment": 1950,
+    "ctAccount": 8600,
+    "ctEquipment": 1000
+  },
+  "1707": {
+    "terroristsAccount": 14800,
+    "terroristsEquipment": 5000,
+    "ctAccount": 7250,
+    "ctEquipment": 2150
+  },
+  "1709": {
+    "terroristsAccount": 14500,
+    "terroristsEquipment": 5300,
+    "ctAccount": 7250,
+    "ctEquipment": 2150
+  },
+  "1711": {
+    "terroristsAccount": 13300,
+    "terroristsEquipment": 6500,
+    "ctAccount": 7250,
+    "ctEquipment": 2150
+  },
+  "1712": {
+    "terroristsAccount": 11700,
+    "terroristsEquipment": 8100,
+    "ctAccount": 7250,
+    "ctEquipment": 2150
+  },
+  "1713": {
+    "terroristsAccount": 11100,
+    "terroristsEquipment": 8700,
+    "ctAccount": 6750,
+    "ctEquipment": 2450
+  },
+  "1715": {
+    "terroristsAccount": 9050,
+    "terroristsEquipment": 10750,
+    "ctAccount": 6750,
+    "ctEquipment": 2450
+  },
+  "1716": {
+    "terroristsAccount": 8450,
+    "terroristsEquipment": 11350,
+    "ctAccount": 6750,
+    "ctEquipment": 2450
+  },
+  "1717": {
+    "terroristsAccount": 7850,
+    "terroristsEquipment": 11950,
+    "ctAccount": 5400,
+    "ctEquipment": 3600
+  },
+  "1718": {
+    "terroristsAccount": 3850,
+    "terroristsEquipment": 15950,
+    "ctAccount": 4750,
+    "ctEquipment": 4250
+  },
+  "1719": {
+    "terroristsAccount": 850,
+    "terroristsEquipment": 18950,
+    "ctAccount": 3250,
+    "ctEquipment": 5550
+  },
+  "1720": {
+    "terroristsAccount": 850,
+    "terroristsEquipment": 18950,
+    "ctAccount": 1750,
+    "ctEquipment": 6850
+  },
+  "1721": {
+    "terroristsAccount": 450,
+    "terroristsEquipment": 19350,
+    "ctAccount": 1450,
+    "ctEquipment": 7150
+  },
+  "1729": {
+    "terroristsAccount": 450,
+    "terroristsEquipment": 19350,
+    "ctAccount": 1450,
+    "ctEquipment": 7150
+  },
+  "1732": {
+    "terroristsAccount": 450,
+    "terroristsEquipment": 19350,
+    "ctAccount": 1450,
+    "ctEquipment": 7150
+  },
+  "1743": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 19350,
+    "ctAccount": 1450,
+    "ctEquipment": 7150
+  },
+  "1757": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 19350,
+    "ctAccount": 1550,
+    "ctEquipment": 7150
+  },
+  "1758": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 19350,
+    "ctAccount": 1850,
+    "ctEquipment": 7150
+  },
+  "1760": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 19350,
+    "ctAccount": 1850,
+    "ctEquipment": 7150
+  },
+  "1761": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 20150,
+    "ctAccount": 1850,
+    "ctEquipment": 7150
+  },
+  "1764": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 20150,
+    "ctAccount": 1850,
+    "ctEquipment": 7150
+  },
+  "1768": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 20150,
+    "ctAccount": 1850,
+    "ctEquipment": 7150
+  },
+  "1775": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 19850,
+    "ctAccount": 1850,
+    "ctEquipment": 7150
+  },
+  "1776": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 19850,
+    "ctAccount": 1850,
+    "ctEquipment": 7150
+  },
+  "1816": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 19850,
+    "ctAccount": 1850,
+    "ctEquipment": 7150
+  },
+  "1821": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 19850,
+    "ctAccount": 2150,
+    "ctEquipment": 7150
+  },
+  "1822": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 19850,
+    "ctAccount": 2150,
+    "ctEquipment": 10150
+  },
+  "1823": {
+    "terroristsAccount": 750,
+    "terroristsEquipment": 19850,
+    "ctAccount": 2250,
+    "ctEquipment": 10150
+  },
+  "1825": {
+    "terroristsAccount": 7750,
+    "terroristsEquipment": 19850,
+    "ctAccount": 18600,
+    "ctEquipment": 10150
+  },
+  "1827": {
+    "terroristsAccount": 7750,
+    "terroristsEquipment": 19850,
+    "ctAccount": 18600,
+    "ctEquipment": 14550
+  },
+  "1830": {
+    "terroristsAccount": 7750,
+    "terroristsEquipment": 1000,
+    "ctAccount": 18600,
+    "ctEquipment": 13400
+  },
+  "1832": {
+    "terroristsAccount": 7750,
+    "terroristsEquipment": 1000,
+    "ctAccount": 17600,
+    "ctEquipment": 13750
+  },
+  "1833": {
+    "terroristsAccount": 7750,
+    "terroristsEquipment": 1000,
+    "ctAccount": 13300,
+    "ctEquipment": 17400
+  },
+  "1834": {
+    "terroristsAccount": 7050,
+    "terroristsEquipment": 1500,
+    "ctAccount": 12900,
+    "ctEquipment": 17800
+  },
+  "1835": {
+    "terroristsAccount": 4700,
+    "terroristsEquipment": 3650,
+    "ctAccount": 12300,
+    "ctEquipment": 18400
+  },
+  "1836": {
+    "terroristsAccount": 3350,
+    "terroristsEquipment": 4800,
+    "ctAccount": 12300,
+    "ctEquipment": 18400
+  },
+  "1841": {
+    "terroristsAccount": 1850,
+    "terroristsEquipment": 6100,
+    "ctAccount": 11700,
+    "ctEquipment": 19000
+  },
+  "1842": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 11700,
+    "ctEquipment": 21700
+  },
+  "1843": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 11700,
+    "ctEquipment": 21000
+  },
+  "1844": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 6500,
+    "ctEquipment": 24200
+  },
+  "1845": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4700,
+    "ctEquipment": 26000
+  },
+  "1846": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1853": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1856": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1857": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1858": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1866": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1867": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1869": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1874": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1875": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1892": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1895": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1899": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1900": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1903": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4400,
+    "ctEquipment": 26300
+  },
+  "1905": {
+    "terroristsAccount": 350,
+    "terroristsEquipment": 7400,
+    "ctAccount": 4700,
+    "ctEquipment": 26300
+  },
+  "1906": {
+    "terroristsAccount": 650,
+    "terroristsEquipment": 7400,
+    "ctAccount": 5000,
+    "ctEquipment": 26300
+  },
+  "1909": {
+    "terroristsAccount": 950,
+    "terroristsEquipment": 7400,
+    "ctAccount": 5000,
+    "ctEquipment": 26300
+  },
+  "1912": {
+    "terroristsAccount": 950,
+    "terroristsEquipment": 10500,
+    "ctAccount": 5000,
+    "ctEquipment": 26300
+  },
+  "1915": {
+    "terroristsAccount": 950,
+    "terroristsEquipment": 13600,
+    "ctAccount": 5000,
+    "ctEquipment": 26300
+  },
+  "1917": {
+    "terroristsAccount": 1250,
+    "terroristsEquipment": 13600,
+    "ctAccount": 5000,
+    "ctEquipment": 26300
+  },
+  "1924": {
+    "terroristsAccount": 1850,
+    "terroristsEquipment": 13600,
+    "ctAccount": 5000,
+    "ctEquipment": 26300
+  },
+  "1944": {
+    "terroristsAccount": 1850,
+    "terroristsEquipment": 16300,
+    "ctAccount": 5000,
+    "ctEquipment": 26300
+  },
+  "1946": {
+    "terroristsAccount": 1850,
+    "terroristsEquipment": 16500,
+    "ctAccount": 5000,
+    "ctEquipment": 26300
+  },
+  "1970": {
+    "terroristsAccount": 19350,
+    "terroristsEquipment": 13700,
+    "ctAccount": 12000,
+    "ctEquipment": 5200
+  },
+  "1971": {
+    "terroristsAccount": 18350,
+    "terroristsEquipment": 14700,
+    "ctAccount": 12000,
+    "ctEquipment": 5200
+  },
+  "1974": {
+    "terroristsAccount": 15650,
+    "terroristsEquipment": 14700,
+    "ctAccount": 12000,
+    "ctEquipment": 5200
+  },
+  "1975": {
+    "terroristsAccount": 15650,
+    "terroristsEquipment": 17400,
+    "ctAccount": 11500,
+    "ctEquipment": 5500
+  },
+  "1977": {
+    "terroristsAccount": 14650,
+    "terroristsEquipment": 17750,
+    "ctAccount": 7400,
+    "ctEquipment": 6900
+  },
+  "1978": {
+    "terroristsAccount": 14650,
+    "terroristsEquipment": 17750,
+    "ctAccount": 7100,
+    "ctEquipment": 7200
+  },
+  "1979": {
+    "terroristsAccount": 13650,
+    "terroristsEquipment": 18750,
+    "ctAccount": 6200,
+    "ctEquipment": 7500
+  },
+  "1980": {
+    "terroristsAccount": 12550,
+    "terroristsEquipment": 19850,
+    "ctAccount": 5200,
+    "ctEquipment": 8500
+  },
+  "1981": {
+    "terroristsAccount": 11550,
+    "terroristsEquipment": 20200,
+    "ctAccount": 5200,
+    "ctEquipment": 8500
+  },
+  "1982": {
+    "terroristsAccount": 10550,
+    "terroristsEquipment": 21200,
+    "ctAccount": 4700,
+    "ctEquipment": 8300
+  },
+  "1983": {
+    "terroristsAccount": 10550,
+    "terroristsEquipment": 24300,
+    "ctAccount": 4700,
+    "ctEquipment": 8300
+  },
+  "1984": {
+    "terroristsAccount": 7850,
+    "terroristsEquipment": 23900,
+    "ctAccount": 4400,
+    "ctEquipment": 12200
+  },
+  "1985": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 26000,
+    "ctAccount": 4400,
+    "ctEquipment": 12200
+  },
+  "1986": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 26000,
+    "ctAccount": 3400,
+    "ctEquipment": 13200
+  },
+  "1988": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 26000,
+    "ctAccount": 3100,
+    "ctEquipment": 13500
+  },
+  "1989": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 26000,
+    "ctAccount": 1450,
+    "ctEquipment": 15150
+  },
+  "1990": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "1992": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2000": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2002": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2007": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2009": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2010": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2011": {
+    "terroristsAccount": 5750,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2012": {
+    "terroristsAccount": 6050,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2013": {
+    "terroristsAccount": 6350,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2016": {
+    "terroristsAccount": 6350,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2017": {
+    "terroristsAccount": 6650,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2019": {
+    "terroristsAccount": 6950,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2026": {
+    "terroristsAccount": 6950,
+    "terroristsEquipment": 26000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2028": {
+    "terroristsAccount": 7250,
+    "terroristsEquipment": 25000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2032": {
+    "terroristsAccount": 7250,
+    "terroristsEquipment": 25000,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2069": {
+    "terroristsAccount": 7250,
+    "terroristsEquipment": 24700,
+    "ctAccount": 650,
+    "ctEquipment": 15950
+  },
+  "2075": {
+    "terroristsAccount": 23950,
+    "terroristsEquipment": 23700,
+    "ctAccount": 10150,
+    "ctEquipment": 6050
+  },
+  "2076": {
+    "terroristsAccount": 23550,
+    "terroristsEquipment": 24100,
+    "ctAccount": 9850,
+    "ctEquipment": 6350
+  },
+  "2077": {
+    "terroristsAccount": 22950,
+    "terroristsEquipment": 24700,
+    "ctAccount": 9850,
+    "ctEquipment": 6350
+  },
+  "2078": {
+    "terroristsAccount": 22650,
+    "terroristsEquipment": 25000,
+    "ctAccount": 9850,
+    "ctEquipment": 6350
+  },
+  "2079": {
+    "terroristsAccount": 22650,
+    "terroristsEquipment": 25000,
+    "ctAccount": 9850,
+    "ctEquipment": 6350
+  },
+  "2080": {
+    "terroristsAccount": 22050,
+    "terroristsEquipment": 25600,
+    "ctAccount": 9850,
+    "ctEquipment": 6350
+  },
+  "2081": {
+    "terroristsAccount": 21350,
+    "terroristsEquipment": 26300,
+    "ctAccount": 9850,
+    "ctEquipment": 6350
+  },
+  "2082": {
+    "terroristsAccount": 20950,
+    "terroristsEquipment": 26700,
+    "ctAccount": 9850,
+    "ctEquipment": 6350
+  },
+  "2086": {
+    "terroristsAccount": 20550,
+    "terroristsEquipment": 27100,
+    "ctAccount": 9850,
+    "ctEquipment": 6350
+  },
+  "2087": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9850,
+    "ctEquipment": 6350
+  },
+  "2089": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9650,
+    "ctEquipment": 6550
+  },
+  "2090": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2097": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2098": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2102": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2103": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2111": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2117": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2124": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2126": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2128": {
+    "terroristsAccount": 20350,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2130": {
+    "terroristsAccount": 20650,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2131": {
+    "terroristsAccount": 20650,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2132": {
+    "terroristsAccount": 20950,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2134": {
+    "terroristsAccount": 20950,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2136": {
+    "terroristsAccount": 21250,
+    "terroristsEquipment": 27300,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2138": {
+    "terroristsAccount": 21250,
+    "terroristsEquipment": 26800,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2140": {
+    "terroristsAccount": 21250,
+    "terroristsEquipment": 26800,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2142": {
+    "terroristsAccount": 21250,
+    "terroristsEquipment": 26800,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2143": {
+    "terroristsAccount": 21250,
+    "terroristsEquipment": 26600,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2148": {
+    "terroristsAccount": 21550,
+    "terroristsEquipment": 26600,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2151": {
+    "terroristsAccount": 21550,
+    "terroristsEquipment": 26100,
+    "ctAccount": 9350,
+    "ctEquipment": 6650
+  },
+  "2152": {
+    "terroristsAccount": 21550,
+    "terroristsEquipment": 26100,
+    "ctAccount": 9650,
+    "ctEquipment": 6650
+  },
+  "2154": {
+    "terroristsAccount": 21550,
+    "terroristsEquipment": 26100,
+    "ctAccount": 9650,
+    "ctEquipment": 6650
+  },
+  "2156": {
+    "terroristsAccount": 21550,
+    "terroristsEquipment": 26100,
+    "ctAccount": 9650,
+    "ctEquipment": 6750
+  },
+  "2157": {
+    "terroristsAccount": 21550,
+    "terroristsEquipment": 26100,
+    "ctAccount": 9650,
+    "ctEquipment": 9450
+  },
+  "2163": {
+    "terroristsAccount": 21550,
+    "terroristsEquipment": 26100,
+    "ctAccount": 9950,
+    "ctEquipment": 9450
+  },
+  "2168": {
+    "terroristsAccount": 21850,
+    "terroristsEquipment": 26100,
+    "ctAccount": 10250,
+    "ctEquipment": 9450
+  },
+  "2180": {
+    "terroristsAccount": 21850,
+    "terroristsEquipment": 26400,
+    "ctAccount": 10250,
+    "ctEquipment": 9450
+  },
+  "2201": {
+    "terroristsAccount": 38400,
+    "terroristsEquipment": 26400,
+    "ctAccount": 22250,
+    "ctEquipment": 9850
+  },
+  "2202": {
+    "terroristsAccount": 38400,
+    "terroristsEquipment": 26000,
+    "ctAccount": 22250,
+    "ctEquipment": 9850
+  },
+  "2206": {
+    "terroristsAccount": 38400,
+    "terroristsEquipment": 10800,
+    "ctAccount": 19150,
+    "ctEquipment": 4100
+  },
+  "2207": {
+    "terroristsAccount": 38400,
+    "terroristsEquipment": 10800,
+    "ctAccount": 11800,
+    "ctEquipment": 11450
+  },
+  "2208": {
+    "terroristsAccount": 38400,
+    "terroristsEquipment": 10800,
+    "ctAccount": 5150,
+    "ctEquipment": 18100
+  },
+  "2209": {
+    "terroristsAccount": 37600,
+    "terroristsEquipment": 11600,
+    "ctAccount": 3200,
+    "ctEquipment": 20050
+  },
+  "2210": {
+    "terroristsAccount": 36000,
+    "terroristsEquipment": 13200,
+    "ctAccount": 2900,
+    "ctEquipment": 20350
+  },
+  "2211": {
+    "terroristsAccount": 36000,
+    "terroristsEquipment": 13200,
+    "ctAccount": 2250,
+    "ctEquipment": 21000
+  },
+  "2212": {
+    "terroristsAccount": 35800,
+    "terroristsEquipment": 16100,
+    "ctAccount": 1850,
+    "ctEquipment": 21400
+  },
+  "2213": {
+    "terroristsAccount": 35800,
+    "terroristsEquipment": 16100,
+    "ctAccount": 900,
+    "ctEquipment": 22350
+  },
+  "2214": {
+    "terroristsAccount": 30400,
+    "terroristsEquipment": 18800,
+    "ctAccount": 600,
+    "ctEquipment": 22650
+  },
+  "2215": {
+    "terroristsAccount": 25700,
+    "terroristsEquipment": 23500,
+    "ctAccount": 600,
+    "ctEquipment": 22650
+  },
+  "2216": {
+    "terroristsAccount": 24900,
+    "terroristsEquipment": 24300,
+    "ctAccount": 600,
+    "ctEquipment": 22650
+  },
+  "2217": {
+    "terroristsAccount": 24200,
+    "terroristsEquipment": 25000,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2218": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2221": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2229": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2230": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2233": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2234": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2235": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2236": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2238": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2253": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2256": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2257": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2258": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2262": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2270": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2271": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2272": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2285": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2286": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2289": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 400,
+    "ctEquipment": 22850
+  },
+  "2291": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25800,
+    "ctAccount": 700,
+    "ctEquipment": 22850
+  },
+  "2293": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25000,
+    "ctAccount": 700,
+    "ctEquipment": 22850
+  },
+  "2294": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25000,
+    "ctAccount": 700,
+    "ctEquipment": 22850
+  },
+  "2296": {
+    "terroristsAccount": 23400,
+    "terroristsEquipment": 25000,
+    "ctAccount": 700,
+    "ctEquipment": 21550
+  },
+  "2298": {
+    "terroristsAccount": 23700,
+    "terroristsEquipment": 25000,
+    "ctAccount": 700,
+    "ctEquipment": 21550
+  },
+  "2299": {
+    "terroristsAccount": 23700,
+    "terroristsEquipment": 25000,
+    "ctAccount": 1000,
+    "ctEquipment": 21550
+  },
+  "2300": {
+    "terroristsAccount": 23700,
+    "terroristsEquipment": 25000,
+    "ctAccount": 1000,
+    "ctEquipment": 21550
+  },
+  "2303": {
+    "terroristsAccount": 23700,
+    "terroristsEquipment": 24600,
+    "ctAccount": 1000,
+    "ctEquipment": 21550
+  },
+  "2305": {
+    "terroristsAccount": 23700,
+    "terroristsEquipment": 24600,
+    "ctAccount": 1000,
+    "ctEquipment": 21550
+  },
+  "2310": {
+    "terroristsAccount": 23700,
+    "terroristsEquipment": 24600,
+    "ctAccount": 1000,
+    "ctEquipment": 21550
+  },
+  "2316": {
+    "terroristsAccount": 23700,
+    "terroristsEquipment": 24600,
+    "ctAccount": 1300,
+    "ctEquipment": 21550
+  },
+  "2317": {
+    "terroristsAccount": 23700,
+    "terroristsEquipment": 24600,
+    "ctAccount": 1300,
+    "ctEquipment": 21550
+  },
+  "2321": {
+    "terroristsAccount": 23700,
+    "terroristsEquipment": 24600,
+    "ctAccount": 1300,
+    "ctEquipment": 21550
+  },
+  "2325": {
+    "terroristsAccount": 23700,
+    "terroristsEquipment": 24600,
+    "ctAccount": 1600,
+    "ctEquipment": 21550
+  },
+  "2326": {
+    "terroristsAccount": 24300,
+    "terroristsEquipment": 24600,
+    "ctAccount": 1600,
+    "ctEquipment": 21550
+  },
+  "2332": {
+    "terroristsAccount": 24600,
+    "terroristsEquipment": 24600,
+    "ctAccount": 1600,
+    "ctEquipment": 21550
+  },
+  "2346": {
+    "terroristsAccount": 24600,
+    "terroristsEquipment": 24600,
+    "ctAccount": 1900,
+    "ctEquipment": 21550
+  },
+  "2350": {
+    "terroristsAccount": 24600,
+    "terroristsEquipment": 24600,
+    "ctAccount": 1900,
+    "ctEquipment": 20650
+  },
+  "2354": {
+    "terroristsAccount": 24600,
+    "terroristsEquipment": 24600,
+    "ctAccount": 1900,
+    "ctEquipment": 21050
+  },
+  "2360": {
+    "terroristsAccount": 35600,
+    "terroristsEquipment": 24600,
+    "ctAccount": 19700,
+    "ctEquipment": 21050
+  },
+  "2364": {
+    "terroristsAccount": 35600,
+    "terroristsEquipment": 24600,
+    "ctAccount": 19700,
+    "ctEquipment": 20050
+  },
+  "2365": {
+    "terroristsAccount": 35600,
+    "terroristsEquipment": 1000,
+    "ctAccount": 19700,
+    "ctEquipment": 8100
+  },
+  "2366": {
+    "terroristsAccount": 35600,
+    "terroristsEquipment": 1000,
+    "ctAccount": 16600,
+    "ctEquipment": 11200
+  },
+  "2367": {
+    "terroristsAccount": 35600,
+    "terroristsEquipment": 1000,
+    "ctAccount": 12200,
+    "ctEquipment": 12900
+  },
+  "2368": {
+    "terroristsAccount": 23450,
+    "terroristsEquipment": 13150,
+    "ctAccount": 12200,
+    "ctEquipment": 12900
+  },
+  "2369": {
+    "terroristsAccount": 21650,
+    "terroristsEquipment": 14950,
+    "ctAccount": 9100,
+    "ctEquipment": 16000
+  },
+  "2370": {
+    "terroristsAccount": 20450,
+    "terroristsEquipment": 16150,
+    "ctAccount": 8100,
+    "ctEquipment": 17000
+  },
+  "2371": {
+    "terroristsAccount": 12950,
+    "terroristsEquipment": 23650,
+    "ctAccount": 7000,
+    "ctEquipment": 18100
+  },
+  "2372": {
+    "terroristsAccount": 11950,
+    "terroristsEquipment": 24650,
+    "ctAccount": 6000,
+    "ctEquipment": 15600
+  },
+  "2373": {
+    "terroristsAccount": 9750,
+    "terroristsEquipment": 26850,
+    "ctAccount": 5200,
+    "ctEquipment": 19500
+  },
+  "2374": {
+    "terroristsAccount": 9750,
+    "terroristsEquipment": 26850,
+    "ctAccount": 4900,
+    "ctEquipment": 19800
+  },
+  "2375": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 2800,
+    "ctEquipment": 19200
+  },
+  "2376": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 20100
+  },
+  "2381": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2390": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2391": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2394": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2396": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2398": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2401": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2402": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2407": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2408": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2416": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2419": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2420": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2423": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2426": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2428": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2429": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2430": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2431": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2433": {
+    "terroristsAccount": 9450,
+    "terroristsEquipment": 27250,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2434": {
+    "terroristsAccount": 9450,
+    "terroristsEquipment": 26350,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2435": {
+    "terroristsAccount": 9450,
+    "terroristsEquipment": 26350,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2437": {
+    "terroristsAccount": 9450,
+    "terroristsEquipment": 26350,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2438": {
+    "terroristsAccount": 9450,
+    "terroristsEquipment": 26350,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2440": {
+    "terroristsAccount": 9450,
+    "terroristsEquipment": 26350,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2441": {
+    "terroristsAccount": 9450,
+    "terroristsEquipment": 26350,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2443": {
+    "terroristsAccount": 9750,
+    "terroristsEquipment": 26350,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2446": {
+    "terroristsAccount": 10050,
+    "terroristsEquipment": 26350,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2450": {
+    "terroristsAccount": 10350,
+    "terroristsEquipment": 26350,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2455": {
+    "terroristsAccount": 10650,
+    "terroristsEquipment": 26350,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2459": {
+    "terroristsAccount": 10650,
+    "terroristsEquipment": 26350,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2473": {
+    "terroristsAccount": 10650,
+    "terroristsEquipment": 26350,
+    "ctAccount": 1900,
+    "ctEquipment": 25900
+  },
+  "2476": {
+    "terroristsAccount": 10650,
+    "terroristsEquipment": 26350,
+    "ctAccount": 2200,
+    "ctEquipment": 25900
+  },
+  "2482": {
+    "terroristsAccount": 10650,
+    "terroristsEquipment": 26350,
+    "ctAccount": 2200,
+    "ctEquipment": 25900
+  },
+  "2488": {
+    "terroristsAccount": 27200,
+    "terroristsEquipment": 26350,
+    "ctAccount": 9200,
+    "ctEquipment": 25900
+  },
+  "2493": {
+    "terroristsAccount": 26400,
+    "terroristsEquipment": 19750,
+    "ctAccount": 8000,
+    "ctEquipment": 1800
+  },
+  "2494": {
+    "terroristsAccount": 26000,
+    "terroristsEquipment": 20150,
+    "ctAccount": 7350,
+    "ctEquipment": 2450
+  },
+  "2495": {
+    "terroristsAccount": 25300,
+    "terroristsEquipment": 20850,
+    "ctAccount": 3800,
+    "ctEquipment": 5600
+  },
+  "2496": {
+    "terroristsAccount": 24100,
+    "terroristsEquipment": 22050,
+    "ctAccount": 2800,
+    "ctEquipment": 6400
+  },
+  "2497": {
+    "terroristsAccount": 23700,
+    "terroristsEquipment": 22450,
+    "ctAccount": 1500,
+    "ctEquipment": 7700
+  },
+  "2498": {
+    "terroristsAccount": 21000,
+    "terroristsEquipment": 25150,
+    "ctAccount": 900,
+    "ctEquipment": 8300
+  },
+  "2499": {
+    "terroristsAccount": 21000,
+    "terroristsEquipment": 25150,
+    "ctAccount": 500,
+    "ctEquipment": 8700
+  },
+  "2500": {
+    "terroristsAccount": 21000,
+    "terroristsEquipment": 25150,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2503": {
+    "terroristsAccount": 21000,
+    "terroristsEquipment": 25150,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2504": {
+    "terroristsAccount": 21000,
+    "terroristsEquipment": 25150,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2505": {
+    "terroristsAccount": 19700,
+    "terroristsEquipment": 26250,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2506": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2507": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2508": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2519": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2520": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2522": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2533": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2537": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2542": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2543": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 300,
+    "ctEquipment": 8900
+  },
+  "2544": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 400,
+    "ctEquipment": 8900
+  },
+  "2548": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 400,
+    "ctEquipment": 8900
+  },
+  "2554": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 400,
+    "ctEquipment": 8900
+  },
+  "2555": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 400,
+    "ctEquipment": 8900
+  },
+  "2557": {
+    "terroristsAccount": 18600,
+    "terroristsEquipment": 27350,
+    "ctAccount": 400,
+    "ctEquipment": 8900
+  },
+  "2558": {
+    "terroristsAccount": 18900,
+    "terroristsEquipment": 27350,
+    "ctAccount": 400,
+    "ctEquipment": 8900
+  },
+  "2560": {
+    "terroristsAccount": 18900,
+    "terroristsEquipment": 27350,
+    "ctAccount": 400,
+    "ctEquipment": 8900
+  },
+  "2566": {
+    "terroristsAccount": 18900,
+    "terroristsEquipment": 27350,
+    "ctAccount": 700,
+    "ctEquipment": 8900
+  },
+  "2568": {
+    "terroristsAccount": 18900,
+    "terroristsEquipment": 27350,
+    "ctAccount": 700,
+    "ctEquipment": 8900
+  },
+  "2571": {
+    "terroristsAccount": 18900,
+    "terroristsEquipment": 27350,
+    "ctAccount": 700,
+    "ctEquipment": 8900
+  },
+  "2572": {
+    "terroristsAccount": 18900,
+    "terroristsEquipment": 27350,
+    "ctAccount": 800,
+    "ctEquipment": 8900
+  },
+  "2575": {
+    "terroristsAccount": 18900,
+    "terroristsEquipment": 27350,
+    "ctAccount": 900,
+    "ctEquipment": 8900
+  },
+  "2578": {
+    "terroristsAccount": 18900,
+    "terroristsEquipment": 27350,
+    "ctAccount": 900,
+    "ctEquipment": 11500
+  },
+  "2581": {
+    "terroristsAccount": 19200,
+    "terroristsEquipment": 27350,
+    "ctAccount": 900,
+    "ctEquipment": 11500
+  },
+  "2589": {
+    "terroristsAccount": 26200,
+    "terroristsEquipment": 27350,
+    "ctAccount": 17250,
+    "ctEquipment": 11500
+  },
+  "2590": {
+    "terroristsAccount": 26200,
+    "terroristsEquipment": 27350,
+    "ctAccount": 17250,
+    "ctEquipment": 14200
+  },
+  "2591": {
+    "terroristsAccount": 26200,
+    "terroristsEquipment": 27350,
+    "ctAccount": 17250,
+    "ctEquipment": 15900
+  },
+  "2592": {
+    "terroristsAccount": 26200,
+    "terroristsEquipment": 27350,
+    "ctAccount": 17250,
+    "ctEquipment": 15900
+  },
+  "2594": {
+    "terroristsAccount": 26200,
+    "terroristsEquipment": 1000,
+    "ctAccount": 17250,
+    "ctEquipment": 13600
+  },
+  "2595": {
+    "terroristsAccount": 26200,
+    "terroristsEquipment": 1000,
+    "ctAccount": 15850,
+    "ctEquipment": 15000
+  },
+  "2596": {
+    "terroristsAccount": 26200,
+    "terroristsEquipment": 1000,
+    "ctAccount": 15150,
+    "ctEquipment": 15700
+  },
+  "2601": {
+    "terroristsAccount": 26200,
+    "terroristsEquipment": 1000,
+    "ctAccount": 11750,
+    "ctEquipment": 16400
+  },
+  "2602": {
+    "terroristsAccount": 26200,
+    "terroristsEquipment": 1000,
+    "ctAccount": 11750,
+    "ctEquipment": 19500
+  },
+  "2603": {
+    "terroristsAccount": 26200,
+    "terroristsEquipment": 1000,
+    "ctAccount": 10850,
+    "ctEquipment": 20000
+  },
+  "2604": {
+    "terroristsAccount": 26200,
+    "terroristsEquipment": 1000,
+    "ctAccount": 9650,
+    "ctEquipment": 21200
+  },
+  "2605": {
+    "terroristsAccount": 26200,
+    "terroristsEquipment": 1000,
+    "ctAccount": 9650,
+    "ctEquipment": 21200
+  },
+  "2606": {
+    "terroristsAccount": 20450,
+    "terroristsEquipment": 6750,
+    "ctAccount": 7450,
+    "ctEquipment": 26100
+  },
+  "2607": {
+    "terroristsAccount": 20450,
+    "terroristsEquipment": 6750,
+    "ctAccount": 6850,
+    "ctEquipment": 26700
+  },
+  "2611": {
+    "terroristsAccount": 20450,
+    "terroristsEquipment": 6750,
+    "ctAccount": 3750,
+    "ctEquipment": 27100
+  },
+  "2612": {
+    "terroristsAccount": 20450,
+    "terroristsEquipment": 6750,
+    "ctAccount": 3750,
+    "ctEquipment": 27100
+  },
+  "2613": {
+    "terroristsAccount": 20450,
+    "terroristsEquipment": 6750,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2629": {
+    "terroristsAccount": 16750,
+    "terroristsEquipment": 10450,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2631": {
+    "terroristsAccount": 12950,
+    "terroristsEquipment": 14250,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2632": {
+    "terroristsAccount": 6650,
+    "terroristsEquipment": 20550,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2633": {
+    "terroristsAccount": 6250,
+    "terroristsEquipment": 20950,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2634": {
+    "terroristsAccount": 5850,
+    "terroristsEquipment": 21350,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2639": {
+    "terroristsAccount": 4650,
+    "terroristsEquipment": 22550,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2640": {
+    "terroristsAccount": 3650,
+    "terroristsEquipment": 22350,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2641": {
+    "terroristsAccount": 2550,
+    "terroristsEquipment": 23450,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2642": {
+    "terroristsAccount": 2550,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2652": {
+    "terroristsAccount": 2550,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2653": {
+    "terroristsAccount": 2550,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2654": {
+    "terroristsAccount": 2550,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2661": {
+    "terroristsAccount": 2550,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2664": {
+    "terroristsAccount": 2550,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2666": {
+    "terroristsAccount": 2550,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2673": {
+    "terroristsAccount": 2550,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2674": {
+    "terroristsAccount": 2550,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2675": {
+    "terroristsAccount": 2550,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2676": {
+    "terroristsAccount": 2850,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2678": {
+    "terroristsAccount": 2850,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2679": {
+    "terroristsAccount": 2850,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2680": {
+    "terroristsAccount": 2850,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3450,
+    "ctEquipment": 27400
+  },
+  "2681": {
+    "terroristsAccount": 2850,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3750,
+    "ctEquipment": 27400
+  },
+  "2683": {
+    "terroristsAccount": 2850,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3750,
+    "ctEquipment": 27400
+  },
+  "2684": {
+    "terroristsAccount": 2850,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3750,
+    "ctEquipment": 27400
+  },
+  "2685": {
+    "terroristsAccount": 3450,
+    "terroristsEquipment": 24650,
+    "ctAccount": 3750,
+    "ctEquipment": 27400
+  },
+  "2686": {
+    "terroristsAccount": 3450,
+    "terroristsEquipment": 25650,
+    "ctAccount": 3750,
+    "ctEquipment": 27400
+  },
+  "2690": {
+    "terroristsAccount": 3450,
+    "terroristsEquipment": 25950,
+    "ctAccount": 3750,
+    "ctEquipment": 27400
+  },
+  "2691": {
+    "terroristsAccount": 3750,
+    "terroristsEquipment": 25950,
+    "ctAccount": 3750,
+    "ctEquipment": 27400
+  },
+  "2692": {
+    "terroristsAccount": 3750,
+    "terroristsEquipment": 25950,
+    "ctAccount": 3750,
+    "ctEquipment": 27400
+  },
+  "2695": {
+    "terroristsAccount": 3750,
+    "terroristsEquipment": 25950,
+    "ctAccount": 3750,
+    "ctEquipment": 27400
+  },
+  "2696": {
+    "terroristsAccount": 3750,
+    "terroristsEquipment": 26550,
+    "ctAccount": 3750,
+    "ctEquipment": 27400
+  },
+  "2698": {
+    "terroristsAccount": 4050,
+    "terroristsEquipment": 26550,
+    "ctAccount": 3750,
+    "ctEquipment": 27400
+  },
+  "2704": {
+    "terroristsAccount": 4350,
+    "terroristsEquipment": 26050,
+    "ctAccount": 3750,
+    "ctEquipment": 27400
+  },
+  "2750": {
+    "terroristsAccount": 21850,
+    "terroristsEquipment": 20150,
+    "ctAccount": 10750,
+    "ctEquipment": 5200
+  },
+  "2751": {
+    "terroristsAccount": 21850,
+    "terroristsEquipment": 20150,
+    "ctAccount": 9550,
+    "ctEquipment": 6400
+  },
+  "2752": {
+    "terroristsAccount": 21150,
+    "terroristsEquipment": 20850,
+    "ctAccount": 8350,
+    "ctEquipment": 7600
+  },
+  "2753": {
+    "terroristsAccount": 19950,
+    "terroristsEquipment": 22050,
+    "ctAccount": 7650,
+    "ctEquipment": 7600
+  },
+  "2754": {
+    "terroristsAccount": 19750,
+    "terroristsEquipment": 22250,
+    "ctAccount": 7350,
+    "ctEquipment": 7200
+  },
+  "2755": {
+    "terroristsAccount": 17050,
+    "terroristsEquipment": 24950,
+    "ctAccount": 6950,
+    "ctEquipment": 8100
+  },
+  "2756": {
+    "terroristsAccount": 16650,
+    "terroristsEquipment": 25350,
+    "ctAccount": 5150,
+    "ctEquipment": 9700
+  },
+  "2757": {
+    "terroristsAccount": 15250,
+    "terroristsEquipment": 26750,
+    "ctAccount": 4550,
+    "ctEquipment": 10300
+  },
+  "2758": {
+    "terroristsAccount": 14550,
+    "terroristsEquipment": 27450,
+    "ctAccount": 4550,
+    "ctEquipment": 10300
+  },
+  "2762": {
+    "terroristsAccount": 14550,
+    "terroristsEquipment": 27450,
+    "ctAccount": 4550,
+    "ctEquipment": 10300
+  },
+  "2763": {
+    "terroristsAccount": 14550,
+    "terroristsEquipment": 27450,
+    "ctAccount": 1650,
+    "ctEquipment": 14400
+  },
+  "2764": {
+    "terroristsAccount": 14550,
+    "terroristsEquipment": 27450,
+    "ctAccount": 1650,
+    "ctEquipment": 13400
+  },
+  "2765": {
+    "terroristsAccount": 14550,
+    "terroristsEquipment": 27450,
+    "ctAccount": 350,
+    "ctEquipment": 14700
+  },
+  "2766": {
+    "terroristsAccount": 14550,
+    "terroristsEquipment": 27450,
+    "ctAccount": 50,
+    "ctEquipment": 15000
+  },
+  "2770": {
+    "terroristsAccount": 14550,
+    "terroristsEquipment": 27450,
+    "ctAccount": 50,
+    "ctEquipment": 15300
+  },
+  "2774": {
+    "terroristsAccount": 14550,
+    "terroristsEquipment": 27450,
+    "ctAccount": 50,
+    "ctEquipment": 15300
+  },
+  "2776": {
+    "terroristsAccount": 14550,
+    "terroristsEquipment": 27450,
+    "ctAccount": 50,
+    "ctEquipment": 15300
+  },
+  "2777": {
+    "terroristsAccount": 14550,
+    "terroristsEquipment": 27450,
+    "ctAccount": 50,
+    "ctEquipment": 15300
+  },
+  "2779": {
+    "terroristsAccount": 14550,
+    "terroristsEquipment": 27450,
+    "ctAccount": 50,
+    "ctEquipment": 15300
+  },
+  "2781": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 27450,
+    "ctAccount": 350,
+    "ctEquipment": 15300
+  },
+  "2782": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 27450,
+    "ctAccount": 350,
+    "ctEquipment": 15300
+  },
+  "2787": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 27450,
+    "ctAccount": 350,
+    "ctEquipment": 15300
+  },
+  "2788": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 27450,
+    "ctAccount": 350,
+    "ctEquipment": 15300
+  },
+  "2789": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 27450,
+    "ctAccount": 350,
+    "ctEquipment": 15300
+  },
+  "2790": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 27450,
+    "ctAccount": 350,
+    "ctEquipment": 15300
+  },
+  "2791": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 27250,
+    "ctAccount": 350,
+    "ctEquipment": 15300
+  },
+  "2792": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 27250,
+    "ctAccount": 350,
+    "ctEquipment": 15300
+  },
+  "2796": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 27250,
+    "ctAccount": 350,
+    "ctEquipment": 15300
+  },
+  "2797": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 27250,
+    "ctAccount": 350,
+    "ctEquipment": 15300
+  },
+  "2799": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 27250,
+    "ctAccount": 350,
+    "ctEquipment": 15300
+  },
+  "2800": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 27250,
+    "ctAccount": 350,
+    "ctEquipment": 15300
+  },
+  "2801": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 27250,
+    "ctAccount": 350,
+    "ctEquipment": 17700
+  },
+  "2804": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26350,
+    "ctAccount": 350,
+    "ctEquipment": 17700
+  },
+  "2805": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26350,
+    "ctAccount": 650,
+    "ctEquipment": 17700
+  },
+  "2812": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26650,
+    "ctAccount": 650,
+    "ctEquipment": 17700
+  },
+  "2814": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26650,
+    "ctAccount": 650,
+    "ctEquipment": 17700
+  },
+  "2815": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26650,
+    "ctAccount": 950,
+    "ctEquipment": 17700
+  },
+  "2816": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26650,
+    "ctAccount": 950,
+    "ctEquipment": 17700
+  },
+  "2817": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26650,
+    "ctAccount": 1250,
+    "ctEquipment": 17700
+  },
+  "2819": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26650,
+    "ctAccount": 1250,
+    "ctEquipment": 17700
+  },
+  "2821": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26650,
+    "ctAccount": 1250,
+    "ctEquipment": 17700
+  },
+  "2823": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26650,
+    "ctAccount": 1250,
+    "ctEquipment": 17850
+  },
+  "2824": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26650,
+    "ctAccount": 1250,
+    "ctEquipment": 17850
+  },
+  "2828": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26650,
+    "ctAccount": 1250,
+    "ctEquipment": 19900
+  },
+  "2830": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26650,
+    "ctAccount": 1250,
+    "ctEquipment": 19900
+  },
+  "2831": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26650,
+    "ctAccount": 1250,
+    "ctEquipment": 19900
+  },
+  "2836": {
+    "terroristsAccount": 14850,
+    "terroristsEquipment": 26650,
+    "ctAccount": 1250,
+    "ctEquipment": 20350
+  },
+  "2855": {
+    "terroristsAccount": 14950,
+    "terroristsEquipment": 26650,
+    "ctAccount": 1250,
+    "ctEquipment": 20350
+  },
+  "2863": {
+    "terroristsAccount": 22050,
+    "terroristsEquipment": 26650,
+    "ctAccount": 17800,
+    "ctEquipment": 20350
+  },
+  "2866": {
+    "terroristsAccount": 22050,
+    "terroristsEquipment": 26650,
+    "ctAccount": 17800,
+    "ctEquipment": 22200
+  },
+  "2868": {
+    "terroristsAccount": 22050,
+    "terroristsEquipment": 1000,
+    "ctAccount": 17800,
+    "ctEquipment": 9800
+  },
+  "2870": {
+    "terroristsAccount": 22050,
+    "terroristsEquipment": 1000,
+    "ctAccount": 17800,
+    "ctEquipment": 9800
+  },
+  "2871": {
+    "terroristsAccount": 22050,
+    "terroristsEquipment": 1000,
+    "ctAccount": 16800,
+    "ctEquipment": 15550
+  },
+  "2872": {
+    "terroristsAccount": 21050,
+    "terroristsEquipment": 2000,
+    "ctAccount": 16800,
+    "ctEquipment": 15550
+  },
+  "2873": {
+    "terroristsAccount": 21050,
+    "terroristsEquipment": 2000,
+    "ctAccount": 13500,
+    "ctEquipment": 14100
+  },
+  "2874": {
+    "terroristsAccount": 17350,
+    "terroristsEquipment": 5700,
+    "ctAccount": 13000,
+    "ctEquipment": 14600
+  },
+  "2875": {
+    "terroristsAccount": 12600,
+    "terroristsEquipment": 8400,
+    "ctAccount": 12600,
+    "ctEquipment": 15000
+  },
+  "2876": {
+    "terroristsAccount": 12300,
+    "terroristsEquipment": 10750,
+    "ctAccount": 12600,
+    "ctEquipment": 15000
+  },
+  "2877": {
+    "terroristsAccount": 12300,
+    "terroristsEquipment": 10750,
+    "ctAccount": 9200,
+    "ctEquipment": 17200
+  },
+  "2878": {
+    "terroristsAccount": 12300,
+    "terroristsEquipment": 10750,
+    "ctAccount": 8800,
+    "ctEquipment": 17600
+  },
+  "2879": {
+    "terroristsAccount": 12300,
+    "terroristsEquipment": 10750,
+    "ctAccount": 8300,
+    "ctEquipment": 19100
+  },
+  "2880": {
+    "terroristsAccount": 12300,
+    "terroristsEquipment": 10750,
+    "ctAccount": 8100,
+    "ctEquipment": 19300
+  },
+  "2881": {
+    "terroristsAccount": 12300,
+    "terroristsEquipment": 10750,
+    "ctAccount": 5700,
+    "ctEquipment": 21700
+  },
+  "2886": {
+    "terroristsAccount": 12300,
+    "terroristsEquipment": 10750,
+    "ctAccount": 5300,
+    "ctEquipment": 22100
+  },
+  "2902": {
+    "terroristsAccount": 12300,
+    "terroristsEquipment": 10750,
+    "ctAccount": 2200,
+    "ctEquipment": 25200
+  },
+  "2903": {
+    "terroristsAccount": 10100,
+    "terroristsEquipment": 12950,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2904": {
+    "terroristsAccount": 9400,
+    "terroristsEquipment": 13650,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2905": {
+    "terroristsAccount": 9350,
+    "terroristsEquipment": 13700,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2908": {
+    "terroristsAccount": 5150,
+    "terroristsEquipment": 17900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2909": {
+    "terroristsAccount": 4950,
+    "terroristsEquipment": 18100,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2910": {
+    "terroristsAccount": 4550,
+    "terroristsEquipment": 18500,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2914": {
+    "terroristsAccount": 3050,
+    "terroristsEquipment": 19800,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2915": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2933": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2936": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2937": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2960": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2964": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2965": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2967": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2971": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2972": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2973": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2978": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2980": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2981": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2988": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "2991": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "3001": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "3003": {
+    "terroristsAccount": 1950,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1250,
+    "ctEquipment": 26150
+  },
+  "3007": {
+    "terroristsAccount": 2250,
+    "terroristsEquipment": 20900,
+    "ctAccount": 1550,
+    "ctEquipment": 26150
+  },
+  "3009": {
+    "terroristsAccount": 2250,
+    "terroristsEquipment": 21200,
+    "ctAccount": 1550,
+    "ctEquipment": 26150
+  },
+  "3013": {
+    "terroristsAccount": 2550,
+    "terroristsEquipment": 21200,
+    "ctAccount": 1550,
+    "ctEquipment": 26150
+  },
+  "3015": {
+    "terroristsAccount": 2550,
+    "terroristsEquipment": 21200,
+    "ctAccount": 1850,
+    "ctEquipment": 26150
+  },
+  "3017": {
+    "terroristsAccount": 2850,
+    "terroristsEquipment": 21200,
+    "ctAccount": 1850,
+    "ctEquipment": 26150
+  },
+  "3018": {
+    "terroristsAccount": 2850,
+    "terroristsEquipment": 21200,
+    "ctAccount": 1950,
+    "ctEquipment": 26150
+  },
+  "3019": {
+    "terroristsAccount": 19800,
+    "terroristsEquipment": 21200,
+    "ctAccount": 8950,
+    "ctEquipment": 26150
+  },
+  "3020": {
+    "terroristsAccount": 19800,
+    "terroristsEquipment": 21200,
+    "ctAccount": 8950,
+    "ctEquipment": 26150
+  }
+}
