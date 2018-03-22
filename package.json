@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "demofile": "^0.4.15",
+    "demofile": "^0.4.16",
     "save": "^2.3.2"
   }
 }
