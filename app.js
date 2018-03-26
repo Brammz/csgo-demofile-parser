@@ -104,7 +104,7 @@ function parseRounds() {
  * 	1. PLayer name
  *  2. Current account
  *	3. K/A/D
- *	4. Accuracy & HS accuracy
+ *	4. HS %
  *
  * @update
  * 1. round_announce_match_start
@@ -114,7 +114,7 @@ function parseRounds() {
  *		round_officially_ended
  *		buy NOTE not possible
  * 3. player_death
- * 4. weapon_fire
+ * 4. round_officially_ended
  *
  * @returns
  *	{
@@ -129,8 +129,7 @@ function parseRounds() {
  *						kills,
  *						assists,
  *						deaths,
- *						accuracy,
- *						hsAccuracy
+ *						hsPercentage
  *					},
  *				]
  *			},
@@ -139,6 +138,9 @@ function parseRounds() {
  */
 function parseScoreboard() {
 	let json = {};
+	let totalKills = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+	let totalHeadshotKills = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+	let headShotPercentage = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
 	function logScoreboardInfo(demoFile) {
 		let teamT = demoFile.teams[demofile.TEAM_TERRORISTS];
 		let teamCT = demoFile.teams[demofile.TEAM_CTS];
@@ -150,6 +152,7 @@ function parseScoreboard() {
 		json[time]['terrorists']['teamName'] = teamT.clanName;
 		json[time]['terrorists']['score'] = teamT.score;
 		json[time]['terrorists']['players'] = [];
+		let i = 0;
 		for (p of teamT.members) {
 			json[time]['terrorists']['players'].push({
 				'name': p.name,
@@ -157,9 +160,9 @@ function parseScoreboard() {
 				'kills': p.kills,
 				'assists': p.assists,
 				'deaths': p.deaths,
-				'accuracy': 0,
-				'hsAccuracy': 0
+				'hsPercentage': headShotPercentage[i]
 			});
+			i++;
 		}
 		json[time]['cts'] = {};
 		json[time]['cts']['teamName'] = teamCT.clanName;
@@ -172,9 +175,9 @@ function parseScoreboard() {
 				'kills': p.kills,
 				'assists': p.assists,
 				'deaths': p.deaths,
-				'accuracy': 0,
-				'hsAccuracy': 0
+				'hsPercentage': headShotPercentage[i]
 			});
+			i++;
 		}
 	}
 
@@ -198,8 +201,7 @@ function parseScoreboard() {
 					'kills': 0,
 					'assists': 0,
 					'deaths': 0,
-					'accuracy': 0,
-					'hsAccuracy': 0
+					'hsPercentage': 0
 				});
 			}
 			json['0']['cts'] = {};
@@ -213,8 +215,7 @@ function parseScoreboard() {
 					'kills': 0,
 					'assists': 0,
 					'deaths': 0,
-					'accuracy': 0,
-					'hsAccuracy': 0
+					'hsPercentage': 0
 				});
 			}
 			logScoreboardInfo(demoFile);
@@ -235,6 +236,27 @@ function parseScoreboard() {
 		demoFile.gameEvents.on('round_officially_ended', () => {
 			logScoreboardInfo(demoFile);
 		});
+
+		demoFile.gameEvents.on('round_end', () => {
+			let teamT = demoFile.teams[demofile.TEAM_TERRORISTS];
+			let teamCT = demoFile.teams[demofile.TEAM_CTS];
+			if (teamT == undefined || teamCT == undefined) return;
+			let roundNumber = demoFile.gameRules.roundsPlayed;
+			if (roundNumber > 30) return;
+			let i = 0;
+			for (p of teamT.members) {
+				totalKills[i] += p.matchStats[roundNumber-1].kills;
+				totalHeadshotKills[i] += p.matchStats[roundNumber-1].headShotKills;
+				headShotPercentage[i] = Math.round(totalHeadshotKills[i] / totalKills[i] * 100);
+				i++;
+			}
+			for (p of teamCT.members) {
+				totalKills[i] += p.matchStats[roundNumber-1].kills;
+				totalHeadshotKills[i] += p.matchStats[roundNumber-1].headShotKills;
+				headShotPercentage[i] = Math.round(totalHeadshotKills[i] / totalKills[i] * 100);
+				i++;
+			}
+    });
 
 		demoFile.on('end', () => {
 			let fileName = demoPath.substring(0, demoPath.length-4) + '-scores.json';
@@ -674,7 +696,6 @@ function parseMap() {
 					terroristDeaths.push(victim.position);
 				}
 				logLocations();
-				//console.log('%s at (%s, %s, %s) killed %s at (%s, %s, %s)', attacker.name, victim.name, victim.position.x, victim.position.y, victim.position.z);
 			}
     });
 
@@ -689,7 +710,6 @@ function parseMap() {
 					ctGrenades.push(grenade.position);
 				}
 				logLocations();
-				//console.log('%s threw a grenade at position (%s, %s, %s)', thrower.name,  grenade.position.x.toFixed(2), grenade.position.y.toFixed(2), grenade.position.z.toFixed(2));
 			}
     });
 
@@ -704,7 +724,6 @@ function parseMap() {
 					ctSmokes.push(grenade.position);
 				}
 				logLocations();
-				//console.log('%s threw a smoke at position (%s, %s, %s)', thrower.name,  grenade.position.x.toFixed(2), grenade.position.y.toFixed(2), grenade.position.z.toFixed(2));
 			}
     });
 
@@ -719,7 +738,6 @@ function parseMap() {
 					ctFlashbangs.push(grenade.position);
 				}
 				logLocations();
-				//console.log('%s threw a flashbang at position (%s, %s, %s)', thrower.name,  grenade.position.x.toFixed(2), grenade.position.y.toFixed(2), grenade.position.z.toFixed(2));
 			}
     });
 
@@ -734,7 +752,6 @@ function parseMap() {
 					ctDecoys.push(grenade.position);
 				}
 				logLocations();
-				//console.log('%s threw a decoy at position (%s, %s, %s)', thrower.name,  grenade.position.x.toFixed(2), grenade.position.y.toFixed(2), grenade.position.z.toFixed(2));
 			}
     });
 
@@ -750,111 +767,16 @@ function parseMap() {
 					ctMolotovs.push(grenade.position);
 				}
 				logLocations();
-				//console.log('%s threw a molotov at position (%s, %s, %s)', thrower.name,  grenade.position.x.toFixed(2), grenade.position.y.toFixed(2), grenade.position.z.toFixed(2));
 			}
     });
 
 		demoFile.on('end', () => {
-			/*
-			let allPositions = terroristKills.concat(terroristDeaths, terroristGrenades, terroristSmokes, terroristFlashbangs, terroristDecoys, terroristMolotovs, ctKills, ctDeaths, ctGrenades, ctSmokes, ctFlashbangs, ctDecoys, ctMolotovs);
-			let minX = null;
-			let maxX = null;
-			let minY = null;
-			let maxY = null;
-			let minZ = null;
-			let maxZ = null;
-			for (let position of allPositions) {
-				if (minX == null || position.x < minX) {
-					minX = position.x;
-				}
-				if (maxX == null || position.x > maxX) {
-					maxX = position.x;
-				}
-				if (minY == null || position.y < minY) {
-					minY = position.y;
-				}
-				if (maxY == null || position.y > maxY) {
-					maxY = position.y;
-				}
-				if (minZ == null || position.z < minZ) {
-					minZ = position.z;
-				}
-				if (maxZ == null || position.z > maxZ) {
-					maxZ = position.z;
-				}
-			}
-			console.log('minX: %s', minX);
-			console.log('maxX: %s', maxX);
-			console.log('minY: %s', minY);
-			console.log('maxY: %s', maxY);
-			console.log('minZ: %s', minZ);
-			console.log('maxZ: %s', maxZ);
-			*/
 			let fileName = demoPath.substring(0, demoPath.length-4) + '-map.json';
 			let dir = fileName.split('-', 3).join('-');
 			fs.writeFile('json/' + dir + '/' + fileName, JSON.stringify(json, null, 2), (err) => {
 				if (err) throw err;
 				console.log(fileName + ' has been saved.');
 			});
-    });
-
-		demoFile.parse(buffer);
-	});
-}
-
-/*
- * @info
- * This method parses all data for the map visualization
- * The visualization consists of the following info:
- *	1. Pathing information on the players
- *
- * @update
- * 1.	tick_start || tick_end TODO
- *
- * @returns
- *	[
- *		tick: {
- *			team: {
- *				players: [
- *					{
- *						name,
- *						x,
- *						y,
- *						z
- *					},
- *				]
- *			},
- *		},
- *	]
- */
-function parsePathingMap() {
-	fs.readFile(demoPath, function (err, buffer) {
-		assert.ifError(err);
-
-		let demoFile = new demofile.DemoFile();
-
-		demoFile.gameEvents.on('buymenu_close', e => {
-			console.log('buymenu_close');
-    });
-
-		demoFile.gameEvents.on('buytime_ended', e => {
-			console.log('buytime_ended');
-    });
-
-		demoFile.gameEvents.on('exit_buyzone', e => {
-			console.log('exit_buyzone');
-    });
-
-		demoFile.gameEvents.on('inspect_weapon', e => {
-			console.log('inspect_weapon');
-    });
-
-		demoFile.gameEvents.on('item_purchase', e => {
-			console.log('item_purchase');
-    });
-
-		demoFile.gameEvents.on('round_poststart', e => {
-			console.log('round_poststart');
     });
 
 		demoFile.parse(buffer);
@@ -872,7 +794,6 @@ function parseAll() {
 		parseDamage();
 		parseEconomy();
 		parseMap();
-		//parsePathingMap();
 	}
 }
 
