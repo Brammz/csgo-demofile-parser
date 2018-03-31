@@ -2,7 +2,7 @@
 
 This is a Node.js project used for parsing CSGO demo-files to json-files.
 
-It uses the Node.js library [demofile](https://github.com/saul/demofile) to parse demo-files.
+It uses the [demofile](https://github.com/saul/demofile) library (under the [MIT license](https://github.com/saul/demofile/blob/master/LICENSE)) to parse demo-files.
 
 The parser parses the replay-file and creates a json-file for each visualization.
 Each json-file consists of timestamps at which the information was updated, followed by all the information that is needed to create the corresponding visualization.
